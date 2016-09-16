@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" id="package" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/#" unique-identifier="ean" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Julien's Mes Expressions anglaises</dc:title>
+    <dc:creator>Collectif</dc:creator>
+    <dc:description>Cet ouvrage s'adresse sert d'illustration pour montrer comment importer le contenu d'un livre dans Anki.</dc:description>
+    <dc:publisher>Autopublishing</dc:publisher>
+    <dc:identifier id="ean">XXXXXXXXXXXX</dc:identifier>
+    <dc:language>fr</dc:language>
+    <dc:rights>Julien Sobczak</dc:rights>
+    <meta content="cover" name="cover"/>
+    <meta property="dcterms:modified">2016-03-08T12:09:39Z</meta>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">landscape</meta>
+    <meta content="1" name="GBSProcVer"/>
+    <meta content="GoogleEbooks" name="GBSEpubSource"/>
+  </metadata>
+  <manifest>
+    <item href="images/cover.jpg" id="cover" media-type="image/jpeg" properties="cover-image"/>
+    <item href="images/Page_1.jpg" id="jpg296" media-type="image/jpeg"/>
+    <item href="Page_1.html" id="Page_1" media-type="application/xhtml+xml"/>
+    <item href="Page_2.html" id="Page_2" media-type="application/xhtml+xml"/>
+    <item href="toc.html" id="toc" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="css/ENE.css" id="css288" media-type="text/css"/>
+    <item href="_page_map_.xml" id="_page_map_" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine page-map="_page_map_">
+    <itemref idref="Page_1" linear="yes" properties="page-spread-right"/>
+    <itemref idref="Page_2" linear="yes" properties="page-spread-right"/>
+  <spine>
+</package>

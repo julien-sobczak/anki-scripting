@@ -1,0 +1,119 @@
+{
+  "audio" : {
+    "name" : "en-us-he.ogg",
+    "url" : "http://upload.wikimedia.org/wikipedia/commons/2/2f/En-us-he.ogg",
+    "include" : true
+  },
+  "audio_url" : "http://upload.wikimedia.org/wikipedia/commons/2/2f/En-us-he.ogg",
+  "id" : "345682",
+  "ipa" : "/ˈhiː/",
+  "rank" : 15,
+  "synonyms" : [ {
+    "text" : "(person whose gender is unknown) he or she, he/she, s/he, they, or these other third-person pronouns",
+    "include" : false
+  }, {
+    "text" : "(animal whose gender is unknown) it",
+    "include" : true
+  } ],
+  "title" : "he",
+  "translations" : [ {
+    "text" : "il",
+    "include" : false
+  } ],
+  "types" : [ {
+    "definitions" : [ {
+      "quotations" : [ {
+        "text" : "Though Bane’s sing-song voice gives his pronouncements a funny lilt, <em>he</em> doesn’t have any of the Joker’s deranged wit, and Nolan isn’t interested in undercutting his seriousness for the sake of a breezier entertainment.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(personal) A male person or animal already known or implied.",
+      "include" : true
+    }, {
+      "text" : "A person whose gender is unknown or irrelevant.",
+      "include" : true
+    }, {
+      "text" : "(personal) An animal whose gender is unknown.",
+      "include" : true
+    } ],
+    "type" : "Pronoun",
+    "include" : true
+  }, {
+    "definitions" : [ {
+      "text" : "(AAVE) (lang=en)",
+      "include" : false
+    } ],
+    "type" : "Determiner",
+    "include" : false
+  }, {
+    "definitions" : [ {
+      "text" : "(uncountable) The game of tag, or it, in which the player attempting to catch the others is called \"he\".",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "Alex totally is a <em>he</em>.",
+        "include" : true,
+        "card_sample" : false
+      } ],
+      "text" : "(informal) A male person.",
+      "include" : true
+    } ],
+    "type" : "Noun",
+    "include" : true
+  } ],
+  "copyByValue" : true,
+  "card_translate" : false,
+  "card_images" : false,
+  "images" : [ {
+    "description" : "Erdim's Flashcards/pronouns/he",
+    "filename" : "he.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQESgaxfC00JRBjco_Ozi2pelPrk8hjNvRYs_763OyGzu4Xcbc4hoFDK8jX",
+    "url" : "http://myteacher.net63.net/words/album/pronouns/slides/he.jpg"
+  }, {
+    "description" : "Obama Furious He Wasted Week Posing for Coin - The New Yorker",
+    "filename" : "obama-coin-465.jpg",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6ZyF1wocvXYVobdKhxamaMmpmf81L6kIMPceB-japKn9Ut1hd3wzr6tg",
+    "url" : "http://www.newyorker.com/wp-content/uploads/2013/01/obama-coin-465.jpg"
+  }, {
+    "description" : "English Exercises: Verb To Be",
+    "filename" : "834_he.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcupHiA4ecguQVnVjzuYesxj95YCsUUP--R-yFIYO4pNoTokhNVARwhEI",
+    "url" : "http://www.englishexercises.org/makeagame/my_documents/my_pictures/2010/mar/834_he.jpg"
+  }, {
+    "description" : "Chemistry Department - University of Chicago",
+    "filename" : "pw_1251457886ae14500ae0.jpg",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6MxskGeAnXcCuYr7iM_p3lvNPw_xzoGUue3drfhiDTu7y2EMniWFa9g",
+    "url" : "http://chemistry.uchicago.edu/content/faculty/pw_1251457886ae14500ae0.jpg"
+  }, {
+    "description" : "He Clipart - Clipart Kid",
+    "filename" : "child-clipart-image-boy-with-crew-cut-wearing-a-backpack-as-he-walks-cY3Wq0-clipart.jpg",
+    "thumb_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4_xLPlQrWaB27yOjI_nI8pi_wR5YEdzhIVfy1xeTa5wvwM24sp4_-64",
+    "url" : "http://www.clipartkid.com/images/239/child-clipart-image-boy-with-crew-cut-wearing-a-backpack-as-he-walks-cY3Wq0-clipart.jpg"
+  }, {
+    "description" : "Helium - Wikipedia, the free encyclopedia",
+    "filename" : "HeTube.jpg",
+    "thumb_url" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvAvN-BsV_3jCprq7U9d0VmrYeGRoGYaCRCgIemjWKkYnxiZK558WiUFA1EA",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/1/1f/HeTube.jpg"
+  }, {
+    "description" : "These people donated to Donald Trump even though he said not to ...",
+    "filename" : "AP_196716215786-web-987x675.jpg",
+    "thumb_url" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVxdTX9hQrQSB6TBx73FNGAzwRTjzhpEzmVMtb1ZkAFH1gtZFeNPGrtbE",
+    "url" : "https://www.revealnews.org/wp-content/uploads/2016/01/AP_196716215786-web-987x675.jpg"
+  }, {
+    "description" : "Haibo He",
+    "filename" : "HaiboHe_Profile.jpg",
+    "thumb_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUbTDYqTQ87I3Ang3elqDNQSOXIihCYgQISK3TrMPsAfSOkpU0tpEKHNnY",
+    "url" : "http://www.ele.uri.edu/faculty/he/HaiboHe_Profile.jpg",
+    "include" : true
+  }, {
+    "description" : "UB CSE Department: Xin He",
+    "filename" : "XinHe.jpg",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR80tVx9Zq_5WidyAiEI7RwXNA5dfjKpWhpvEh_SIplMZHzNAqltImPvBjdrQ",
+    "url" : "http://www.cse.buffalo.edu/~xinhe/Photo/XinHe.jpg"
+  }, {
+    "description" : "He Xiangjian",
+    "filename" : "320x486.jpg?fit=scale&background=000000",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp74yB8rLCbVVkFLoY3vyLlcXGR7BfW5YLgD_nsM04mdEoKcbDxLb_srTD",
+    "url" : "http://specials-images.forbesimg.com/imageserve/56c6636ee4b062f6b59a113e/320x486.jpg?fit=scale&background=000000"
+  } ]
+}

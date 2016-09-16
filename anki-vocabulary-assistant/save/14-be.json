@@ -1,0 +1,308 @@
+{
+  "audio" : {
+    "name" : "En-uk-to be.ogg",
+    "url" : "http://upload.wikimedia.org/wikipedia/commons/f/fa/En-uk-to_be.ogg",
+    "include" : true
+  },
+  "audio_url" : "http://upload.wikimedia.org/wikipedia/commons/f/fa/En-uk-to_be.ogg",
+  "id" : "39062198",
+  "ipa" : "/biː/",
+  "rank" : 14,
+  "synonyms" : [ {
+    "text" : "(used to form passive) get",
+    "include" : true
+  } ],
+  "title" : "be",
+  "translations" : [ {
+    "text" : "être",
+    "include" : true
+  } ],
+  "types" : [ {
+    "definitions" : [ {
+      "quotations" : [ {
+        "text" : "Rachel wepynge ffor her chyldren, and wolde nott be comforted because they <em>were</em> not.",
+        "include" : true,
+        "card_sample" : false
+      }, {
+        "text" : "To <em>be</em>, or not to <em>be</em>, that is the Questionnb....",
+        "include" : true,
+        "card_sample" : false
+      }, {
+        "text" : "it were great sottishnesse, and apparent false-hood, to say, that that <em>is</em> which is not yet in being, or that already hath ceased from being.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "There is surely a peece of Divinity in us, something that <em>was</em> before the Elements, and owes no homage unto the Sun.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "The genial hotel manager of the past <em>is</em> no more. Now owner of a trucking concern and living in Belgium, Rusesabagina says the horrors he witnessed in Rwanda \"made me a different man.\"",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(now, literary) To exist; to have real existence.",
+      "include" : true
+    }, {
+      "quotations" : [ {
+        "text" : "Some men there <em>are</em> loue not a gaping Pigge: / Some that are mad, if they behold a Cat: / And others, when the bag-pipe sings i'th nose, / Cannot containe their Vrine for affection.",
+        "include" : true,
+        "card_sample" : false
+      }, {
+        "text" : "\"There <em>is</em> a sort of domestic enjoyment to be known even in a crowd, and this you had.\"",
+        "include" : true,
+        "card_sample" : false
+      }, {
+        "text" : "\"There has <em>been</em> lots of commentary on who is staying and who is staying out and this weekend will be the real test,\" said one senior media buying agency executive who has pulled the advertising for one major client.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "With (there) as dummy subject: to exist.",
+      "include" : true
+    }, {
+      "quotations" : [ {
+        "text" : "The cup <em>is</em> on the table.",
+        "include" : true,
+        "card_sample" : false
+      } ],
+      "text" : "To occupy a place.",
+      "include" : true
+    }, {
+      "quotations" : [ {
+        "text" : "When will the meeting <em>be</em>?",
+        "include" : true,
+        "card_sample" : false
+      } ],
+      "text" : "To occur, to take place.",
+      "include" : true
+    }, {
+      "quotations" : [ {
+        "text" : "The postman has <em>been</em> today, but my tickets have still not yet come.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "I have <em>been</em> to Spain many times.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(without predicate) elliptical form of \"be here\", \"go to and return from\" or similar.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "I<em>'m</em> 20.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative) Used to name the age of a subject.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "Ignorance <em>is</em> bliss.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative) Used to indicate that the subject and object are the same.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "3 times 5 <em>is</em> fifteen.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative, mathematics) Used to indicate that the values on either side of an equation are the same.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "François Mitterrand <em>was</em> president of France from 1981 to 1995.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative) Used to indicate that the subject plays the role of the predicate nominal.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "The sky <em>is</em> blue.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative) Used to connect a noun to an adjective that describes it.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "The sky <em>is</em> a deep blue today.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(copulative) Used to indicate that the subject has the qualities described by a noun or noun phrase.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "The dog <em>was</em> drowned by the boy.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "Study courses of Esperanto and Ido have <em>been</em> broadcast.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(auxiliary) Used to form the passive voice.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "The woman <em>is</em> walking.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "I shall <em>be</em> writing to you soon.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "We liked to chat while we <em>were</em> eating.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "In the possibility of radio uses of a constructed language — and such experiments <em>are</em> proving successful&mdash;vast sums of money and untold social forces may be involved.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(auxiliary) Used to form the continuous forms of various tenses.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "''They <em>are</em> not yet come back.'' (instead of the modern ''They <em>have</em> not yet come back.'')",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "‘I wish that he <em>were</em> come to me, / For he will come,’ she said.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "He is not here; for he <em>is</em> risennb....",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "''The King with half the East at heel <em>is</em> marched from lands of morning;''",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(archaic) Used to form the perfect aspect with certain intransitive verbs, most of which indicate motion. Often still used for \"''to go''\"",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "I <em>am</em> to leave tomorrow.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "I would drive you, <em>were</em> I to obtain a car.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(auxiliary) Used to form future tenses, especially the future periphrastic.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "This building <em>is</em> three hundred years old.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "It <em>is</em> almost eight.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "I <em>am</em> 75 kilograms.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "Used to link a subject to a count or measurement.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "It has <em>been</em> three years since my grandmother died.'' (similar to ''My grandmother died three years ago,'' but emphasizes the intervening period)",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "It had <em>been</em> six days since his departure, when I received a letter from him.",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(With ''since'') used to indicate passage of time since the occurrence of an event.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "It <em>is</em> hot in Arizona, but it <em>is</em> not usually humid.",
+        "include" : false,
+        "card_sample" : false
+      }, {
+        "text" : "Why <em>is</em> it so dark in here?",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "(often, impersonal) Used to indicate weather, air quality, or the like.",
+      "include" : false
+    }, {
+      "quotations" : [ {
+        "text" : "Women <em>be</em> shoppin'! You cannot stop a woman from shoppin'!",
+        "include" : false,
+        "card_sample" : false
+      } ],
+      "text" : "tend to do, often do; marks the habitual aspect.",
+      "include" : false
+    } ],
+    "type" : "Verb",
+    "include" : true
+  } ],
+  "copyByValue" : true,
+  "card_translate" : true,
+  "card_images" : false,
+  "images" : [ {
+    "description" : "Creating Your New Year Vision: Start With BE, Not DO - Jason Barger",
+    "filename" : "be.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0Xp7VfHLi7ZNWdcj98BeNumbGIhO92EskeE0JJmZaqxzTUBU9wN8xDxN5",
+    "url" : "http://jasonvbarger.com/wp-content/uploads/2015/12/be.jpg"
+  }, {
+    "description" : "Be, Do, Have Sanctuary | The Congregational Church of West Medford",
+    "filename" : "Be.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7kMDABnMg00A2i8a2WkdTj4TYeBdYzG5BribyZHX1Gj42U-0Z6VRT4aI",
+    "url" : "http://medfordchurch.org/wp-content/uploads/2014/10/Be.jpg"
+  }, {
+    "description" : "Be Yourself” is Great Advice We're Often Too Scared to Follow ...",
+    "filename" : "odd-creativity-be-yourself.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuuWRI1N49Dr-PkjRx57GC1cl8UbvVblDmCpACs6Q19v5SYWVGAVaB8fdh",
+    "url" : "https://mustbethistalltoride.files.wordpress.com/2015/05/odd-creativity-be-yourself.jpg"
+  }, {
+    "description" : "Belgium.be (@belgiumbe) | Twitter",
+    "filename" : "tweetBE.jpg",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQP9WQuD-JTOcblA5PwiZtZpGzBHuOgzZp0p5R2PSiWODMWWCJATtl-IJiJ",
+    "url" : "https://pbs.twimg.com/profile_images/1152147436/tweetBE.jpg"
+  }, {
+    "description" : "Be - Borsa Italiana",
+    "filename" : "469.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT67NRhsf-CUsvXl8eR2n1PvOJQFM5AmCQh0xThuVLhf1o-iW2gVynRHCd0",
+    "url" : "http://www.borsaitaliana.it/media/borsa/loghi/469.jpg"
+  }, {
+    "description" : "Be you not them™ - bringing out brilliant in brands.",
+    "filename" : "Be-you-not-them.jpg",
+    "thumb_url" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6aW5Dr7pV_b0PI7y-GYh-zStdcA2M_pVpybVgfxDxs3I1b7FO9mpFOzh2",
+    "url" : "http://beyounotthem.com/wp-content/uploads/Be-you-not-them.jpg"
+  }, {
+    "description" : "Still Be Here :: CTM Berlin - Festival for Adventurous Music and Art",
+    "filename" : "Still_Be_Here_540x300.jpg",
+    "thumb_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AnfTv96nUui5ejt9P8avif7RuUVL1rQ_Z-5SH-0vVQtUUPvlKsugEgs",
+    "url" : "http://www.ctm-festival.de/fileadmin/user_upload/images/CTM16/Specials/Still_Be_Here_540x300.jpg"
+  }, {
+    "description" : "1000+ ideas about Be You on Pinterest | Words, We and Abraham Hicks",
+    "filename" : "178b14902a2c0237adf442862f7782f7.jpg",
+    "thumb_url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qUDaD--5JhCgA-mO_utMbAKJoUeGkYcWhZWogCJQ_tpToByVWjJmIKo",
+    "url" : "https://s-media-cache-ak0.pinimg.com/236x/17/8b/14/178b14902a2c0237adf442862f7782f7.jpg"
+  }, {
+    "description" : "Be Happy - Personalized gifts Wholesale",
+    "filename" : "logo.jpg",
+    "thumb_url" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk-gtxCFYpyq3kIEUdyWrIlr6TtrB81EJkdLz2ryMZLSTy3EjPJ-iKxL0",
+    "url" : "http://be-happy.company/data/uploads/logo.jpg",
+    "include" : true
+  }, {
+    "description" : "Be (@BelaRuche) | Twitter",
+    "filename" : "cl_y8z2d.jpg",
+    "thumb_url" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIAMeOxkUQ3-L9BQ5a4Z1zrkh_9ZnTwd6DBtYZSsZdrL_9Yg86WtR1a8ZIHg",
+    "url" : "https://pbs.twimg.com/profile_images/741195944012709888/cl_y8z2d.jpg"
+  } ]
+}

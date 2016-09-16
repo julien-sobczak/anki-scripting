@@ -1,0 +1,68 @@
+/* This stylesheet will be copied to the target folder and referenced inside the index.html file. */
+body {
+    background-color: #0079bf;
+}
+#search {
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+}
+#search input {
+    width: 80%;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    border: none;
+    box-shadow: 2px 2px #222;
+}
+#list {
+    position: fixed;
+    width: 50%;
+    top: 70px;
+    bottom: 0;
+    left: 0;
+}
+#list ul {
+    list-style-type: none;
+}
+#list li {
+    background-color: white;
+    border: 1px solid silver;
+    border-radius: 2px;
+    font-family: 'Handlee', cursive;
+    width: 90%;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+#question, #answer {
+    position: fixed;
+    width: 50%;
+    right: 0;
+}
+#question {
+    height: 200px;
+    top: 85px;
+}
+#answer {
+    top: 270px;
+    bottom: 0;
+}
+iframe {
+    background-color: white;
+    border: none;
+    box-shadow: 5px 5px 3px #333;
+}
+
+.tag {
+    float: right;
+    margin-right: 10px;
+    padding: 2px 5px;
+    background-color: orangered;
+    color: white;
+    font-size: 12px;
+    font-family: Arial;
+}

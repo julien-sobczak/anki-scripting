@@ -1,0 +1,22 @@
+body, article, section, div {
+  padding: 0;
+  margin: 0;
+  border-width: 0;
+}
+body {
+  background-color: #ffffff;
+}
+img {
+  padding: 0;
+  margin: 0;
+}
+article {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+section {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}

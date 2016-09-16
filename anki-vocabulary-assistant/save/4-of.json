@@ -1,0 +1,70 @@
+{
+  "audio" : {
+    "name" : "en-us-of.ogg",
+    "url" : "http://upload.wikimedia.org/wikipedia/commons/7/75/En-us-of.ogg",
+    "checked" : true
+  },
+  "audio_url" : "http://upload.wikimedia.org/wikipedia/commons/7/75/En-us-of.ogg",
+  "id" : "21371",
+  "ipa" : "/ɒv/",
+  "rank" : 4,
+  "title" : "of",
+  "translations" : [ {
+    "text" : "moins",
+    "checked" : true
+  } ],
+  "types" : [ {
+    "definitions" : [ {
+      "text" : "Expressing direction.",
+      "checked" : true
+    }, {
+      "text" : "''Expressing separation.''",
+      "checked" : true
+    }, {
+      "text" : "''Expressing origin.''",
+      "checked" : true
+    }, {
+      "text" : "''Expressing agency.''",
+      "checked" : true
+    }, {
+      "text" : "''Expressing composition, substance.''",
+      "checked" : false
+    }, {
+      "text" : "''Introducing subject matter.''",
+      "checked" : false
+    }, {
+      "text" : "''Having (partitive) effect.''",
+      "checked" : false
+    }, {
+      "text" : "''Expressing possession.''",
+      "checked" : false
+    }, {
+      "text" : "''Forming the \"objective genitive\".''",
+      "checked" : false
+    }, {
+      "text" : "''Expressing qualities or characteristics.''",
+      "checked" : false
+    }, {
+      "text" : "''Expressing a point in time.''",
+      "checked" : false
+    } ],
+    "type" : "Preposition"
+  }, {
+    "definitions" : [ {
+      "quotations" : [ {
+        "text" : "\"I had a woman up here last week to look at my feet, and when she have been the bill you'd <em>of</em> thought she had my appendicitus out.\"",
+        "checked" : true
+      }, {
+        "text" : "‘You must <em>of</em> left your door unlocked. Or even open.’",
+        "checked" : true
+      }, {
+        "text" : "\"You couldn't <em>of</em> known,\" Livio says.",
+        "checked" : false
+      } ],
+      "text" : "Representing (have) or ('ve), chiefly in depictions of colloquial speech.",
+      "checked" : true
+    } ],
+    "type" : "Verb"
+  } ],
+  "copyByValue" : true
+}

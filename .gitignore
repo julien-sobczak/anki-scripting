@@ -1,0 +1,6 @@
+target/
+*.pyc
+.idea
+.classpath
+.settings/
+anki-usecase-enfrequency/resources/mywiktionary.xml

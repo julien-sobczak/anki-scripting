@@ -1,0 +1,200 @@
+/*
+ * General
+ */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 13pt;
+}
+
+
+body > a.previous, body > a.next {
+    background: silver;
+    color: white;
+    position: fixed;
+    top: 50%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding-top: 16px;
+    text-align: center;
+}
+body > a.previous { left: 0; margin-left: -25px; padding-left: 20px; }
+body > a.next { right: 0; margin-right: -25px; padding-right: 20px; }
+
+
+/*
+ * Header
+ */
+
+header {
+    background: linear-gradient(45deg, #020031 0%,#007ed8 100%);
+    color: white;
+    height: 50px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 140%;
+    text-align: center;
+}
+
+header a.previous {
+    float: left;
+    margin-left: 25px;
+}
+
+header a.next {
+    float: right;
+    margin-right: 25px;
+}
+
+.focusable {
+    padding: 2px 5px;
+    display: inline-block;
+    border-radius: 2px;
+}
+.focused {
+    background-color: #EEE;
+}
+
+.next, .previous {
+    cursor: pointer; cursor: hand;
+    text-decoration: none;
+    color: white !important;
+}
+
+
+/*
+ * Layout
+ */
+
+#container {
+    padding: 30px;
+}
+
+#dictionary {
+    float: left;
+    width: 60%;
+}
+
+#media {
+    float: left;
+    width: 40%;
+}
+#dictionary, #media {
+    padding: 30px;
+}
+
+section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.label {
+    font-size: 80%;
+    color: gray;
+}
+
+
+/*
+ * Audio
+ */
+
+.ipa {
+    font-size: 110%;
+}
+
+
+
+/*
+ * Dictionary
+ */
+
+h2 {
+    font-size: 120%;
+	border-bottom: 1px solid silver;
+	margin-bottom: 30px;
+}
+
+ol.definitions {
+    list-style-type: lower-roman;
+    list-style-position: inside;
+    margin-left: 25px;
+}
+ol.quotations {
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+ol.definitions > li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.definition {
+
+}
+.quotation {
+    font-style: italic;
+}
+.quotation em
+    color: #317eac;
+    font-style: normal;
+}
+
+section li {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+/*
+ * Inline list
+ */
+
+ul.inline {
+    margin: 0;
+    padding: 0;
+}
+ul.inline li {
+    list-style-type: none;
+    display: inline;
+}
+ul.inline li:before {
+    content: ", ";
+}
+ul.inline li:first-child:before {
+    content: none;
+}
+
+
+
+
+/*
+ * Images
+ */
+ul.gallery {
+    list-style-type: none;
+    width: 100%;
+}
+ul.gallery li {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: #EEE;
+    text-align: center;
+}
+ul.gallery li.selected {
+    background-color: silver;
+}
+ul.gallery img {
+    max-width: 200px;
+    max-height: 200px;
+}

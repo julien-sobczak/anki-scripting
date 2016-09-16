@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr" ng-app="app">
+<head>
+    <meta charset="utf-8">
+    <title>Anki Vocabulary Assistant</title>
+    <link rel="icon" type="image/png" href="images/anki-logo.png" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular-sanitize.js"></script>
+    <script src="application.js"></script>
+</head>
+<body ng-controller="WordController">
+
+    <a href="#" class="previous" ng-click="showPreviousWord()" ng-if="hasPreviousWord()"><i class="fa fa-chevron-left" aria-hidden="true"></i></a>
+    <a href="#" class="next" ng-click="showNextWord()" ng-if="hasNextWord()"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+
+    <header>
+        <a href="#" class="previous" ng-click="showPreviousWord()" ng-if="hasPreviousWord()"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> {{previousWord}}</a>
+        <a href="#" class="next" ng-click="showNextWord()" ng-if="hasNextWord()">{{nextWord}} <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a>
+        <h1>{{json.rank}}. {{json.title}} <span class="ipa">{{json.ipa}}</span></h1>
+    </header>
+
+    <div id="container">
+
+        <div id="dictionary">
+            <section ng-repeat="type in json.types">
+                <h2>
+                    {{type.type}}
+                    <input type="checkbox" ng-click="type.include = !type.include"  ng-checked="type.include" />
+                    <span class="label">Include?</span>
+                    <input type="checkbox" ng-click="type.card_definitions = !type.card_definitions"  ng-checked="type.card_definitions" />
+                    <span class="label">Card?</span>
+                </h2>
+                <ol class="definitions">
+                    <li ng-repeat="definition in type.definitions">
+                        <div class="focusable">
+                            <input type="checkbox" ng-click="definition.include = !definition.include" ng-checked="definition.include" my-selectable />
+                            <span class="definition" ng-bind-html="definition.text"></span>
+                        </div>
+                        <ol class="quotations">
+                            <li ng-repeat="quotation in definition.quotations">
+                                <div class="focusable">
+                                    <input type="checkbox" ng-click="quotation.include = !quotation.include" ng-checked="quotation.include" my-selectable />
+                                    <span class="quotation" ng-bind-html="quotation.text"></span>
+                                    <input type="checkbox" ng-click="quotation.card_sample = !quotation.card_sample" ng-checked="quotation.card_sample"/> <span class="label">Sample?</span>
+                                </div>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+            </section>
+
+            <section ng-if="json.synonyms">
+                <h2>
+                    Synonyms
+                </h2>
+                <ul class="inline">
+                    <li ng-repeat="synonym in json.synonyms">
+                        <div class="focusable">
+                            <input type="checkbox" ng-click="synonym.include = !synonym.include" ng-checked="synonym.include" my-selectable /> {{synonym.text}}
+                        </div>
+                    </li>
+                </ul>
+            </section>
+
+            <section ng-if="json.translations">
+                <h2>
+                    Translations:
+                    <input type="checkbox" ng-click="json.card_translate = !json.card_translate" ng-checked="json.card_translate" />
+                    <span class="label">Card?</span>
+                </h2>
+                <ul class="inline">
+                    <li ng-repeat="translation in json.translations">
+                        <div class="focusable">
+                            <input type="checkbox" ng-click="translation.include = !translation.include" ng-checked="translation.include" my-selectable /> {{translation.text}}
+                        </div>
+                    </li>
+                </ul>
+            </section>
+        </div>
+
+        <div id="media">
+            <section ng-if="json.audio">
+                <h2>
+                    Audio
+                    <input type="checkbox" ng-click="json.audio.include = !json.audio.include" ng-checked="json.audio.include" my-selectable ng-if="json.audio" />
+                    <span class="label">Sound?</span>
+                </h2>
+                <div id="audio">
+                    <audio id="audio_controller" controls>
+                        <source ng-src="{{json.audio.url}}" type="audio/ogg" ng-if="json.audio.url.endsWith('.ogg') !== -1">
+                        <source ng-src="{{json.audio.url}}" type="audio/mpeg" ng-if="json.audio.url.endsWith('.mp3') !== -1">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+            </section>
+
+            <section>
+                <h2>
+                    Pictures
+                    <input type="checkbox" ng-click="json.card_image = !json.card_image" ng-checked="json.card_image" />
+                    <span class="label">Card?</span>
+                </h2>
+                <input type="button" ng-click="loadImages()" value="Load images" />
+                <div>
+                    <ul class="gallery">
+                        <li ng-repeat="image in json.images" ng-class="{'selected': image.include}">
+                            <img ng-src="{{image.thumb_url}}" title="{{image.title}}" ng-click="image.include = !image.include" />
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+
+    </div>
+
+</body>
+</html>
