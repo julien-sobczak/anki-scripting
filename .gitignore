@@ -4,3 +4,5 @@ target/
 .classpath
 .settings/
 anki-usecase-enfrequency/resources/mywiktionary.xml
+/anki-vocabulary-assistant/save/
+/venv/

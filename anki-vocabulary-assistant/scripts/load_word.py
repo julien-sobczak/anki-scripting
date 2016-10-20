@@ -32,25 +32,31 @@ class Word:
             return None
 
     def definitions_with_samples(self):
-        html = "<ul>"
+        html = ""
         for type in self.doc["types"]:
-            if "definitions" in type:
-                for definition in type["definitions"]:
-                    if "include" in definition and definition["include"]:
-                        html += "<li>" + definition["text"]
-                        if "quotations" in definition:
-                            first_quotation = True
-                            quotation_found = False
-                            for quotation in definition["quotations"]:
-                                if "include" in quotation and quotation["include"]:
-                                    quotation_found = True
-                                    if first_quotation:
-                                        html += "<ul>"
-                                    html += "<li>" + quotation["text"] + "</li>"
-                            if quotation_found:
-                                html += "</ul>"
-                        html += "</li>"
-        html += "</ul>"
+            if "include" in type and type["include"]:
+                subhtml = ""
+                if "definitions" in type:
+                    for definition in type["definitions"]:
+                        if "include" in definition and definition["include"]:
+                            subhtml += "<li>" + definition["text"]
+                            if "quotations" in definition:
+                                first_quotation = True
+                                quotation_found = False
+                                for quotation in definition["quotations"]:
+                                    if "include" in quotation and quotation["include"]:
+                                        quotation_found = True
+                                        if first_quotation:
+                                            subhtml += "<ul>"
+                                            first_quotation = False
+                                        subhtml += "<li>" + quotation["text"] + "</li>"
+                                if quotation_found:
+                                    subhtml += "</ul>"
+                            subhtml += "</li>"
+                # Add the definition if at least one definition was included
+                if subhtml:
+                    html += "<em>" + type["type"] + "</em>" + "<ul>" + subhtml + "</ul>"
+
         return html
 
     def definitions_only(self):
@@ -157,10 +163,11 @@ def load(col, filepath):
                 audio_name = filename + '.' + extension
                 audio_path = os.path.join(directory, audio_name)
                 if os.path.exists(audio_path):
-                    source_path = os.path.join(directory, audio_name)
+                    source_path = audio_path
                     target_path = os.path.join(media_directory, audio_name)
                     print("Copying media file %s to %s" % (source_path, target_path))
-                    shutil.copyfile(source_path, target_path)
+                    col.media.addFile(source_path)
+                    #shutil.copyfile(source_path, target_path)
                     fields["Sound"] = "[sound:%s]" % audio_name
 
         fields["DefinitionsWithSamples"] = word.definitions_with_samples()
@@ -173,7 +180,8 @@ def load(col, filepath):
                 source_path = os.path.join(directory, image_name)
                 target_path = os.path.join(media_directory, image_name)
                 print("Copying media file %s to %s" % (source_path, target_path))
-                shutil.copyfile(source_path, target_path)
+                col.media.addFile(source_path)
+                #shutil.copyfile(source_path, target_path)
                 fields["Image"] = '<img src="%s">' % image_name
 
         if word.ipa():
@@ -193,11 +201,11 @@ def load(col, filepath):
                 index += 1
 
         if word.has_image_card():
-            fields["HasImageCard"] = word.has_image_card()
+            fields["HasImageCard"] = str(word.has_image_card())
         if word.has_definition_card():
-            fields["HasDefinitionsCard"] = word.has_definition_card()
+            fields["HasDefinitionsCard"] = str(word.has_definition_card())
         if word.has_translation_card():
-            fields["HasTranslationCard"] = word.has_translation_card()
+            fields["HasTranslationCard"] = str(word.has_translation_card())
 
         #print(json.dumps(fields, indent=4))
 
@@ -254,6 +262,8 @@ if __name__ == '__main__':
 
     # Set the model
     modelBasic = col.models.byName('Word')
+    deck = col.decks.byName("English")
+    col.decks.select(deck['id'])
     col.decks.current()['mid'] = modelBasic['id']
 
 
@@ -263,7 +273,7 @@ if __name__ == '__main__':
         print("Only rank %d to load" % args.rank)
         glob_pattern = "%d-*.json" % args.rank
         file_pattern = os.path.join(args.folder, glob_pattern)
-        print(file_pattern)
+        print("File pattern: " + file_pattern)
         for filepath in glob.iglob(file_pattern):
             load(col, filepath)
 

@@ -167,7 +167,8 @@ angular.module('app', ['ngSanitize'])
 
   // Assign hotkeys
   $document.bind("keypress", function(event) {
-    switch (event.charCode) {
+    code = event.charCode || event.keyCode;
+    switch (code) {
     case 78: // N
     case 110: // n
         $scope.showNextWord();
