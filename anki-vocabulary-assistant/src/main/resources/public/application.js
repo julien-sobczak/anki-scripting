@@ -57,17 +57,30 @@ angular.module('app', ['ngSanitize'])
         type.include = true;
         for (var j = 0; j < type.definitions.length; j++) {
             definition = type.definitions[j];
-            definition.include = i < 2 && j < 4; // Keep only 4 first definitions for two first types
+            var outdated = definition.text.indexOf('archaic') !== -1 || definition.text.indexOf('dated') !== -1; // ignore old definitions
+            definition.include = !outdated && i < 3 && j < 6; // Keep only 6 first definitions for 3 first types
             if (definition.quotations && definition.quotations.length > 0) {
                 quotations = definition.quotations;
                 definition.quotations = [];
+                var shortestQuotationLength = Number.MAX_VALUE;
+                var shortestQuotationIndex = -1;
                 for (var k = 0; k < quotations.length; k++) {
+                    // We want to include the shortest quotation only
+                    if (quotations[k].length < shortestQuotationLength) {
+                        shortestQuotationLength = quotations[k].length;
+                        shortestQuotationIndex = k;
+                    }
                     definition.quotations.push({
                         text: quotations[k],
-                        include: definition.include && k < 2, // Keep only 2 first quotes
+                        include: false,    // set just after
                         card_sample: false // Create a flashcard "Fill the gap" at the demand
                     });
                 }
+
+                if (definition.include && shortestQuotationIndex != -1) {
+                    definition.quotations[shortestQuotationIndex].include = true;
+                }
+
             } else {
                 delete definition['quotations']; // Quotations was systematically added in Python script
             }
@@ -82,7 +95,7 @@ angular.module('app', ['ngSanitize'])
       for (var i = 0; i < synonyms.length; i++) {
         json.synonyms.push({
             text: synonyms[i],
-            include: i < 2 // Keep only 2 first synonyms
+            include: i < 10 // Keep only 2 first synonyms
         });
       }
     }
@@ -95,7 +108,7 @@ angular.module('app', ['ngSanitize'])
       for (var i = 0; i < translations.length; i++) {
         json.translations.push({
             text: translations[i],
-            include: i < 3 // Keep only 3 first translations
+            include: i < 6 // Keep only 3 first translations
         });
       }
     }
@@ -107,6 +120,32 @@ angular.module('app', ['ngSanitize'])
     }
   }
 
+  function pad(n, width, z) {
+    z = z || '0';
+    n = n + '';
+    return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+  }
+
+  function startTimer() {
+    timer = document.getElementById('timer');
+    timer.innerHTML = "--:--";
+    timer.classList.remove("elapsed");
+
+    this.i = 0;
+    if (this.intervalID) {
+      clearInterval(this.intervalID);
+    }
+
+    this.intervalID = window.setInterval(function() {
+        i++;
+        if (i == 15) {
+            timer.classList.add("elapsed");
+        }
+        timer.innerHTML = pad(i, 2, "0") + ":00";
+    }, 1000);
+
+  }
+
   /*
    * Main method to display a word content.
    */
@@ -116,6 +155,7 @@ angular.module('app', ['ngSanitize'])
       $scope.json = json.data;
       $scope.word = $scope.json.title;
       precheck($scope.json);
+      startTimer();
     })
 
     if ($scope.hasPreviousWord()) {
@@ -168,6 +208,7 @@ angular.module('app', ['ngSanitize'])
   // Assign hotkeys
   $document.bind("keypress", function(event) {
     code = event.charCode || event.keyCode;
+    //console.log(code);
     switch (code) {
     case 78: // N
     case 110: // n
@@ -176,6 +217,10 @@ angular.module('app', ['ngSanitize'])
     case 80: // P
     case 112: // p
         $scope.showPreviousWord();
+        break;
+    case 73:
+    case 105:
+        $scope.loadImages();
         break;
     case 13: // Enter
         $scope.save();

@@ -198,3 +198,27 @@ ul.gallery img {
     max-width: 200px;
     max-height: 200px;
 }
+
+
+/*
+ * Timer
+ */
+
+ #timer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 130px;
+    height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(45deg, #020031 0%,#007ed8 100%);
+    border: 1px solid gray;
+    color: white;
+    padding: 5px;
+ }
+ #timer.elapsed {
+    background: linear-gradient(45deg, red 0%, #AA0000 100%);
+    border: 1px solid black;
+ }

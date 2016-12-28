@@ -16,7 +16,7 @@ public class Word {
 
     private final Logger log = LoggerFactory.getLogger(Word.class);
 
-    private static final int MAX_THUMB_WIDTH = 400;
+    private static final int MAX_THUMB_WIDTH = 300;
 
     private ObjectNode word;
 
@@ -142,6 +142,7 @@ public class Word {
             return;
         }
 
+        log.info("Download " + url);
         URL link = new URL(url);
 
         InputStream in = new BufferedInputStream(link.openStream());

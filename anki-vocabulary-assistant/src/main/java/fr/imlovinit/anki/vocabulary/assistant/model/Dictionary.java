@@ -44,11 +44,13 @@ public class Dictionary {
      */
     private void fix(ObjectNode json) {
         // IPA could contains multiple IPA text (Ex: /car/ in US, /cAr/). We keep only the first one
-        String ipa = json.get("ipa").asText();
-        int indexSecondSlash = ipa.indexOf('/', 1);
-        if (indexSecondSlash < ipa.length() - 1) {
-            ipa = ipa.substring(0, indexSecondSlash + 1);
-            json.set("ipa", TextNode.valueOf(ipa));
+        if (json.has("ipa")) {
+            String ipa = json.get("ipa").asText();
+            int indexSecondSlash = ipa.indexOf('/', 1);
+            if (indexSecondSlash < ipa.length() - 1) {
+                ipa = ipa.substring(0, indexSecondSlash + 1);
+                json.set("ipa", TextNode.valueOf(ipa));
+            }
         }
 
         // Thumbnails are configured as 600px but many pictures are not so width

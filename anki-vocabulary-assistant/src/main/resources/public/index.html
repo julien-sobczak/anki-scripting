@@ -28,8 +28,8 @@
         <div id="dictionary">
             <section ng-repeat="type in json.types">
                 <h2>
-                    {{type.type}}
-                    <input type="checkbox" ng-click="type.include = !type.include"  ng-checked="type.include" />
+                    <label for="typ-{{$index}}">{{type.type}}</label>
+                    <input id="typ-{{$index}}" type="checkbox" ng-click="type.include = !type.include"  ng-checked="type.include" />
                     <span class="label">Include?</span>
                     <input type="checkbox" ng-click="type.card_definitions = !type.card_definitions"  ng-checked="type.card_definitions" />
                     <span class="label">Card?</span>
@@ -37,14 +37,17 @@
                 <ol class="definitions">
                     <li ng-repeat="definition in type.definitions">
                         <div class="focusable">
-                            <input type="checkbox" ng-click="definition.include = !definition.include" ng-checked="definition.include" my-selectable />
-                            <span class="definition" ng-bind-html="definition.text"></span>
+                            <input id="def-{{$parent.$index}}-{{$index}}" type="checkbox" ng-click="definition.include = !definition.include" ng-checked="definition.include" my-selectable />
+                            <label for="def-{{$parent.$index}}-{{$index}}"><span class="definition" ng-bind-html="definition.text"></span></label>
+                            <input type="checkbox" ng-click="definition.card = !definition.card" ng-checked="definition.card" my-selectable /> <span class="label">Card?</span>
                         </div>
                         <ol class="quotations">
                             <li ng-repeat="quotation in definition.quotations">
                                 <div class="focusable">
-                                    <input type="checkbox" ng-click="quotation.include = !quotation.include" ng-checked="quotation.include" my-selectable />
-                                    <span class="quotation" ng-bind-html="quotation.text"></span>
+                                    <input id="quo-{{$parent.$parent.$index}}-{{$parent.$index}}-{{$index}}"
+                                           type="checkbox"
+                                           ng-click="quotation.include = !quotation.include" ng-checked="quotation.include" my-selectable />
+                                    <label for="quo-{{$parent.$parent.$index}}-{{$parent.$index}}-{{$index}}"><span class="quotation" ng-bind-html="quotation.text"></span></label>
                                     <input type="checkbox" ng-click="quotation.card_sample = !quotation.card_sample" ng-checked="quotation.card_sample"/> <span class="label">Sample?</span>
                                 </div>
                             </li>
@@ -60,7 +63,8 @@
                 <ul class="inline">
                     <li ng-repeat="synonym in json.synonyms">
                         <div class="focusable">
-                            <input type="checkbox" ng-click="synonym.include = !synonym.include" ng-checked="synonym.include" my-selectable /> {{synonym.text}}
+                            <input id="syn-{{$index}}" type="checkbox" ng-click="synonym.include = !synonym.include" ng-checked="synonym.include" my-selectable />
+                            <label for="syn-{{$index}}">{{synonym.text}}</label>
                         </div>
                     </li>
                 </ul>
@@ -75,7 +79,8 @@
                 <ul class="inline">
                     <li ng-repeat="translation in json.translations">
                         <div class="focusable">
-                            <input type="checkbox" ng-click="translation.include = !translation.include" ng-checked="translation.include" my-selectable /> {{translation.text}}
+                            <input id="tra-{{$index}}" type="checkbox" ng-click="translation.include = !translation.include" ng-checked="translation.include" my-selectable />
+                            <label for="tra-{{$index}}">{{translation.text}}</label>
                         </div>
                     </li>
                 </ul>
@@ -108,7 +113,7 @@
                 <div>
                     <ul class="gallery">
                         <li ng-repeat="image in json.images" ng-class="{'selected': image.include}">
-                            <img ng-src="{{image.thumb_url}}" title="{{image.title}}" ng-click="image.include = !image.include" />
+                            <img ng-src="{{image.thumb_url}}" title="{{image.title}}" ng-click="image.include = !image.include; json.card_image = true;" />
                         </li>
                     </ul>
                 </div>
@@ -116,6 +121,8 @@
         </div>
 
     </div>
-
+    <div id="timer">
+        --:--
+    </div>
 </body>
 </html>
