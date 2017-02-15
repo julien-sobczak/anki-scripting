@@ -39,7 +39,7 @@ class Word:
                 if "definitions" in type:
                     for definition in type["definitions"]:
                         if "include" in definition and definition["include"]:
-                            subhtml += "<li>" + definition["text"]
+                            subhtml += "<li>" + self._escape(definition["text"])
                             if "quotations" in definition:
                                 first_quotation = True
                                 quotation_found = False
@@ -49,7 +49,7 @@ class Word:
                                         if first_quotation:
                                             subhtml += "<ul>"
                                             first_quotation = False
-                                        subhtml += "<li>" + quotation["text"] + "</li>"
+                                        subhtml += "<li>" + self._escape(quotation["text"]) + "</li>"
                                 if quotation_found:
                                     subhtml += "</ul>"
                             subhtml += "</li>"
@@ -69,7 +69,7 @@ class Word:
         if selected_definitions:
             html = "<ul>"
             for definition in selected_definitions:
-                html += "<li>" + definition + "</li>"
+                html += "<li>" + self._escape(definition) + "</li>"
             html += "</ul>"
             return html
         else:
@@ -117,10 +117,21 @@ class Word:
                     if "quotations" in definition:
                         for quotation in definition["quotations"]:
                             if "card_sample" in quotation and quotation["card_sample"]:
-                                answer = quotation["text"]
+                                answer = self._escape(quotation["text"])
                                 sample = answer.replace(self.title(), "[...]")
                                 result[sample] = answer
         return result
+
+    def definition_cards(self):
+        result = []
+        for type in self.doc["types"]:
+            if "definitions" in type:
+                for definition in type["definitions"]:
+                    if "card" in definition and definition["card"]:
+                        text = definition["text"]
+                        result.append(self._escape(text))
+        return result
+
 
     def has_image_card(self):
         return "card_images" in self.doc and self.doc["card_images"]
@@ -134,12 +145,17 @@ class Word:
     def has_translation_card(self):
         return "card_translate" in self.doc and self.doc["card_translate"]
 
+    def _escape(self, text):
+        return text.replace('}', '').replace('{', '')
 
 
-def load(col, filepath):
+
+def load(col, filepath, deck_name):
     """
     Load a single word into Anki. Read the dictionary entry file and try to load the picture and the sound in the same folder if present.
+    :param col: the Anki collection reference
     :param filepath: the file path of the JSON document file
+    :param deck_name: the name of the Deck to use
     """
 
     directory = os.path.dirname(filepath)
@@ -207,12 +223,17 @@ def load(col, filepath):
         if word.has_translation_card():
             fields["HasTranslationCard"] = str(word.has_translation_card())
 
+        definitions = word.definition_cards()
+        if definitions:
+            definitions_suffixed = ["A", "B"]
+            for index, text in enumerate(definitions):
+                fields["Definition" + definitions_suffixed[index]] = text
+
         #print(json.dumps(fields, indent=4))
 
 
-
         # Get the deck
-        deck = col.decks.byName("English")
+        deck = col.decks.byName(deck_name)
 
         # Instantiate the new note
         note = col.newNote()
@@ -243,10 +264,13 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument("anki_home", help="Home of your Anki installation")
+    parser.add_argument("-d", "--deck", help="Name of the deck in which to create the flashcards", default="English")
     parser.add_argument("-f", "--folder", help="Input folder where to search files", default="../save")
     parser.add_argument("--rank", help="Rank of the word to load", type=int)
     parser.add_argument("--from", help="Rank of the first word to load", type=int, default=0, dest="start")  # reserved word
     parser.add_argument("--to", help="Rank of the last word to load", type=int, default=100000, dest="end")  # to be consistent with start
+    parser.add_argument("-v", "--verbose", help="Enable verbose mode", action='store_true')
+    parser.set_defaults(verbose=False)
     args = parser.parse_args()
 
     print("----------------------------------")
@@ -262,7 +286,7 @@ if __name__ == '__main__':
 
     # Set the model
     modelBasic = col.models.byName('Word')
-    deck = col.decks.byName("English")
+    deck = col.decks.byName(args.deck)
     col.decks.select(deck['id'])
     col.decks.current()['mid'] = modelBasic['id']
 
@@ -275,7 +299,7 @@ if __name__ == '__main__':
         file_pattern = os.path.join(args.folder, glob_pattern)
         print("File pattern: " + file_pattern)
         for filepath in glob.iglob(file_pattern):
-            load(col, filepath)
+            load(col, filepath, args.deck)
 
     else:
 
@@ -287,8 +311,8 @@ if __name__ == '__main__':
             filename = os.path.basename(filepath)
             rank = int(filename[:filename.index('-')])
             if rank >= args.start and rank < args.end:
-                load(col, filepath)
-            else:
+                load(col, filepath, args.deck)
+            elif args.verbose:
                 print("Skipped %s" % filename)
 
 

@@ -5,4 +5,5 @@ target/
 .settings/
 anki-usecase-enfrequency/resources/mywiktionary.xml
 /anki-vocabulary-assistant/save/
+!/anki-vocabulary-assistant/save/*.tar.gz
 /venv/

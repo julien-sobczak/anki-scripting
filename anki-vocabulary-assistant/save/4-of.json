@@ -2,7 +2,7 @@
   "audio" : {
     "name" : "en-us-of.ogg",
     "url" : "http://upload.wikimedia.org/wikipedia/commons/7/75/En-us-of.ogg",
-    "checked" : true
+    "include" : true
   },
   "audio_url" : "http://upload.wikimedia.org/wikipedia/commons/7/75/En-us-of.ogg",
   "id" : "21371",
@@ -11,60 +11,68 @@
   "title" : "of",
   "translations" : [ {
     "text" : "moins",
-    "checked" : true
+    "include" : true
   } ],
   "types" : [ {
     "definitions" : [ {
       "text" : "Expressing direction.",
-      "checked" : true
+      "include" : true
     }, {
       "text" : "''Expressing separation.''",
-      "checked" : true
+      "include" : true
     }, {
       "text" : "''Expressing origin.''",
-      "checked" : true
+      "include" : true
     }, {
       "text" : "''Expressing agency.''",
-      "checked" : true
+      "include" : true
     }, {
       "text" : "''Expressing composition, substance.''",
-      "checked" : false
+      "include" : true
     }, {
       "text" : "''Introducing subject matter.''",
-      "checked" : false
+      "include" : true
     }, {
       "text" : "''Having (partitive) effect.''",
-      "checked" : false
+      "include" : false
     }, {
       "text" : "''Expressing possession.''",
-      "checked" : false
+      "include" : false
     }, {
       "text" : "''Forming the \"objective genitive\".''",
-      "checked" : false
+      "include" : false
     }, {
       "text" : "''Expressing qualities or characteristics.''",
-      "checked" : false
+      "include" : false
     }, {
       "text" : "''Expressing a point in time.''",
-      "checked" : false
+      "include" : false
     } ],
-    "type" : "Preposition"
+    "type" : "Preposition",
+    "include" : true
   }, {
     "definitions" : [ {
       "quotations" : [ {
         "text" : "\"I had a woman up here last week to look at my feet, and when she have been the bill you'd <em>of</em> thought she had my appendicitus out.\"",
-        "checked" : true
+        "include" : false,
+        "card_sample" : false
       }, {
         "text" : "‘You must <em>of</em> left your door unlocked. Or even open.’",
-        "checked" : true
+        "include" : false,
+        "card_sample" : false
       }, {
         "text" : "\"You couldn't <em>of</em> known,\" Livio says.",
-        "checked" : false
+        "include" : true,
+        "card_sample" : false
       } ],
       "text" : "Representing (have) or ('ve), chiefly in depictions of colloquial speech.",
-      "checked" : true
+      "include" : true
     } ],
-    "type" : "Verb"
+    "type" : "Verb",
+    "include" : false
   } ],
-  "copyByValue" : true
+  "copyByValue" : true,
+  "card_translate" : false,
+  "card_images" : false,
+  "images" : [ ]
 }
