@@ -182,9 +182,9 @@ def load(col, filepath, deck_name):
                     source_path = audio_path
                     target_path = os.path.join(media_directory, audio_name)
                     print("Copying media file %s to %s" % (source_path, target_path))
-                    col.media.addFile(source_path)
+                    #col.media.addFile(source_path) <-- see Java Code
                     #shutil.copyfile(source_path, target_path)
-                    fields["Sound"] = "[sound:%s]" % audio_name
+                    #fields["Sound"] = "[sound:%s]" % audio_name
 
         fields["DefinitionsWithSamples"] = word.definitions_with_samples()
         fields["DefinitionsOnly"] = word.definitions_only()

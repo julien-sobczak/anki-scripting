@@ -104,6 +104,7 @@ public class Word {
     }
 
     private void downloadAudio(String outputDir) throws IOException {
+        if (true) { return; } // FIXME Wikipedia blocks scraping
         String audioUrl = getAudioUrl();
 
         if (audioUrl != null) {
