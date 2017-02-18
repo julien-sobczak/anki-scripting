@@ -182,9 +182,9 @@ def load(col, filepath, deck_name):
                     source_path = audio_path
                     target_path = os.path.join(media_directory, audio_name)
                     print("Copying media file %s to %s" % (source_path, target_path))
-                    #col.media.addFile(source_path) <-- see Java Code
+                    col.media.addFile(source_path)
                     #shutil.copyfile(source_path, target_path)
-                    #fields["Sound"] = "[sound:%s]" % audio_name
+                    fields["Sound"] = "[sound:%s]" % audio_name
 
         fields["DefinitionsWithSamples"] = word.definitions_with_samples()
         fields["DefinitionsOnly"] = word.definitions_only()
@@ -240,7 +240,7 @@ def load(col, filepath, deck_name):
         note.model()['did'] = deck['id']
 
         # Ordered fields as defined in Anki note type
-        anki_fields = ["Word", "Sound", "DefinitionsWithSamples", "DefinitionsOnly", "Image", "IPA", "Translation", "Synonyms", "SampleA", "SampleB", "SampleC", "HasImageCard", "HasDefinitionsCard", "AnswerA", "AnswerB", "AnswerC", "HasTranslationCard" ]
+        anki_fields = ["Word", "Sound", "DefinitionsWithSamples", "DefinitionsOnly", "Image", "IPA", "Translation", "Synonyms", "SampleA", "SampleB", "SampleC", "HasImageCard", "HasDefinitionsCard", "AnswerA", "AnswerB", "AnswerC", "HasTranslationCard", "DefinitionA", "DefinitionB" ]
 
         for field, value in fields.items():
             note.fields[anki_fields.index(field)] = value
