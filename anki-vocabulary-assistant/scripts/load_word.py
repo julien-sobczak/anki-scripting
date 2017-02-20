@@ -4,7 +4,7 @@
 Load a word JSON file saved by this application to Anki.
 """
 
-import os, json, shutil, sys
+import os, json, shutil, sys, re
 
 # Add Anki source to path
 sys.path.append("../../anki")
@@ -117,8 +117,9 @@ class Word:
                     if "quotations" in definition:
                         for quotation in definition["quotations"]:
                             if "card_sample" in quotation and quotation["card_sample"]:
+                                regex = re.compile(re.escape(self.title()), re.IGNORECASE)
                                 answer = self._escape(quotation["text"])
-                                sample = answer.replace(self.title(), "[...]")
+                                sample = regex.sub("[...]", answer)
                                 result[sample] = answer
         return result
 
@@ -171,6 +172,7 @@ def load(col, filepath, deck_name):
 
         fields = {}
         fields["Word"] = word.title()
+        fields["Rank"] = str(word.rank())
 
         if word.audio_url():
             filename = "%s-%s" % (word.rank(), word.title())
@@ -240,7 +242,7 @@ def load(col, filepath, deck_name):
         note.model()['did'] = deck['id']
 
         # Ordered fields as defined in Anki note type
-        anki_fields = ["Word", "Sound", "DefinitionsWithSamples", "DefinitionsOnly", "Image", "IPA", "Translation", "Synonyms", "SampleA", "SampleB", "SampleC", "HasImageCard", "HasDefinitionsCard", "AnswerA", "AnswerB", "AnswerC", "HasTranslationCard", "DefinitionA", "DefinitionB" ]
+        anki_fields = ["Word", "Sound", "DefinitionsWithSamples", "DefinitionsOnly", "Image", "IPA", "Translation", "Synonyms", "SampleA", "SampleB", "SampleC", "HasImageCard", "HasDefinitionsCard", "AnswerA", "AnswerB", "AnswerC", "HasTranslationCard", "DefinitionA", "DefinitionB", "Rank" ]
 
         for field, value in fields.items():
             note.fields[anki_fields.index(field)] = value
