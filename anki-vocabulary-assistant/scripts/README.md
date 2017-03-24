@@ -10,7 +10,7 @@ Use
 First, make a copy of your Anki home directory (a backup does not save media files).
 
 ```
-$ cp -R ~/Documents/Anki ~/Documents/AnkiBackup
+$ cp -R AnkiModel AnkiTest
 ```
 
 Inside the current folder, run the script `restore-anki.sh` to generate a folder `AnkiTest` in the same directory. 
@@ -46,6 +46,8 @@ We just have to run Anki again:
 ```
 $ anki -b ./AnkiTest
 ```
+
+Note: Anki should be run in Python 2 (current virtualenv uses Python 3)
 
 You should see appear the flashcards. Launch the study mode to see them. If the result looks good, export the deck using the menu `File > Export...`, and exit Anki. Then, launch Anki using the default path (containing the profile you use daily) and use the menu 'File > Import'. Finished!
 
