@@ -58,7 +58,7 @@ angular.module('app', ['ngSanitize'])
         for (var j = 0; j < type.definitions.length; j++) {
             definition = type.definitions[j];
             var outdated = definition.text.indexOf('archaic') !== -1 || definition.text.indexOf('dated') !== -1; // ignore old definitions
-            definition.include = !outdated && i < 3 && j < 6; // Keep only 6 first definitions for 3 first types
+            definition.include = !outdated && i < 3 && j < 3; // Keep only 6 first definitions for 3 first types
             if (definition.quotations && definition.quotations.length > 0) {
                 quotations = definition.quotations;
                 definition.quotations = [];

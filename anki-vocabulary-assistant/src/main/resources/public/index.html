@@ -49,6 +49,7 @@
                                            ng-click="quotation.include = !quotation.include" ng-checked="quotation.include" my-selectable />
                                     <label for="quo-{{$parent.$parent.$index}}-{{$parent.$index}}-{{$index}}"><span class="quotation" ng-bind-html="quotation.text"></span></label>
                                     <input type="checkbox" ng-click="quotation.card_sample = !quotation.card_sample" ng-checked="quotation.card_sample"/> <span class="label">Sample?</span>
+                                    <input type="checkbox" ng-click="quotation.card_sample_hint = !quotation.card_sample_hint" ng-checked="quotation.card_sample_hint"/> <span class="label">Hint?</span>
                                 </div>
                             </li>
                         </ol>
