@@ -66,3 +66,12 @@
 [1487619852] sched.py:_updateCutoff(): 155, 1487642400
 [1487620030] collection.py:__init__(): /home/julien/Documents/AnkiModel/User 1/collection.anki2, 2.0.36
 [1487620030] sched.py:_updateCutoff(): 155, 1487642400
+[1494145534] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
+[1494145534] sched.py:_updateCutoff(): 231, 1494208800
+[1494145534] sched.py:unburyCards(): []
+[1494146318] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
+[1494146318] sched.py:_updateCutoff(): 231, 1494208800
+[1494150163] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
+[1494150163] sched.py:_updateCutoff(): 231, 1494208800
+[1494150685] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
+[1494150685] sched.py:_updateCutoff(): 231, 1494208800

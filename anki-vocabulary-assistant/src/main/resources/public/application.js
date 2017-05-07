@@ -114,7 +114,7 @@ angular.module('app', ['ngSanitize'])
     }
 
     // Precheck images
-    json.card_images = false // Most word will not have a description image
+    json.card_image = false // Most word will not have a description image
     if (!json.images) {
         json.images = [];
     }
