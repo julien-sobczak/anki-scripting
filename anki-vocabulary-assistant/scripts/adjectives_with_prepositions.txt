@@ -1,164 +1,156 @@
-accustomed	to
-accused	of
-acquainted	with
-addicted	to
-annoyed	about/with/at
-allergic	to
-amazed	at/by
-anxious	about
-appreciated	for
-ashamed	of
-associated	with
-astonished	at/by
-aware	of
-angry	with
-afraid	of
-attached	to
-bad	at
-based	on
-beneficial	to
-boastful	for
-bored	with
-brilliant	at
-busy	with
-capable	of
-careful	with/about/of
-certain	about
-characteristic	of
-clever	at
-connected	with
-conscious	of
-content	with
-crazy	about
-crowded	with
-curious	about
-dissatisfied	with
-doubtful	about
-delighted	at/about
-derived	from
-different	from
-disappointed	with
-eager	for
-eligible	for
-enthusiastic	about
-excellent	in/at
-excited	about
-experienced	in
-exposed	to
-envious	of
-faithful	to
-familiar	with
-famous	for
-fed up	with
-free	of/from
-frightened	of
-friendly	with
-fond	of
-furious	about
-furnished	with
-full	of
-generous	with/about
-guilty	of/about
-gentle	with
-good	at
-grateful	to
-happy	about
-hopeful	of/about
-identical	with/to
-immune	to
-impressed	with
-inferior	to
-indifferent	to
-innocent	of
-interested	in
-involved	with
-incapable	of
-jealous	of
-kind	to
-keen	on
-late	for
-limited	to
-lucky	at
-nervous	of/about
-notorious	for
-opposed	to
-patient	with
-pessimistic	about
-pleased	with
-polite	to
-popular	with
-presented	with
-proud	of
-punished	for
-puzzled	by/about
-qualified	for
-ready	for
-related	to
-relevant	to
-respectful	for
-responsible	for
-rid	of
-sad	about
-safe	from
-satisfied	with
-scared	of
-sensitive	to
-serious	about
-sick	of
-similar	to
-shocked	by
-skilful	at
-slow	at
-sorry	for/about
-successful	in
-suitable	for
-sure	of/about
-superior	to
-surprised	at
-suspicious	of
-sympathetic	with
-terrible	at
-terrified	of
-tired	of
-thankful	to/for
-trilled	with
-troubled	with
-typical	of
-unaware	of
-upset	about
-used	to
-wrong	with/about
-worried	about
-
-=====
-accustomed to	He is accustomed to having his own office.
-addicted to	She is addicted to watching TV.
-afraid of	She is afraid of speaking in public.
-anxious about	Norma is anxious about making the presentation.
-bored of	I am bored of doing the same old job.
-capable of	He is capable of winning a gold medal.
-committed to	She is committed to improving her English.
-concerned about	Nancy was concerned about being late.
-content with	Tim is content with winning second place.
-dedicated to	The organization is dedicated to ending poverty.
-devoted to	The money will be devoted to protecting the environment.
-disappointed with	Fiona was disappointed with coming in third place.
-discouraged by	He was discouraged by not getting the job.
-excited about	The researcher was excited about going to Africa.
-famous for	That actor is famous for being extremely weird.
-fond of	She is fond of having picnics.
-frightened of	She is frightened of being alone at night.
-guilty of	The banker was guilty of stealing money.
-happy about	He was happy about winning the lottery.
-interested in	She is interested in becoming a doctor.
-involved in	He was involved in making the movie.
-known for	She was known for causing problems.
-opposed to	They are opposed to building a new road in the park.
-proud of	He was proud of having completed the marathon.
-remembered for	She is remembered for protecting mountain gorillas.
-responsible for	He is responsible for causing the damage.
-scared of	Tina is scared of being alone at night.
-terrified of	The surfer is terrified of being attacked by a shark.
-tired from	She is tired from working all day.
-tired of	Margaret is tired of making dinner every night.
-worried about	The hikers were worried about not having enough water.
+accused of,
+accustomed to,He is accustomed to having his own office.
+acquainted with,
+addicted to,She is addicted to watching TV.
+afraid of,She is afraid of speaking in public.
+allergic to,He is allergic to nuts.
+amazed at,
+amazed by,
+angry with,Mom is angry with you.
+annoyed about,
+annoyed with,
+annoyed at,
+anxious about,Norma is anxious about making the presentation.
+appreciated for,
+ashamed of,
+associated with,
+astonished at,
+astonished by,
+attached to,
+aware of,
+bad at,
+based on,This report is based on numerous studies.
+beneficial to,
+bored of,I am bored of doing the same old job.
+bored with,
+brilliant at,
+busy with,I am too busy with my work.
+capable of,He is capable of winning a gold medal.
+careful with,
+careful about,
+careful of,
+certain about,
+characteristic of,
+clever at,
+committed to,She is committed to improving her English.
+concerned about,Nancy was concerned about being late.
+connected with,
+conscious of,
+content with,Tim is content with winning second place.
+crazy about,
+crowded with,
+curious about,
+dedicated to,The organization is dedicated to ending poverty.
+delighted at,I am delighted at the progress that both countries have made
+delighted about,I am delighted about this
+derived from,The observed trends derived from indicators
+devoted to,The money will be devoted to protecting the environment.
+different from,Every one is different from the other
+disappointed with,Fiona was disappointed with coming in third place.
+discouraged by,He was discouraged by not getting the job.
+dissatisfied with,I am extremely dissatisfied with his response.
+doubtful about,People are doubtful about the safety of ships
+eager for,They are eager for new experiences and knowledge
+eligible for,He is eligible for a heart transplant
+enthusiastic about,Always be enthusiastic about your team
+envious of,We are envious of the situation in other countries.
+excellent in,Excellent in capturing the audience
+excellent at,Excellent at improvisation
+excited about,The researcher was excited about going to Africa.
+experienced in,Difficulties experienced in recruiting and retaining employees.
+exposed to,Furniture will be altered if directly exposed to sunlight
+faithful to,He remained faithful to his life vocation
+familiar with,We are familiar with the many problems faced by young people
+famous for,That actor is famous for being extremely weird.
+fed up with,You feel fed up with baby's crying
+fond of,She is fond of having picnics.
+free of,A world free of weapons
+free from,A world free from nuclear weapons
+friendly with,I am not friendly with any of them
+frightened of,She is frightened of being alone at night.
+full of,A room full of people
+furious about,Mom is furious about you.
+furnished with,We've been furnished with some of the best equipment in the world.
+generous with,They are generous with their time
+generous about,You're being overly generous about the financial part of it.
+good at,He's really good at his job
+grateful to,I am grateful to all those who supported us.
+guilty about,
+guilty of,The banker was guilty of stealing money.
+happy about,He was happy about winning the lottery.
+hopeful of,I am hopeful of a better future for the world.
+hopeful about,People are hopeful about the future.
+identical to,Their positioning should be identical to the example shown.
+immune to,No company is immune to the economic recession.
+impressed with,I was most impressed with his in-depth knowledge
+incapable of,He is incapable of reading correctly.
+indifferent to,They are completely indifferent to the social hardship
+inferior to,The price is inferior to the cost of production.
+innocent of,She is presumed to be innocent of the crime charged.
+interested in,She is interested in becoming a doctor.
+involved in,He was involved in making the movie.
+involved with,Our lives are more involved with science.
+jealous of,You were always jealous of my football skills.
+keen on,I am very keen on protecting the environment.
+kind to,July has not been kind to the canola market.
+known for,She was known for causing problems.
+late for,It was clearly too late for us to pull out.
+limited to,Spirituality cannot be limited to religion.
+lucky at,I was lucky at first
+nervous about,I am very nervous about his speech
+notorious for,Humans are notorious for resisting change.
+opposed to,They are opposed to building a new road in the park.
+patient with,
+pessimistic about,
+pleased with,
+polite to,
+popular with,
+presented with,
+proud of,He was proud of having completed the marathon.
+punished for,
+puzzled by,
+puzzled about,
+qualified for,
+ready for,
+related to,
+relevant to,
+remembered for,She is remembered for protecting mountain gorillas.
+respectful for,
+responsible for,He is responsible for causing the damage.
+rid of,
+sad about,
+safe from,
+satisfied with,
+scared of,Tina is scared of being alone at night.
+sensitive to,
+serious about,
+shocked by,
+sick of,
+similar to,
+skillful at,
+slow at,
+sorry for,
+sorry about,
+successful in,
+suitable for,
+superior to,
+sure of,
+sure about,
+surprised at,
+suspicious of,
+sympathetic with,
+terrible at,
+terrified of,The surfer is terrified of being attacked by a shark.
+thankful to,
+thankful for,
+tired from,She is tired from working all day.
+tired of,Margaret is tired of making dinner every night.
+trilled with,
+troubled with,
+typical of,
+unaware of,
+upset about,
+used to,
+worried about,The hikers were worried about not having enough water.
+wrong with,There is nothing wrong with that.
+wrong about,I may be wrong about the probable impact of global warming.
