@@ -1,0 +1,223 @@
+# addition / sequence
+additionally,The diet recommends fruit juice for breakfast and, additionally, fresh fruit once a day.|Le régime recommande des jus de fruits pour le petit-déjeuner et, en plus, des fruits frais une fois par jour.
+afterward,Afterward, she got a promotion.|Par la suite, elle a obtenu une promotion.
+again,We are back together again.|Nous revenons à nouveau ensemble.
+also,I have a brother and also a sister.|J'ai un frère et une soeur aussi.
+and,I am very outspoken and direct.|Je suis très franc et direct.
+and then,Open the window, and then click on the button.|Ouvrez la fenêtre, puis cliquez sur le bouton.
+besides,It is too early to sleep; besides, I am not tired.|Il est trop tôt pour dormir. D'ailleurs, je ne suis pas fatigué.
+eventually,All good employees eventually get promoted.|Tous les bons employés finissent par être promus.
+finally,He finally decided to stop smoking.|Il a finalement décidé d'arrêter de fumer.
+further,Further, there were wild boars.|En outre, il y avait des sangliers.
+furthermore,Furthermore, it is important to review all processes.|En outre, il est important d'examiner tous les processus.
+in addition,I received a bonus in addition to my salary.|J'ai reçu une prime en plus de mon salaire.
+in the first place,The doctor should have prescribed stronger drugs in the first place.|Le médecin aurait dû prescrire des médicaments plus forts en premier lieu.
+initially,Initially, I wanted to study chemistry, but I changed my mind.|Au début, je voulais étudier la chimie, mais j'ai changé d'avis.
+last,At last, we did it!|Enfin, nous l'avons fait !
+later,Later they watched television.|Plus tard, ils ont regardé la télévision.
+likewise,Your brother is studying hard and you should do likewise.|Votre frère étudie beaucoup et vous devez faire de même.
+meanwhile,All he did was complain; meanwhile, I found a solution.|Tout ce qu'il faisait était de se plaindre. Pendant ce temps, j'ai trouvé une solution.
+moreover,Apples are delicious and, moreover, great for your health.|Les pommes sont délicieuses, et qui plus est, bonnes pour la santé.
+next,Next, add the spices.|Ensuite, ajoutez les spicies.
+overall,Overall, the company enjoyed strong growth.|Dans l'ensemble, la société a connu une forte croissance.
+still,I still live in my parents' house.|Je vis toujours dans la maison de mes parents.
+too,I want to go too!|Je veux y aller aussi!
+what’s more,What's more important: exercise or sleep?|Quoi de plus important: exercice ou sommeil?
+
+# concession
+admittedly,Admittedly, we did not reach the goal, but we came close.|Certes, nous n'avons pas atteint le but, mais nous sommes proches.
+although it is true that,Although it is true that boxing may result in brain damage.|Bien qu'il soit vrai que la boxe peut entraîner des lésions cérébrales.
+certainly,With respect to your money problems, I can certainly help.|En ce qui concerne vos problèmes d'argent, je peux certainement vous aider.
+conceding that, He later backed off a bit in his criticism, conceding that the arrangement was "clever."|Il a plus tard reculé dans ses critiques, en reconnaissant que l'arrangement était «intelligent».
+in fact,Sales have increased; in fact, we even doubled our earnings.|Les ventes ont augmenté. En fait, nous avons même doublé nos gains.
+it may appear that,It may appear that she has made a better choice.|Il semblerait qu'elle a fait un meilleur choix.
+naturally,Naturally, I will contact you as soon as I have the results.|Naturellement, je vous contacterai dès que j'aurai les résultats.
+of course,I could of course take the bus, but I would rather walk.|Je pourrais bien sûr prendre le bus, mais je préférerais marcher.
+surely,My teacher surely knows the answer.|Mon professeur sait sûrement la réponse.
+undoubtedly,The author's latest book is undoubtedly his best one.|Le dernier livre de l'auteur est incontestablement son meilleur.
+without a doubt,Without a doubt, she knew she was actually in love with him.|Sans aucun doute, elle savait qu'elle était vraiment amoureuse de lui.
+
+# contrast:
+after all,After all, it's not up to me.|Après tout, ce n'est pas à moi.
+alternatively,Alternatively, we could also argue that a way to correct this program is to change line 3.|Alternativement, nous pourrions également affirmer qu'une façon de corriger ce programme est de changer la ligne 3.
+although,Although the sun is shining, it is quite cold.|Although the sun is shining, it is quite cold.
+at the same time,The teacher arrived at the same time as the students.|The teacher arrived at the same time as the students.
+but,There were setbacks but we nevertheless made progress.|Il y a eu des revers, mais nous avons néanmoins progressé.
+conversely,Conversely, we observed that the criminality increases at night.|À l'inverse, nous avons observé que la criminalité augmente de nuit.
+despite,Despite the bad traffic, the employee was not late.|Malgré le mauvais trafic, l'employé n'était pas en retard.
+even so,Even so, I will love you tenderly.|Même ainsi, je vous aimerai tendrement.
+even though,He went jogging even though the temperature was freezing.|Il a fait du jogging même si la température était gelée.
+however,My train is delayed. However, I will be there soon enough.|Mon train est retardé. Cependant, je serai là-bas assez tôt.
+in contrast,In contrast, a candidate with a very precise signal faces no such handicap.|En revanche, un candidat avec un signal très précis ne fait face à aucun tel handicap.
+in spite of,I went for a walk in spite of the bad weather.|Je me promenais en dépit du mauvais temps.
+instead,I could take the bus, but I will walk instead.|Je pourrais prendre le bus, mais je vais marcher à la place.
+nevertheless,There were setbacks but we nevertheless made progress.|Il y a eu des revers, mais nous avons néanmoins progressé.
+nonetheless,It is difficult, but we must try nonetheless.|C'est difficile, mais il faut néanmoins essayer.
+nor,I like neither apples nor grapes.|Je n'aime ni les pommes ni les raisins.
+notwithstanding,Notwithstanding their shared border, the two countries are very different.|Malgré leur frontière partagée, les deux pays sont très différents.
+on the contrary,On the contrary, I seldom give death much thought.|Au contraire, je pense rarement à la mort.
+on the other hand,On the one hand, I'm tired; but on the other hand, I want to watch a film.|D'une part, je suis fatigué. Mais d'autre part, je veux regarder un film.
+or,Customers can pay in cash or by debit card.|Les clients peuvent payer en espèces ou par carte de débit.
+otherwise,She was away, otherwise we would have visited her.|Elle était absente, sinon nous l'aurions visité.
+regardless,The odds are high the market will end the year positive, regardless of what happened the year before.|Les chances sont élevées, le marché finira l'année positive, peu importe ce qui s'est passé l'année précédente.
+though,The journey was incredible, though tiring.|Le voyage était incroyable, bien que fatiguant.
+yet,I am working quickly but I have not finished yet.|Je travaille rapidement mais je n'ai pas encore fini.
+
+# examples, clarification, emphasis:
+after all,After all, it's not up to me.|Après tout, ce n'est pas à moi.
+by all means,'Can I come and have a look at your house?'—'Yes by all means'.|«Puis-je venir regarder votre maison?» - «Oui, sans hésitation».
+certainly,With respect to your money problems, I can certainly help.|En ce qui concerne vos problèmes d'argent, je peux certainement vous aider.
+clearly,The company's results have clearly improved in the last quarter.|Les résultats de l'entreprise se sont clairement améliorés au dernier trimestre.
+definitely,A large screen definitely brings ease of reading.|Un grand écran apporte définitivement une meilleure lecture.
+even,Even the most intelligent people make mistakes.|Même les personnes les plus intelligentes font des erreurs.
+for example,An inventory is a list of objects, for example in a warehouse.|Un inventaire est une liste d'objets, par exemple dans un entrepôt.
+for instance,The hotel offers many activities, for instance tennis or golf.|L'hôtel offre de nombreuses activités, comme le tennis ou le golf.
+for one thing,She was a monster. For one thing, she really enjoyed cruelty.|Elle était un monstre. D'une part, elle a vraiment apprécié la cruauté.
+more importantly,He left and, more importantly, never came back.|Il est parti et, surtout, n'est jamais revenu.
+indeed,This offer is indeed a great opportunity.|Cette offre est en effet une excellente opportunité.
+in fact,Sales have increased; in fact, we even doubled our earnings.|Les ventes ont augmenté. En fait, nous avons même doublé nos gains.
+in other words,She is my mother's sister, in other words, my aunt.|Elle est la soeur de ma mère, en d'autres termes, ma tante.
+in particular,The professor highlighted two topics in particular.|Le professeur a souligné deux sujets en particulier.
+in short,Try tennis, badminton or windsurfing. In short, anything challenging.|Essayez le tennis, le badminton ou la planche à voile. Bref, tout un défi.
+namely,My colleagues share the same goal, namely success.|My colleagues share the same goal, namely success.
+of course,I could of course take the bus, but I would rather walk.|Je pourrais bien sûr prendre le bus, mais je préférerais marcher.
+once again,He called me once again to confirm the appointment.|Il m'a appelé une fois de plus pour confirmer le rendez-vous.
+specifically,The new product was specifically designed for children.|Le nouveau produit a été spécifiquement conçu pour les enfants.
+somewhat,I felt somewhat tired after the journey.|Je me suis senti un peu fatigué après le voyage.
+that is to say,Territories were occupied in 1967, that is to say, in Gaza.|Les territoires ont été occupés en 1967, c'est-à-dire à Gaza.
+the following example,The following example changes the timeout to 20 seconds.|L'exemple suivant modifie le délai d'attente à 20 secondes.
+this can be seen in,This can be seen in Figure 12.|Cela se voit à la figure 12.
+thus,The team scored a goal, thus winning the match.|L'équipe a marqué un but, gagnant ainsi le match.
+to put it another way,Or, to put it another way, roughly £15,000 for every member of the population.|Ou, pour dire d'une autre façon, environ 15 000 £ pour chaque membre de la population.
+truly,I am truly grateful for your help.|Je suis vraiment reconnaissant de votre aide.
+undoubtedly,The champion is undoubtedly the best player in the world.|Le champion est sans aucun doute le meilleur joueur au monde.
+without a doubt,Without doubt this was the most important relationship I developed at college.|Sans doute, c'était la relation la plus importante que j'ai développée au collège.
+
+# place or direction:
+below,The name of the painting is written below.|Le nom du tableau est écrit ci-dessous.
+beyond,I did not bring much beyond the bare essentials.|Je n'ai pas beaucoup été au delà des éléments essentiels.
+closer to,I moved to live closer to my job.|Je me suis déplacé pour vivre plus près de mon travail.
+elsewhere,My usual restaurant is closed so I will eat elsewhere.|Mon restaurant habituel est fermé et je vais manger ailleurs.
+far,So far, no action has been taken.|Jusqu'à présent, aucune action n'a été prise.
+here,My hotel is only a few steps away from here.|Mon hôtel se trouve à quelques pas de là.
+near,I like swimming in the lake near the forest.|J'aime nager dans le lac près de la forêt
+nearby,I know a good restaurant nearby.|Je connais un bon restaurant à proximité.
+next to,I cannot put up with people who smoke next to me.|Je ne peux pas supporter des gens qui fument à côté de moi.
+opposite to,On the other side, it is also important to stand up regurlarly.|D'un autre côté, il est également important de se lever de façon régulière.
+there,My friend is always there for me when I need her.|Mon ami est toujours là pour moi quand je l'ai besoin.
+under,Torture is illegal under international law.|La torture est illégale selon le droit international.
+underneath,I am wearing a suit jacket with a vest underneath.|Je porte une veste avec un gilet en dessous.
+wherever,My dog follows me wherever I go.|Mon chien me suit partout où je vais.
+
+# purpose/cause and effect:
+accordingly,According to my dentist, I have perfect teeth.|D'après mon dentiste, j'ai des dents parfaites.
+as a consequence,As a consequence, the battery should be replaced.|En conséquence, la batterie doit être remplacée.
+as a result,As a result, turnover per employee were half the average.|Résultat, le chiffre d'affaires par employé était la moitié de la moyenne.
+because,I feel good because I slept well.|Je me sens bien parce que j'ai bien dormi.
+due to,The flight was delayed due to bad weather.|Le vol a été retardé en raison du mauvais temps.
+for that reason,For that reason we do not like the death|Pour cette raison, nous n'aimons pas la mort.
+for this purpose,The European Union is giving public money for this purpose|L'Union Européenne donne de l'argent public à cet effet.
+for this purpose,For this purpose, manufacturers must complain to the new law.|A cette fin, les fabricants doivent se plier à cette nouvelle loi.
+in this regard,In this regard, a good knowledge of the market is a clear advantage.|A cet égard, une bonne connaissance du marché est un avantage certain.
+hence,These screws are more robust and hence last longer.|Ces vis sont plus robustes et durent donc plus longtemps.
+on account of,My grandfather cannot drive on account of his eyesight.|Mon grand-père ne peut pas conduire à cause de sa vue.
+since,Since I lost weight, I always have to pull up my pants.|Comme j'ai perdu du poids, je dois toujours monter mon pantalon.
+so that,Accept the challenge so that you can feel the exhilaration of victory.|Acceptez le défi afin que vous puissiez ressentir l'excitation de la victoire.
+then,I brushed my teeth, then went to bed.|Je me suis brossé les dents, puis je suis allé au lit.
+therefore,The tools are rusted and must therefore be changed.|Les outils sont rouillés et doivent donc être modifiés.
+thus,The student passed the final exam, thus completing the course.|L'élève a passé l'examen final, complétant ainsi le cours.
+to this end,To this end, it is important that we collect client feedback.|À cette fin, il est important de solliciter les commentaires des clients.
+with this in mind,With this in mind, the committee adopted the proposal.|En ayant ceci à l'esprit, le comité a adopté la proposition.
+with this objective,With this objective in mind, a number of questions must be asked.|Dans cette perspective, un certain nombre de questions se posent.
+
+# qualification:
+almost,My son is almost six years old.|Mon fils a presque six ans
+although,Although cold, this dish is very good.|Bien que froid, ce plat est très bon.
+always,I always stretch after running.|Je m'étirer toujours après la course.
+frequently,Frequently, books are published in more than one edition.|Souvent, les livres sont publiés dans plus d'une édition.
+maybe,Maybe we can go to the restaurant tonight.|Peut-être que nous pouvons aller au restaurant ce soir.
+nearly,I have nearly finished reading the book.|J'ai presque fini de lire le livre.
+never,My husband and I never have arguments.|Mon mari et moi n'avons jamais de disputes.
+often,Our cat often chases mice.|Our cat often chases mice.
+perhaps,Perhaps I will go to France this summer.|Peut-être que je vais aller en France cet été.
+probably,I will probably see my friend tomorrow, but I am not sure.|Je vais probablement voir mon ami demain, mais je ne suis pas sûr.
+time and again,Time and again the teacher tell us how this is possible.|Le professeur nous répètent à maintes reprises comment cela est possible.
+
+# result:
+accordingly,It is a difficult job and they should be paid accordingly.|It is a difficult job and they should be paid accordingly.
+hence,The contract is signed, hence it is valid.|Le contrat est signé, donc il est valide.
+then,The raw sugar is then refined to produce white sugar.|Le sucre brut est ensuite raffiné pour produire du sucre blanc.
+therefore,My sister can sew, therefore she makes her own clothes.|Ma soeur peut coudre, donc elle fait ses propres vêtements.
+thus,The student passed the final exam, thus completing the course.|L'étudiant a passé l'examen final, ce qui a permis de terminer le cours.
+
+# similarity:
+again,We are back together again.|We are back together again.
+also,I have a brother and also a sister.|I have a brother and also a sister.
+as well as,I will invite my friends as well as my family.|J'inviterai mes amis ainsi que ma famille.
+besides,I am overqualified for the job, and besides, I have another offer.|Je suis surqualifié pour le travail, et d'ailleurs, j'ai une autre offre.
+by the same token,By the same token, politicians couldn't do without the press.|De même, les politiciens ne pourraient pas faire sans la presse.
+furthermore,Furthermore, it is important to review all processes.|En outre, il est important d'examiner tous les processus.
+in a similar way,Coal and gas effect the environment in a similar way.|Le charbon et le gaz impactent l'environment de façon similaire.
+in the same way,All the company's computers work in the same way.|Tous les ordinateurs de l'entreprise fonctionnent de la même manière.
+likewise,Your brother is studying hard and you should do likewise.|Votre frère étudie beaucoup et vous devez faire de même.
+moreover,Apples are delicious and, moreover, great for your health.|Les pommes sont délicieuses et, de plus, superbes pour votre santé.
+once more,I had to help my friend once more.|Je devais une fois de plus aider mon ami.
+similarly,My sister and I dress similarly.|Ma soeur et moi nous nous sommes habillés de manière similaire.
+
+# summary or conclusion:
+after all,After all, it's not up to me.|Après tout, ce n'est pas à moi.
+all in all,All in all, hundreds of people took part in the survey.|Au total, des centaines de personnes ont participé au sondage.
+as has been noted,As has been noted before, our ambassador is in France now trying to assist those negotiations.|Comme cela a été souligné précédemment, notre ambassadeur est actuellement en France pour faciliter ces négociations.
+as I have said,As I have said before, I believe in humanity.|Comme je l'ai dit précédemment, je crois en l'Humanité.
+as we have seen,As we have seen, this presents both benefits and challenges.|Comme nous l'avons vu, cette option présente des avantages et des inconvénients.
+as mentioned earlier,As mentioned earlier, nearly nine million children in developing countries still die each year before their fifth birthday.|Comme je l'ai mentionné, près de neuf millions d'enfants meurent encore chaque année avant leur cinquième anniversaire dans les pays en développement.
+as stated,However,there is an obligation, as stated elsewhere in these guidelines.|Toutefois, il est obligatoire, comme indiqué ailleurs dans les présentes lignes directrices.
+clearly,Clearly the social services must be flexible.|De toute évidence, les services sociaux doivent être flexibles.
+finally,The captives were finally released.|Les captifs ont finalement été relâchés.
+in any event,In any event, the bowling alley restaurant proved quite acceptable.|En tout état de cause, le restaurant de bowling s'est avéré tout à fait acceptable.
+in brief,In brief, take no risks.|Bref, ne prend aucun risque.
+in conclusion,In conclusion, the study shows that wealth is linked to education.|En conclusion, l'étude montre que la richesse est liée à l'éducation.
+in other words,She is my mother's sister, in other words, my aunt.|Elle est la soeur de ma mère, en d'autres termes, ma tante.
+in particular,The professor highlighted two topics in particular.|Le professeur a souligné deux sujets en particulier.
+in short,In short, they want the best.|Pour faire court, ils veulent le meilleur.
+in simpler terms,In simpler terms, it means knowing what is happening around you.|Plus simplement, il s'agit de savoir ce qui se passe autour de soi.
+in summary,In summary, this process was very successful.|En résumé, ce processus a été très réussi.
+on the whole,On the whole, the conference was interesting.|Dans l'ensemble, la conférence était intéressante.
+therefore,It rained all week and therefore the match was called off.|Il a plu toute la semaine et par conséquent le match a été annulé.
+to conclude,To conclude this seminar, let me say what a great pleasure it has been for me to be here with you today.|Pour achever ce séminaire, je voudrais vous dire à quel point j'ai été heureux d'être parmi vous aujourd'hui.
+to summarize,To summarize, this still remains an open question.|En somme, cela reste toujours une question ouverte.
+
+# time:
+after a bit,After a bit more time, suggestions were made that were acceptable to most people.|Au bout d'un certain temps, les parties ont fait des suggestions que la plupart des personnes présentes ont acceptées.
+after a bit,After a bit of thought, our plan is to partition the system like this.|Aprés un peu de reflexion, notre plan est de partitionner le système comme cela.
+after a few days,After a few days in various cities and regions in Canada|Après quelques jours passés dans les diverses villes et régions du Canada
+after a while,After a while the police evicted us.|Au bout d'un moment la police nous en a chassés.
+shortly after,You will receive an email notification shortly after someone sends you a transfer.|Vous recevrez par courriel un avis peu après la demande de virement.
+again,My brother forgot to call me again.|Mon frère a oublié de me rappeler.
+also,The printer can also scan and copy documents.|L'imprimante peut également scanner et copier des documents.
+as long as,I will love you as long as I live.|Je t'aimerai tant que je vivrai.
+at that time,At that time, people travelled on horseback.|À cette époque, les gens voyaient à cheval.
+at the same time,The teacher arrived at the same time as the students.|L'enseignant est arrivé en même temps que les élèves.
+finally,After four years of study, I finally graduated.|Après quatre ans d'études, j'ai finalement obtenu mon diplôme.
+initially,Initially, I wanted to study chemistry, but I changed my mind.|Au début, je voulais étudier la chimie, mais j'ai changé d'avis.
+in a few days,We will do it in a few days.|Nous allons le faire dans quelques jours.
+in the future,He will be more careful in the future.|He will be more careful à l'avenir.
+in the meantime,In the meantime, the father was granted interim custody.|Entre-temps, le père s'est vu accorder la garde provisoire de l'enfant.
+in the past,The archipelago was one of the major fishing sites in the past.|L'archipel était l'un de nos principaux secteurs de pêche par le passé.
+lately,The weather has been great lately.|Le temps a été clément ces derniers temps.
+meanwhile,Meanwhile, the situation has changed.|Pendant ce temps, la situation a changé.
+presently,The island is presently uninhabited.|L'île est actuellement inhabitée.
+previously,He had first entered the White House 12 years previously.|Il est entré dans la Maison Blanche 12 ans auparavant.
+recently,I have recently joined several clubs.|I have recently joined several clubs.
+shortly,The new edition will be available shortly.|La nouvelle édition sera bientôt disponible.
+simultaneously,Both concerts took place simultaneously on two different stages.|Les deux concerts ont eu lieu simultanément sur deux étapes différentes.
+since,I have not smoked since 2005.|Je n'ai pas fumé depuis 2005.
+so far,So far, no action has been taken.|Jusqu'à présent, aucune action n'a été prise.
+soon,The young widow soon found a new husband.|La jeune veuve a rapidement trouvé un nouveau mari.
+still,I still live in my parents' house.|Je vis toujours dans la maison de mes parents.
+subsequently,She subsequently became the Faculty's President.|Elle est ensuite devenue le président de la Faculté.
+thereafter,Thereafter, he ceased to pay attention.|Par la suite, il a cessé de faire attention.
+this time,This time, at any rate, I have learned my lesson.|Cette fois, en tout cas, j'ai appris ma leçon.
+until now,Until now it is unclear which ingredient in beer is responsible for this.|A ce jour,il n'apparaît pas clairement quel est l'ingrédient de la bière qui est responsable de cet effet.
+until now,Until now, the project has been managed in an opaque manner.|Jusqu'à présent, le projet a été géré de manière opaque.
+whenever,I start singing whenever I hear this song.|Je commence à chanter chaque fois que j'entends cette chanson.
