@@ -167,7 +167,7 @@ class Word:
 def escape_em(text):
     """
     Replace quotes around english word by HTML tags.
-    
+
     Ex: ennui ''tiresome'' > ennui <em><font>tiresome</font></em>
     """
     return re.sub(r"''(.*?)''",
@@ -322,7 +322,7 @@ if __name__ == "__main__":
     current_word = None
 
     # Parse input file
-    with open('/home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/false-friends-FR-EN.xwiki', 'r') as f:
+    with open(args.input_file, 'r') as f:
         for line in f.readlines():
             line = line.strip()
 

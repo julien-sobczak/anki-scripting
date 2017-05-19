@@ -78,3 +78,6 @@
 [1494252850] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
 [1494252850] sched.py:_updateCutoff(): 232, 1494295200
 [1494252850] sched.py:unburyCards(): []
+[1495357472] collection.py:__init__(): /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/AnkiModel/User 1/collection.anki2, 2.0.36
+[1495357472] sched.py:_updateCutoff(): 245, 1495418400
+[1495357472] sched.py:unburyCards(): []
