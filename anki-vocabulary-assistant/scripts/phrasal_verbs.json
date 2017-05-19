@@ -1,778 +1,981 @@
 [
     {
-        "example": "Examples",
-        "meaning": "Meaning",
-        "verb": "Phrasal Verb"
-    },
-    {
         "example": "What's wrong with Bob? He's acting like an idiot.",
-        "meaning": "behave in a way that's like _____ Note: This phrasal verb is very informal.",
-        "verb": "act like (inseparable)"
+        "meaning": "behave in a way that's like... (very informal).",
+        "usage": "inseparable",
+        "verb": "act like"
     },
     {
-        "example": "The baby sitter had a difficult time. The children acted up all evening. \"I guess I'd better take my car to the garage. It's been acting up lately.\"",
+        "examples": [
+            "The baby sitter had a difficult time. The children acted up all evening.",
+            "I guess I'd better take my car to the garage. It's been acting up lately."
+        ],
         "meaning": "misbehave (for people); not work properly (for machines)",
-        "verb": "act up (no object)"
+        "usage": "no object",
+        "verb": "act up "
     },
     {
-        "example": "His evidence just doesn 't add up.",
-        "meaning": "(make sense)",
-        "verb": "Add up"
+        "example": "His evidence just doesn't add up.",
+        "meaning": "make sense",
+        "verb": "add up"
     },
     {
-        "example": "His theory is hard to believe, but his research adds up. \"His theory seems, at first, to be plausible, but the facts in his research don't add up.\"",
+        "examples": [
+            "His theory is hard to believe, but his research adds up.",
+            "His theory seems, at first, to be plausible, but the facts in his research don't add up."
+        ],
         "meaning": "logically fit together Note: This phrasal verb is often negative",
-        "verb": "add up (1. no object)"
+        "usage": "no object",
+        "verb": "add up"
     },
     {
         "example": "What's the total of those bills? Could you add them up and see?",
         "meaning": "find the total.",
-        "verb": "add up (2. separable)"
+        "usage": "separable",
+        "verb": "add up"
     },
     {
         "example": "The bills add up to $734.96. That's more than I expected!",
         "meaning": "to total.",
-        "verb": "add up to (inseparable)"
+        "usage": "inseparable",
+        "verb": "add up to"
     },
     {
         "example": "Jim was asking after you.",
-        "meaning": "(inquire about)",
-        "verb": "Ask after"
+        "meaning": "inquire about",
+        "verb": "ask after"
     },
     {
         "example": "Nancy has a new boy friend. Joe asked her out last night.",
         "meaning": "ask for a date.",
-        "verb": "ask out (separable)"
+        "usage": "separable",
+        "verb": "ask out"
     },
     {
-        "example": "Tom was going to call the police when I told him I'd wrecked his car, but he backed down when I said I'd pay for the damages. Shella was right, so Paul had to back down.",
+        "examples": [
+            "Tom was going to call the police when I told him I'd wrecked his car, but he backed down when I said I'd pay for the damages.",
+            "Shella was right, so Paul had to back down."
+        ],
         "meaning": "not follow a threat; yield In an argument",
-        "verb": "back down (no object)"
+        "usage": "no object",
+        "verb": "back down"
     },
     {
         "example": "Tom was ready to call the police when I told him I'd wrecked his car, but he backed off when I said I'd pay for the damages.",
         "meaning": "not follow a threat",
-        "verb": "back off (no object)"
+        "usage": "no object",
+        "verb": "back off "
     },
     {
-        "example": "You missed the lines in the parking space. You'll have to back up and try again. \"The people waiting in line are too close to the door. We won't be able to open it unless they back up.\"",
+        "examples": [
+            "You missed the lines in the parking space. You'll have to back up and try again.",
+            "The people waiting in line are too close to the door. We won't be able to open it unless they back up."
+        ],
         "meaning": "move backward; move in reverse",
-        "verb": "back up (1. no object)"
+        "usage": "no object",
+        "verb": "back up "
     },
     {
         "example": "You're too close! Back your car up so I can open the garage door.",
         "meaning": "drive a vehicle backwards (in reverse)",
-        "verb": "back up (2. separable)"
+        "usage": "separable",
+        "verb": "back up "
     },
     {
         "example": "If you don't believe me, talk to Dave. He'll back me up.",
         "meaning": "confirm a story, facts, or information",
-        "verb": "back up (3. separable)"
+        "usage": "separable",
+        "verb": "back up "
     },
     {
         "example": "When my computer crashed, I lost many of my files. It's a good thing I backed them up.",
         "meaning": "make a \"protection\" copy to use if there are problems with the original",
-        "verb": "back up (4. separable)"
+        "usage": "separable",
+        "verb": "back up "
     },
     {
         "example": "We hadn't bargained for there being so much traffic, and we missed the plane.",
-        "meaning": "(take into acount)",
-        "verb": "Bargain for"
+        "meaning": "take into acount",
+        "verb": "bargain for"
     },
     {
         "example": "The lead singer of 'The Rolling Beatles' pop group is ill, so tonight's concert is off. The concert is off.",
         "meaning": "to be cancelled",
-        "verb": "be off (1) usually used in the present tense  (of an event / an arrangement etc.)"
+        "usage": "of an event / an arrangement etc. (usually used in the present tense)",
+        "verb": "be off"
     },
     {
-        "example": "Nick decided to have a fried egg for breakfast, but there was a terrible smell when he cracked the egg. 'This egg is off,' he thought. I can't eat it.' The egg is off.",
+        "example": "This egg is off! I can't eat it.",
         "meaning": "to have gone bad",
-        "verb": "be off (2) (of food)"
+        "usage": "of food",
+        "verb": "be off"
     },
     {
-        "example": "The storm is over; it has stopped raining and the sun is shining. The storm is over.",
+        "example": "It has stopped raining and the sun is shining. The storm is over.",
         "meaning": "to be finished",
         "verb": "be over"
     },
     {
-        "example": "Jeff was taken aback when he opened the door and discovered an elephant. Jeff was taken aback by the discovery of an elephant. Jeff was taken aback.",
+        "examples": [
+          "Jeff was taken aback when he opened the door and discovered an elephant.",
+          "Jeff was taken aback by the discovery of an elephant.",
+          "Jeff was taken aback."
+        ],
         "meaning": "to be surprised and confused",
-        "verb": "be taken aback used in the passive"
+        "verb": "be taken aback",
+        "usage": " used in the passive"
     },
     {
         "example": "Helen's alibi was borne out by her sister.",
-        "meaning": "(confirm the truth)",
-        "verb": "Bear out"
+        "meaning": "confirm the truth",
+        "verb": "bear out"
     },
     {
-        "example": "Two men beat Fred up and left him lying unconscious on the pavement. They beat up Fred. They beat Fred up. They beat him up.",
+        "examples": [
+          "Two men beat Fred up and left him lying unconscious on the pavement.",
+          "They beat up Fred.",
+          "They beat Fred up.",
+          "They beat him up."
+        ],
         "meaning": "to hurt someone badly by hitting and punching",
         "verb": "beat up"
     },
     {
         "example": "At first Lily said she would be at the party. Later she begged off.",
         "meaning": "decline an invitation; ask to be excused from doing something",
-        "verb": "beg off (no object)"
+        "usage": "no object",
+        "verb": "beg off "
     },
     {
         "example": "Mr Trent hated his house, so he blew it up with dynamite and built a new one instead. Mr Trent blew up his house. Mr Trent blew his house up. Mr Trent blew it up. The house blew up.",
         "meaning": "to destroy (something or someone) by explosion; to explode",
-        "verb": "blow up (1)"
+        "verb": "blow up"
     },
     {
         "example": "We needs lots of balloons for the party. Will you blow them up?",
         "meaning": "inflate",
-        "verb": "blow up (1. separable)"
+        "usage": "separable",
+        "verb": "blow up "
     },
     {
-        "example": "Uncle Joe blew up the balloons for the Christmas party. Uncle Joe blew up the balloons. Uncle Joe blew the balloons up. Uncle Joe blew them up.",
+        "examples": [
+          "Uncle Joe blew up the balloons for the Christmas party.",
+          "Uncle Joe blew the balloons up."
+        ],
         "meaning": "a balloon/a tyre /a football etc. to fill with air; to inflate",
-        "verb": "blow up (2)"
+        "verb": "blow up"
     },
     {
-        "example": "A: \"That old building really came down quickly!\" B: \"That's because the construction company used dynamite to blow it up.\"",
+        "example": "That old building really came down quickly! That's because the construction company used dynamite to blow it up.",
         "meaning": "explode; destroy by exploding",
-        "verb": "blow up (2. separable)"
+        "usage": "separable",
+        "verb": "blow up "
     },
     {
         "example": "Whe I told Jerry that I'd had an accident with his car, he blew up.",
         "meaning": "suddenly become very angry",
-        "verb": "blow up (3. no object)"
+        "usage": "no object",
+        "verb": "blow up "
     },
     {
         "example": "If you're going to travel to Peru, you'd better bone up on your Spanish.",
         "meaning": "review / study thoroughly for a short time",
-        "verb": "bone up on (inseparable)"
+        "usage": "inseparable",
+        "verb": "bone up on "
     },
     {
-        "example": "Tom's car broke down on the way to the airport, and he had to get a taxi. I His car broke down.",
+        "example": "Tom's car broke down on the way to the airport, and he had to get a taxi. His car broke down.",
         "meaning": "to stop working.",
-        "verb": "break down (1) (of machinery)"
+        "usage": "of machinery",
+        "verb": "break down "
     },
     {
         "example": "We spent a lot of money at the supermarket. When we broke the total cost down, we spent more on cleaning supplies than food.",
         "meaning": "separate something into component parts",
-        "verb": "break down (1. separable)"
+        "usage": "separable",
+        "verb": "break down "
     },
     {
-        "example": "Alec broke down and cried when his mother died. I Alec broke down. David broke down and wept when he heard the news.",
+        "examples": [
+          "Alec broke down and cried when his mother died.",
+          "David broke down and wept when he heard the news."
+        ],
         "meaning": "to lose control emotionally or mentally.",
-        "verb": "break down (2)"
+        "verb": "break down"
     },
     {
         "example": "Sharon will be late for work today. Her car broke down on the freeway.",
         "meaning": "stop working / functioning",
-        "verb": "break down (2. no object)"
+        "usage": "no object",
+        "verb": "break down "
     },
     {
-        "example": "Jane's apartment was burglarized last night. Someone broke in while Jane was at the movies. / \"Somebody broke into Jane's apartment while she was at the movies.",
+        "examples": [
+          "Jane's apartment was burglarized last night. Someone broke in while Jane was at the movies.",
+          "Somebody broke into Jane's apartment while she was at the movies."
+        ],
         "meaning": "enter by using force (and breaking a lock, window, etc.)",
-        "verb": "break in (1. often no object; with an object, break into--inseparable)"
+        "usage": "often no object; with an object, break into--inseparable",
+        "verb": "break in "
     },
     {
         "example": "These are nice shoes, but they're too stiff. I hope it doesn't take too long to break them in.",
         "meaning": "wear something new until it's / they're comfortable",
-        "verb": "break in (2. separable)"
+        "usage": "separable",
+        "verb": "break in "
     },
     {
         "example": "I hope I can learn my new job quickly. The manager hasn't scheduled much time for breaking me in.",
         "meaning": "train; get someone / something accustomed to a new routine",
-        "verb": "break in (3. separable)"
+        "usage": "separable",
+        "verb": "break in "
     },
     {
-        "example": "Last night a burglar broke into my house and stole my television set. A burglar broke into my house. A burglar broke into it.",
+        "examples": [
+          "Last night a burglar broke into my house and stole my television set.",
+          "A burglar broke into my house. A burglar broke into it."
+        ],
         "meaning": "to enter somewhere (e.g. a house) illegally, especially by force.",
         "verb": "break into a building / a bank / a house etc."
     },
     {
-        "example": "Peace talks between the U.S.S.R. and the U.S.A. have broken off after three days of serious disagreement. Peace talks between the U.S.S.R. and the U.S.A. have broken off. The U.S.A. has broken off peace talks with the U.S.S.R. They have broken off peace t",
+        "example": "Peace talks between the U.S.S.R. and the U.S.A. have broken off after three days of serious disagreement.",
         "meaning": "to end; to interrupt; to discontinue, stop talking",
-        "verb": "break off talks / negotiations / an engagement / a relationship / an agreement etc."
+        "context": "talks / negotiations / an engagement / a relationship / an agreement etc.",
+        "verb": "break off"
     },
     {
-        "example": "The Second World War broke out on 3 September, 1939. In 1939 World War Two broke out. World War Two broke out in 1939. World War Two broke out on 3 September, 1939.",
+        "examples": [
+          "The Second World War broke out on 3 September, 1939.",
+          "World War Two broke out in 1939."
+        ],
         "meaning": "to start, usually suddenly",
-        "verb": "break out (of unpleasant things e.g. wars, epidemics, fires, violence etc.)"
+        "usage": "of unpleasant things e.g. wars, epidemics, fires, violence etc.",
+        "verb": "break out"
     },
     {
         "example": "Cyril broke out in spots this morning. He broke out in spots. He broke out in them.",
         "meaning": "to become covered by (something).",
-        "verb": "Break out in spots / a rash / a cold sweat ('to show signs of great fear)"
+        "usage": "'to show signs of great fear",
+        "verb": "break out"
     },
     {
         "example": "What time did the party break up last night? The party finally broke up at 3.00 am.",
         "meaning": "disperse; scatter; come to an end",
-        "verb": "break up (1. no object)"
+        "usage": "no object",
+        "verb": "break up"
     },
     {
-        "example": "The Greens' marriage broke up in 1985 after only two years. Their marriage broke up. They broke up. Money trouble broke up their marriage. Money trouble broke it up.",
+        "examples": [
+          "The Greens' marriage broke up in 1985 after only two years.",
+          "They broke up.",
+          "Money trouble broke up their marriage. Money trouble broke it up."
+        ],
         "meaning": "to end; to separate.",
-        "verb": "Break up (2) (of a marriage / a family / a relationship etc.)"
+        "usage": "of a marriage / a family / a relationship etc.",
+        "verb": "break up"
     },
     {
-        "example": "The headmaster broke up the fight between Roger and Clive. The headmaster broke up the fight. The headmaster broke the fight up. The headmaster broke it up. The fight broke up.",
-        "meaning": "to stop.",
-        "verb": "Break up (2) an activity"
+        "examples": [
+          "The headmaster broke up the fight between Roger and Clive.",
+          "The headmaster broke the fight up.",
+          "The fight broke up."
+        ],
+        "meaning": "to stop an activity",
+        "verb": "break up"
     },
     {
-        "example": "Tim and Julie aren't going steady any more. They got really angry with each other and broke up. \"Have you heard the news? Julie broke up with Tim!\" \"I'm sorry to hear that their marriage broke up. I'm sure the divorce will be difficult for the children.\"",
+        "examples": [
+          "Tim and Julie aren't going steady any more. They got really angry with each other and broke up.",
+          "Have you heard the news? Julie broke up with Tim!",
+          "I'm sorry to hear that their marriage broke up."
+        ],
         "meaning": "end a personal relationship",
-        "verb": "break up (2. usually no object; with an object, break up with [inseparable)])"
+        "usage": "usually no object; with an object, break up with [inseparable]",
+        "verb": "break up"
     },
     {
-        "example": "Yes, you can borrow my pen, don't forget to bring it back to me when you're finished. \"This book is due tomorrow. I guess I should take it back to the library.\"",
+        "example": "Yes, you can borrow my pen, don't forget to bring it back to me when you're finished.",
         "meaning": "return something",
-        "verb": "bring / take back (separable)"
+        "usage": "separable",
+        "verb": "bring back"
     },
     {
-        "example": "The crisis was brought about by Brenda 's resignation.",
-        "meaning": "(cause to happen)",
-        "verb": "Bring about"
+        "example": "This book is due tomorrow. I guess I should take it back to the library.",
+        "meaning": "return something",
+        "usage": "separable",
+        "verb": "take back"
+    },
+    {
+        "example": "The crisis was brought about by Brenda's resignation.",
+        "meaning": "cause to happen",
+        "verb": "bring about"
     },
     {
         "example": "The team tried few ears to win the competition and they finally brought it off.",
-        "meaning": "(succeed in doing something)",
-        "verb": "Bring off"
+        "meaning": "succeed in doing something",
+        "verb": "bring off"
     },
     {
         "example": "No one thought Chuck could get an A in that course, but he brought it off.",
         "meaning": "accomplish something difficult; accomplish something people had considered impossible or unlikely",
-        "verb": "bring off (separable)"
+        "usage": "separable",
+        "verb": "bring off "
     },
     {
         "example": "Sitting in the damp brought on his rheumatism.",
-        "meaning": "(cause the onset of an illness)",
-        "verb": "Bring on (1)"
+        "meaning": "cause the onset of an illness",
+        "verb": "bring on"
     },
     {
-        "example": "You have brought this on/upon yourself.",
+        "example": "You have brought this on yourself.",
         "meaning": "(cause trouble to happen to) oneself",
-        "verb": "Bring on (2)"
+        "verb": "bring on"
     },
     {
         "example": "After much discussion, I brought the committee round to my point of view.",
-        "meaning": "(influence someone to your point of view)",
-        "verb": "Bring round"
+        "meaning": "influence someone to your point of view",
+        "verb": "bring round"
     },
     {
-        "example": "We planned to discuss overtime pay in the meeting. Why didn't someone bring that topic up? I feel I ought to bring up another small matter.",
+        "example": "We planned to discuss overtime pay in the meeting. Why didn't someone bring that topic up?",
         "meaning": "mention (as a topic of discussion)",
-        "verb": "bring up (1. separable)"
+        "usage": "separable",
+        "verb": "bring up"
     },
     {
-        "example": "Lucy's parents died when she was a baby. Her grandparents brought her up. Joe's mother brought him up well. She loved him, cared for him and taught him how to behave himself. Now he is a polite young man and his mother is proud of him. She brought up Joe.",
-        "meaning": "raise; rear; to take care of a child until it is fully grown and able to care for itself; to train and prepare a child for adult life. Note: Children are educated at school.",
-        "verb": "bring up (2. separable)"
+        "examples": [
+          "Lucy's parents died when she was a baby. Her grandparents brought her up.",
+          "Joe's mother brought him up well."
+        ],
+        "meaning": "raise; rear; to take care of a child until it is fully grown and able to care for itself; to train and prepare a child for adult life.",
+        "usage": "separable",
+        "verb": "bring up"
     },
     {
-        "example": "Frank's visit to the international business conference in Paris was a disaster because his French was so bad. His boss said, 'When you get back to England you must brush up your French by enrolling in an evening class.' Frank must brush up his French. Fra",
+        "example": "When you get back to England you must brush up your French by enrolling in an evening class.",
         "meaning": "to improve your knowledge, skill, or memory of (something you used to know, or do, but have now partly forgotten).",
         "verb": "brush up"
     },
     {
         "example": "If you're going to travel to Peru, you'd better brush up on your Spanish.",
         "meaning": "review / study thoroughly for a short time",
-        "verb": "brush up on (inseparable)"
+        "usage": "inseparable",
+        "verb": "brush up on"
     },
     {
         "example": "Lightning struck Mr. Kennedy's barn last night. It burned down before the fire fighters arrived.",
-        "meaning": "become destroyed / consumed by fire Note: For upright things--trees, buildings, etc.\u2014only",
-        "verb": "burn down (no object)"
+        "meaning": "become destroyed / consumed by fire Note: For upright things--trees, buildings, etc.—only",
+        "usage": "no object",
+        "verb": "burn down"
     },
     {
-        "example": "My house burned down last night. In the morning it was just a pile of ashes. My house burned down. Someone burned down my house. Someone burned my house down. Someone burned It down.",
+        "examples": [
+          "My house burned down last night. In the morning it was just a pile of ashes.",
+          "Someone burned down my house.",
+          "Someone burned my house down."
+        ],
         "meaning": "to destroy by burning.",
-        "verb": "burn down (usually of buildings)"
+        "usage": "usually of buildings",
+        "verb": "burn down"
     },
     {
         "example": "All of Mr. Kennedy's hay burned up when his barn burned down.",
         "meaning": "become destroyed / consumed by fire Note: For people and non-upright things only",
-        "verb": "burn up (1. no object)"
+        "usage": "no object",
+        "verb": "burn up"
     },
     {
         "example": "Did you hear how rudely Fred talked to me? That really burned me up!",
         "meaning": "cause someone to become very angry",
-        "verb": "burn up (2. separable)"
+        "usage": "separable",
+        "verb": "burn up "
     },
     {
         "example": "Hey, you! Don't butt in! Wait for your turn!",
         "meaning": "impolitely interrupt (a conversation, an action)",
-        "verb": "butt in (no object)"
+        "usage": "no object",
+        "verb": "butt in "
     },
     {
         "example": "I guess Martin really wants to be promoted. He's been buttering his boss up all week.",
         "meaning": "praise someone excessively with the hope of getting some benefit",
-        "verb": "butter up (separable)"
+        "usage": "separable",
+        "verb": "butter up "
     },
     {
         "example": "The Football Association called off the match between England and Greece because of bad weather. The Football Association called off the match. The Football Association called the match off. The Football Association called it off. The match was called off",
         "meaning": "cancel something that has been scheduled; to abandon something that has already begun.",
-        "verb": "call off an event / an arrangement / an activity etc. often used in the passive  (separable)"
+        "usage": "separable. often used in the passive",
+        "context": "an event / an arrangement / an activity etc",
+        "verb": "call off"
     },
     {
         "example": "I don't know why the teacher never calls on you. You always know the answer.",
         "meaning": "ask someone for an answer in class",
-        "verb": "call on (inseparable)"
+        "usage": "inseparable",
+        "verb": "call on "
     },
     {
         "example": "Mark was called up when the war broke out.",
-        "meaning": "(mobilise for military service)",
-        "verb": "Call up"
+        "meaning": "mobilise for military service",
+        "verb": "call up"
     },
     {
-        "example": "Why are you so upset? Suzie didn't intend to spill orange juice on you. Calm down! \"I know Ralph is upset, but can you calm him down? He's making so much noise that he's irritating everyone in the office.\" My father was very angry and it took him ten minu",
+        "examples": [
+          "Why are you so upset? Suzie didn't intend to spill orange juice on you. Calm down!",
+          "I know Ralph is upset, but can you calm him down? He's making so much noise that he's irritating everyone in the office."
+        ],
         "meaning": "become calm / less agitated or upset; help someone  become calm / less agitated or upset",
-        "verb": "calm down a person / a difficult situation etc. (with or without an object; with an object, separable)"
+        "usage": "with or without an object; with an object, separable",
+        "context": "a person / a difficult situation etc.",
+        "verb": "calm down"
     },
     {
-        "example": "A: \"Would you care for something to drink? We have coffee, tea, or orange juice.\" B: \"Could I have water, please? I don't care for coffee, tea, or juice.\"",
+        "examples": [
+          "Would you care for something to drink? We have coffee, tea, or orange juice.",
+          "Could I have water, please? I don't care for coffee, tea, or juice."
+        ],
         "meaning": "like; want  Note: This phrasal verb is usually negative, though it may be used affirmatively in questions",
-        "verb": "care for (1. inseparable) Note. used with (not)"
+        "usage": "inseparable",
+        "verb": "care for "
     },
     {
         "example": "Amy's father got out of the hospital last week. The family is caring for him at home.",
         "meaning": "take care of; supply care to; attend / watch.",
-        "verb": "care for (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "care for "
     },
     {
         "example": "Jane had a difficult role to play, but she carried it off.",
-        "meaning": "(complete successfully - perhaps despite a problem)",
-        "verb": "Carry off"
+        "meaning": "complete successfully - perhaps despite a problem",
+        "verb": "carry off"
     },
     {
         "example": "The attack was successfully carried out.",
-        "meaning": "(complete a plan)",
-        "verb": "Carry out"
+        "meaning": "complete a plan",
+        "verb": "carry out"
     },
     {
-        "example": "Sergeant Jones ordered Private Wilson to push the waggon across the field. The waggon was very heavy but Private Wilson carried out his orders without complaining. He carried out his orders. He carried his orders out. He carried them out.",
+        "example": "Sergeant Jones ordered Private Wilson to push the waggon across the field. The waggon was very heavy but Private Wilson carried out his orders without complaining.",
         "meaning": "to fulfill or perform (something).",
-        "verb": "carry out instructions / a duty / an order / a threat / a test etc."
+        "context": "instructions / a duty / an order / a threat / a test etc.",
+        "verb": "carry out"
     },
     {
-        "example": "",
-        "meaning": "obtain cash for",
-        "verb": "Cash in"
-    },
-    {
-        "example": "David's strange new hair-style is really catching on; all the young boys in the neighbourhood are copying it. I David's new hai r-style is catching on. This new hair style is beginning to catch on.",
+        "examples": [
+          "David's strange new hair-style is really catching on; all the young boys in the neighbourhood are copying it.",
+          "This new hair style is beginning to catch on."
+        ],
         "meaning": "to become popular (colloquial)",
         "verb": "catch on"
     },
     {
         "example": "Bill had never used a computer until he took this class, but he caught on very quickly and is now one of the best students.",
         "meaning": "develop understanding or knowledge of something",
-        "verb": "catch on (no object)"
+        "usage": "no object",
+        "verb": "catch on "
     },
     {
-        "example": "Terry stopped to rest for a few minutes. He'll catch up / catch up with us later.",
+        "example": "Terry stopped to rest for a few minutes. He'll catch up with us later.",
         "meaning": "stop being behind",
-        "verb": "catch up (with) (often without an object; with an object, inseparable)"
+        "usage": "also catch up with",
+        "verb": "catch up"
     },
     {
-        "example": "Jack took a taxi to the hotel and checked in. Jack checked in. Jack checked in at the hotel. Jack checked in to the hotel. Note: When Jack left the hotel he checked out. My plane will arrive around 5:00 PM. I should be able to check into the hotel by 6:00",
+        "examples": [
+          "Jack took a taxi to the hotel and checked in.",
+          "Jack checked in at the hotel.",
+          "Jack checked in to the hotel.",
+          "My plane will arrive around 5:00 PM. I should be able to check into the hotel by 6:00"
+        ],
         "meaning": "to report one's arrival; register for / at a hotel, conference, etc.; let someone know officially that you have arrived",
-        "verb": "check in(to) at a hotel, an airport etc. (inseparable)"
+        "usage": "to",
+        "verb": "check in"
     },
     {
         "example": "Here are the things you need to do. Please check each one off when you've finished it.",
         "meaning": "make a mark to indicate that something on a list has been completed",
-        "verb": "check off (separable)"
+        "usage": "separable",
+        "verb": "check off "
     },
     {
         "example": "I'm sorry, but you can't take that encyclopedia home. The library won't allow you to check reference books out.",
         "meaning": "follow procedures for borrowing something (usually for a limited period of time)",
-        "verb": "check out (2. separable)"
+        "usage": "separable",
+        "verb": "check out "
     },
     {
         "example": "Don't forget to take your room key to the front desk when you check out (when you check out of the hotel).",
         "meaning": "follow procedures for leaving (a hotel, etc.)",
-        "verb": "check out (of) (1. inseparable)"
+        "usage": "of",
+        "verb": "check out "
     },
     {
-        "example": "Jack was feeling unhappy, but he cheered up when he heard that he had passed his exam. Jack cheered up. The good news cheered Jack up. The good news cheered up Jack. The good news cheered him up. Suzie's brother was depressed about not getting a promotion",
+        "examples": [
+          "Jack was feeling unhappy, but he cheered up when he heard that he had passed his exam.",
+          "The good news cheered Jack up."
+        ],
         "meaning": "to become happier; help someone feel less worried / depressed / sad",
-        "verb": "cheer up (separable)"
+        "usage": "separable",
+        "verb": "cheer up "
     },
     {
         "example": "Tom's father was really angry when Tom didn't come home until 3:00 AM. He chewed Tom out and then said Tom had to stay at home for two weeks.",
         "meaning": "scold someone severely; berate",
-        "verb": "chew out (separable)"
+        "usage": "separable",
+        "verb": "chew out "
     },
     {
         "example": "Sam said he was going to ask Lulu for a date, but he chickened out.",
         "meaning": "lose the courage or confidence to do something--often at the last minute",
-        "verb": "chicken out (no object)"
+        "usage": "no object",
+        "verb": "chicken out "
     },
     {
         "example": "We're going to buy a birthday cake for our boss and I'm collecting donations. Do you want to chip in?",
         "meaning": "contribute / donate (often money) to something done by a group",
-        "verb": "chip in (inseparable)"
+        "usage": "inseparable",
+        "verb": "chip in "
     },
     {
         "example": "Lila wouldn't talk about the accident. When I asked her what happened, she clammed up.",
         "meaning": "suddenly become quiet / refuse to talk about something",
-        "verb": "clam up (inseparable)"
+        "usage": "inseparable",
+        "verb": "clam up "
     },
     {
         "example": "Let me explain how the situation came about.",
-        "meaning": "(happen)",
-        "verb": "Come about"
+        "meaning": "happen",
+        "verb": "come about"
     },
     {
-        "example": "A lucky tramp came across a wallet full of money as he was walking down the street. He came across a wallet. He came across it. I've lost my extra car keys. If you come across them while your're cleaning the room, please put them in a safe place.",
+        "examples": [
+          "A lucky tramp came across a wallet full of money as he was walking down the street. He came across a wallet.",
+          "I've lost my extra car keys. If you come across them while your're cleaning the room, please put them in a safe place."
+        ],
         "meaning": "to find (unexpectedly) or meet by chance",
-        "verb": "come across something or someone (inseparable)"
+        "usage": "inseparable",
+        "context": "something or someone",
+        "verb": "come across"
     },
     {
         "example": "It all comes down to whether you are prepared to accept less money.",
-        "meaning": "(be in the end a matter of)",
-        "verb": "Come down to"
+        "meaning": "be in the end a matter of",
+        "verb": "come down to"
     },
     {
         "example": "George won't be at the office today. He came down with the flu over the weekend.",
-        "meaning": "become ill with _____",
-        "verb": "come down with _____ (inseparable)"
+        "meaning": "become ill with",
+        "usage": "inseparable",
+        "verb": "come down with"
     },
     {
         "example": "The government has come in for a lot of criticism over the decision.",
-        "meaning": "(receive - especially criticism, blame)",
-        "verb": "Come in for"
+        "meaning": "receive - especially criticism, blame",
+        "verb": "come in for"
     },
     {
         "example": "Peter came into a fortune when his father died. Peter came into a fortune. Peter came into it.",
         "meaning": "to receive something (usually money or property) after someone's death.",
-        "verb": "come into money / property / a fortune etc"
+        "context": "money / property / a fortune etc",
+        "verb": "come into"
     },
     {
-        "example": "I'm afraid that deal didn 't come off after all.",
-        "meaning": "(take place successfully)",
-        "verb": "Come off"
+        "example": "I'm afraid that deal didn't come off after all.",
+        "meaning": "take place successfully",
+        "verb": "come off"
     },
     {
-        "example": "All the flowers have come out. When the news came out, everyone was shocked. My photos didn't come out very well.",
-        "meaning": "(appear)",
-        "verb": "Come out"
+        "examples": [
+          "All the flowers have come out. When the news came out, everyone was shocked.",
+          "My photos didn't come out very well."
+        ],
+        "meaning": "appear",
+        "verb": "come out"
     },
     {
-        "example": "James fainted when the air-conditioning stopped working. Two of his colleagues took care of him until he came round (came to). James came round. James came to.",
+        "example": "James fainted when the air-conditioning stopped working. Two of his colleagues took care of him until he came round.",
         "meaning": "to regain consciousness",
-        "verb": "come round or come to"
+        "usage": "also come to",
+        "verb": "come round"
     },
     {
         "example": "Your charges come to $124.38. Will you pay by check, in cash, or with a credit card?",
         "meaning": "total",
-        "verb": "come to (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "come to "
     },
     {
         "example": "When I told Gina that she'd won a million dollars, she fainted. When she came to, I told her it was a joke and she almost hit me!",
         "meaning": "regain consciousness",
-        "verb": "come to (2. no object)"
+        "usage": "no object",
+        "verb": "come to "
     },
     {
         "example": "Look, something has come up, and I can't meet you.",
-        "meaning": "(occur- usually a problem -colloquial)",
-        "verb": "Come up"
+        "meaning": "occur- usually a problem -colloquial",
+        "verb": "come up"
     },
     {
         "example": "We've come up against a bit of a problem.",
-        "meaning": "(meet a difficulty)",
-        "verb": "Come up against"
+        "meaning": "meet a difficulty",
+        "verb": "come up against"
     },
     {
         "example": "The play didn't come up to expectations.",
-        "meaning": "(equal - especially expectations, standard)",
-        "verb": "Come up to"
+        "meaning": "equal - especially expectations, standard",
+        "verb": "come up to"
     },
     {
-        "example": "Arnold and his girifriend were separated by a deep ravine. Eventually, Arnold came up with the idea of cutting down a tree and using it as a bridge. He came up with the idea. He came up with it. We still haven't come up with a solution to the problem.",
+        "examples": [
+          "Arnold and his girlfriend were separated by a deep ravine. Eventually, Arnold came up with the idea of cutting down a tree and using it as a bridge.",
+          "We still haven't come up with a solution to the problem."
+        ],
         "meaning": "to think of; to produce; think of-especially an answer, a plan, a solution",
-        "verb": "come up with an idea/a plan/a suggestion etc."
+        "context": "an idea/a plan/a suggestion etc.",
+        "verb": "come up with"
     },
     {
         "example": "I'm counting on you to wake me up tomorrow. I know I won't hear the alarm. Don't worry, you can count on me.",
         "meaning": "depend on; rely on; trust that something will happen or that someone will do as expected",
-        "verb": "count on (inseparable)"
+        "usage": "inseparable",
+        "verb": "count on "
     },
     {
         "example": "I can't come to your party, something has cropped up.",
-        "meaning": "(happen unexpectedly - colloquial)",
-        "verb": "Crop up"
+        "meaning": "happen unexpectedly (colloquial)",
+        "verb": "crop up"
     },
     {
         "example": "We can't afford to buy everything on your shopping list, so I've crossed all the unnecessary things out.",
         "meaning": "show that something written is wrong or unnecessary by making an X across it",
-        "verb": "cross out (separable)"
+        "usage": "separable",
+        "verb": "cross out "
     },
     {
-        "example": "You drink too much coffee. You should cut back. \"You should cut back on the amount of coffee that you drink.\"",
+        "examples": [
+          "You drink too much coffee. You should cut back.",
+          "You should cut back on the amount of coffee that you drink."
+        ],
         "meaning": "use less of something",
-        "verb": "cut back (on) (often without an object; with an object, cut back on [inseparable])"
+        "usage": "also cut back on",
+        "verb": "cut back "
     },
     {
-        "example": "Last year Peter was very ill and his doctor told him to cut down on the number of cigarettes he smoked. This year Peter smokes much less and feels a lot better. Peter cut down on cigarettes. Peter cut down on them. Peter cut down on smoking.",
+        "example": "Last year Peter was very ill and his doctor told him to cut down on the number of cigarettes he smoked. Peter cut down on smoking.",
         "meaning": "to reduce in size or amount.",
-        "verb": "cut down on smoking / cigarettes / drinking / spending / production etc."
+        "context": "smoking / cigarettes / drinking / spending / production etc.",
+        "verb": "cut down on"
     },
     {
-        "example": "Paul was talking to Anna on the telephone. Suddenly they couldn't hear each other. Paul phoned Anna again immediately. 'What happened?' Anna asked him. 'We were cut off,' replied Paul. The operator cut them off. The operator cut off their call. They were",
-        "meaning": "This verb can refer to either: a) the service or supply that is cut off e.g. water, electricity, etc. or b) the person who is cut off   to disconnect, interrupt or discontinue something or someone.",
-        "verb": "cut off  (often used in the passive)"
+        "example": "Paul phoned Anna again immediately. 'What happened?' Anna asked him. 'We were cut off,' replied Paul. The operator cut off their call.",
+        "meaning": "a) the service or supply that is cut off e.g. water, electricity, etc. or b) the person who is cut off; to disconnect, interrupt or discontinue something or someone.",
+        "usage": "often used in the passive",
+        "verb": "cut off"
     },
     {
-        "example": "The great dinosaurs died out millions of years ago. The dinosaurs died out.",
+        "example": "The great dinosaurs died out millions of years ago.",
         "meaning": "to disappear completely; to become extinct",
         "verb": "die out"
     },
     {
         "example": "Dog licences have been done away with.",
-        "meaning": "(abolish-colloquial)",
-        "verb": "Do away with (1)"
+        "meaning": "abolish (colloquial)",
+        "verb": "do away with"
     },
     {
         "example": "What if they do away with the old man ?",
-        "meaning": "(murder - colloquial)",
-        "verb": "Do away with (2)"
-    },
-    {
-        "example": "The Ajax and Tip-Top Banks have decided to merge. Their lawyers will draw all the official documents up sometime this month.",
-        "meaning": "cause to become very tired",
-        "verb": "do in (1. separable)"
+        "meaning": "murder (colloquial)",
+        "verb": "do away with"
     },
     {
         "example": "The said that the murdered man was done in between 10 and 11 o'clock last night.",
         "meaning": "to kill; to murder",
-        "verb": "do in (2. separable)"
+        "usage": "separable",
+        "verb": "do in "
     },
     {
         "example": "Oh, no! I forgot to save my report before I turned the computer off! Now I'll have to do it over!",
         "meaning": "do something again",
-        "verb": "do over (separable)"
+        "usage": "separable",
+        "verb": "do over "
     },
     {
-        "example": "We are having our living room done up. When Bob and Sally bought their house it was in a bad state, so they spent six months doing it up. The house looked beautiful by the time they finished. They did the house up. They did up the house. They did it up.",
+        "examples": [
+          "We are having our living room done up. When Bob and Sally bought their house it was in a bad state, so they spent six months doing it up.",
+          "The house looked beautiful by the time they finished."
+        ],
         "meaning": "to repair; to improve the condition and appearance of something; decorate (colloquial)",
-        "verb": "do up (1) a house / a room /a flat/an old car etc."
+        "context": "a house / a room /a flat/an old car etc.",
+        "verb": "do up"
     },
     {
-        "example": "It was a very cold day, so Brian did up all the buttons on his overcoat. He did up the buttons. He did the buttons up. He did them up.",
+        "example": "It was a very cold day, so Brian did up all the buttons on his overcoat. He did up the buttons.",
         "meaning": "to fasten; to button; to zip; to tie.",
-        "verb": "do up (2) a shoelace / a zip / a dress / a coat etc."
+        "context": "a shoelace / a zip / a dress / a coat etc.",
+        "verb": "do up"
     },
     {
         "example": "I thought the meeting would be a short one, but it dragged on for more than three hours.",
         "meaning": "last much longer than expected or is necessary",
-        "verb": "drag on (no object)"
+        "usage": "no object",
+        "verb": "drag on "
     },
     {
-        "example": "I thought that speech would never end. The speaker could have said everything important in about five minutes, but he drew the speech out for over an hour!",
+        "example": "I thought that speech would never end. The speaker drew the speech out for over an hour!",
         "meaning": "prolong something (usually far beyond the normal limits)",
-        "verb": "draw out (separable)"
+        "usage": "separable",
+        "verb": "draw out "
     },
     {
         "example": "A white sports car drew up outside the door.",
-        "meaning": "(come to a stop)",
-        "verb": "Draw up (1)"
+        "meaning": "come to a stop",
+        "verb": "draw up"
     },
     {
         "example": "The contract is being drawn up at the moment. The Ajax and Tip-Top Banks have decided to merge. Their lawyers will draw all the official documents up sometime this month.",
-        "meaning": "organise \u2014 especially a document; create a formal document",
-        "verb": "draw up (2. separable)"
+        "meaning": "organise — especially a document; create a formal document",
+        "usage": "separable",
+        "verb": "draw up "
     },
     {
         "example": "If you're in town next month, we'd love to see you. Please try to drop by the house.",
         "meaning": "visit informally (and usually without scheduling a specific time)",
-        "verb": "drop by (inseparable)"
+        "usage": "inseparable",
+        "verb": "drop by "
     },
     {
-        "example": "Laura was shopping near her friend, Lynn, and decided to drop in and see her. Laura dropped in to see Lynn. Laura dropped in to see her. Laura dropped in on Lynn. Laura dropped in on her. Laura dropped in.",
+        "example": "Laura was shopping near her friend, Lynn, and decided to drop in and see her. Laura dropped in to see her.",
         "meaning": "to pay a short visit, often without warning.",
         "verb": "drop in"
     },
     {
-        "example": "If you're in town next month, we'd love to see you. Please try to drop in. (Please try to drop in on us. Drop in any time you 're passing.",
+        "example": "If you're in town next month, we'd love to see you. Please try to drop in.",
         "meaning": "visit informally (and usually usually without scheduling a specific time); pay a visit (colloquial)",
-        "verb": "drop in (on) (inseparable)"
+        "usage": "also drop in on",
+        "verb": "drop in "
     },
     {
-        "example": "David drove his wife, Sue, into town and dropped her off in the cinema. David dropped oft his wife. David dropped his wife off. David dropped her off.",
+        "example": "David drove his wife, Sue, into town and dropped her off in the cinema. David dropped her off.",
         "meaning": "to stop a vehicle and let someone get out; to take something (or someone) to a place and leave it there.",
-        "verb": "drop off (1) something or someone"
+        "context": "something or someone",
+        "verb": "drop off"
     },
     {
-        "example": "The baby has just dropped off. John sat in his favourite armchair and dropped off. Five minutes later, his young son came into the room and woke him. He dropped off.",
+        "examples": [
+          "The baby has just dropped off.",
+          "John sat in his favourite armchair and dropped off.",
+          "Five minutes later, his young son came into the room and woke him. He dropped off."
+        ],
         "meaning": "to fall asleep (often unintentionally).",
-        "verb": "drop off (2)"
+        "verb": "drop off"
     },
     {
-        "example": "Yes, I can take those letters to the post office. I'll drop them off as I go home from work. \"You don't have to take a taxi. You live fairly close to me, so I'll be happy to drop you off.\"",
+        "examples": [
+          "Yes, I can take those letters to the post office. I'll drop them off as I go home from work.",
+          "You don't have to take a taxi. You live fairly close to me, so I'll be happy to drop you off."
+        ],
         "meaning": "deliver something; deliver someone (by giving him/her a ride)",
-        "verb": "drop off (separable)"
+        "usage": "separable",
+        "verb": "drop off "
     },
     {
-        "example": "Sam dropped out of the race because he felt tired and ill. He dropped out of the race. He dropped out.",
+        "example": "Sam dropped out of the race because he felt tired and ill. He dropped out.",
         "meaning": "to withdraw from, or stop taking part in (a competition, a social group, a school, a university, a job etc.)",
         "verb": "drop out"
     },
     {
-        "example": "No, Paul isn't at the university. He dropped out. / He dropped out of school.",
+        "example": "No, Paul isn't at the university. He dropped out. He dropped out of school.",
         "meaning": "stop attending / leave school or an organization",
-        "verb": "drop out (of) (inseparable)"
+        "usage": "also drop out of",
+        "verb": "drop out "
     },
     {
         "example": "I'm too tired to cook tonight. Why don't we eat out?",
         "meaning": "have a meal in a restaurant",
-        "verb": "eat out (no object)"
+        "usage": "no object",
+        "verb": "eat out "
     },
     {
         "example": "At first Bob and Chuck were just having a mild argument, but Bob's friends egged them on until they started fighting.",
         "meaning": "urge / encourage greatly toward doing something (usually something negative)",
-        "verb": "egg on (separable)"
+        "usage": "separable",
+        "verb": "egg on "
     },
     {
-        "example": "We got lost last night and ended up in the next town. We ended up staying there for lunch. The car ended up in a ditch.",
+        "examples": [
+          "We got lost last night and ended up in the next town.",
+          "We ended up staying there for lunch.",
+          "The car ended up in a ditch."
+        ],
         "meaning": "finish in a certain way, or place; finally arrive at; arrive at an unexpected place",
-        "verb": "end up (1. no object)"
+        "usage": "no object",
+        "verb": "end up "
     },
     {
         "example": "You're working too hard. If you don't take it easy, you'll end up in the hospital!",
         "meaning": "arrive somewhere as a result or consequence",
-        "verb": "end up (2. no object)"
+        "usage": "no object",
+        "verb": "end up "
     },
     {
-        "example": "You have to face up to your responsibilities. You can't pretend that you're doing OK in this course, Joe. Sooner or later, you'll have to face up to the fact that you're failing it.",
+        "examples": [
+          "You have to face up to your responsibilities.",
+          "Sooner or later, you'll have to face up to the fact that you're failing it."
+        ],
         "meaning": "have courage to deal with - especially responsibilities; admit to; take responsibility for",
-        "verb": "face up to (inseparable)"
+        "usage": "inseparable",
+        "verb": "face up to "
     },
     {
         "example": "Every one fell about when Jane told her joke.",
-        "meaning": "(show amusement - especially laughing - colloquial)",
-        "verb": "Fall about"
+        "meaning": "show amusement - especially laughing (colloquial)",
+        "verb": "fall about"
     },
     {
         "example": "If the worst comes to the worst, we've got our savings to fall back on.",
-        "meaning": "(use as a last resort)",
-        "verb": "Fall back on"
+        "meaning": "use as a last resort",
+        "verb": "fall back on"
     },
     {
         "example": "It was an unlikely story but h e fell for it.",
-        "meaning": "(be deceived by - colloquial)",
-        "verb": "Fall for (1)"
+        "meaning": "be deceived by (colloquial)",
+        "verb": "fall for"
     },
     {
         "example": "I fell for you the moment I saw you.",
-        "meaning": "(fall in love with - colloquial)",
-        "verb": "Fall for (2)"
+        "meaning": "fall in love with (colloquial)",
+        "verb": "fall for"
     },
     {
-        "example": "George and Sam went out for dinner together. The evening ended badly because they fell out over who should pay the bill. George tell out with' Sam over' ' the bill. George and Sam fell out.. Note. \"fall out with a person \" fall out over something",
+        "example": "George and Sam went out for dinner together. The evening ended badly because they fell out over who should pay the bill.",
         "meaning": "to quarrel",
         "verb": "fall out"
     },
     {
         "example": "Peter has fallen out with his boss.",
-        "meaning": "(quarrel with)",
-        "verb": "Fall out with"
+        "meaning": "quarrel with",
+        "verb": "fall out with"
     },
     {
         "example": "The plan fell through at the last minute.",
-        "meaning": "(fail to come to completion)",
-        "verb": "Fall through"
+        "meaning": "fail to come to completion",
+        "verb": "fall through"
     },
     {
         "example": "We had originally intended to go to Mexico for our vacation, but our trip fell through when I got sick.",
         "meaning": "not happen. (Note: describes something that was planned but didn't happen.)",
-        "verb": "fall through (no object)"
+        "usage": "no object",
+        "verb": "fall through "
     },
     {
-        "example": "Old Mr Smith didn 'tfeel up to walking all that way. I know the accident was a terrible shock. Do you feel up to talking about it?",
+        "example": "Old Mr Smith didn'tfeel up to walking all that way. I know the accident was a terrible shock. Do you feel up to talking about it?",
         "meaning": "feel strong enough or comfortable enough to do something",
-        "verb": "feel up to (inseparable)"
+        "usage": "inseparable",
+        "verb": "feel up to "
     },
     {
         "example": "For a long time I couldn't understand the last problem, but I finally figured it out.",
         "meaning": "logically find the answer to a problem; solve a problem by thinking about it carefully",
-        "verb": "figure out (1. separable)"
+        "usage": "separable",
+        "verb": "figure out"
     },
     {
         "example": "I can't figure Margie out. Sometimes she's very warm and friendly and sometimes she acts as if she doesn't know me.",
         "meaning": "understand why someone behaves the way she/he does",
-        "verb": "figure out (2. separable)"
+        "usage": "separable",
+        "verb": "figure out "
     },
     {
-        "example": "The office needs to know your home address and phone number. Could you fill them in on this form? It took me an hour to fill in the application form. It took me an hour to fill in the form. It took me an hour to fill the form in, It took me an hour to fil",
+        "examples": [
+          "The office needs to know your home address and phone number. Could you fill them in on this form?",
+          "It took me an hour to fill in the application form."
+        ],
         "meaning": "add information to a form; to complete (a form)",
-        "verb": "fill in (1. separable) a form / a questionnaire etc."
+        "usage": "separable",
+        "verb": "fill in "
     },
     {
-        "example": "I wasn't able to attend the meeting yesterday, but I understand that it was important. Could you fill me in? / Could you fill me in on what was discussed?",
+        "example": "I wasn't able to attend the meeting yesterday, Could you fill me in on what was discussed?",
         "meaning": "supply information that someone doesn't know",
-        "verb": "fill in (on) (2. separable)"
+        "usage": "on",
+        "verb": "fill in "
     },
     {
         "example": "Professor Newton is in the hospital and won't be able to teach for the rest of the term. Do you know who's going to fill in for her?",
         "meaning": "temporarily do someone else's work; temporarily substitute for another person",
-        "verb": "fill in for (inseparable)"
+        "usage": "inseparable",
+        "verb": "fill in for "
     },
     {
         "example": "Of course I completed my application! I filled it out and mailed it over three weeks ago!",
         "meaning": "complete a form by adding required information",
-        "verb": "fill out (1. separable)"
+        "usage": "separable",
+        "verb": "fill out "
     },
     {
         "example": "Jerry used to be really skinny, but in the last year he's begun to fill out.",
         "meaning": "become less thin; gain weight",
-        "verb": "fill out (2. no object)"
+        "usage": "no object",
+        "verb": "fill out "
     },
     {
         "example": "I'm sorry that you didn't know the meeting had been canceled. I didn't find out (find out about it) myself until just a few minutes ago.",
         "meaning": "learn / get information (about)",
-        "verb": "find out (about) (inseparable)"
+        "usage": "also find out about",
+        "verb": "find out "
     },
     {
-        "example": "Mr Jones wanted to catch the train to London. He was late and he didn't know which platform the London train left from. He found out which platform by asking a ticket collector. He found out which platform the train left from. He didn't know which platfor",
+        "example": "Mr Jones wanted to catch the train to London. He found out which platform by asking a ticket collector.",
         "meaning": "to make an effort to discover or get to know (something)",
-        "verb": "find out the truth / a secret / an address / the time i when / what / why / where / who / which etc."
+        "context": "the truth / a secret / an address / the time i when / what / why / where / who / which etc.",
+        "verb": "find out"
     },
     {
         "example": "Thanks for the information about that book. I'll follow it up.",
-        "meaning": "(act upon a suggestion)",
-        "verb": "Follow up (1)"
+        "meaning": "act upon a suggestion",
+        "verb": "follow up"
     },
     {
         "example": "We'll follow up this lesson next week.",
-        "meaning": "(take more action)",
-        "verb": "Follow up (2)"
+        "meaning": "take more action",
+        "verb": "follow up"
     },
     {
-        "example": "Alan is really intelligent but sometimes he has problems getting his ideas across. I had the feeling I wasn 't getting across.",
+        "example": "Alan is really intelligent but sometimes he has problems getting his ideas across. I had the feeling I wasn't getting across.",
         "meaning": "make something understood; communicate something understandably; be understood - especially get an idea across",
-        "verb": "get across (separable)"
+        "usage": "separable",
+        "verb": "get across "
     },
     {
         "example": "Why can't you and your sister get along? Everyone else gets along with her just fine!",
         "meaning": "have a friendly relationship (with); be friendly (toward)",
-        "verb": "get along (with) (inseparable)"
+        "usage": "also get along with",
+        "verb": "get along "
     },
     {
         "example": "Teresa got around the required math classes by doing well on a math proficiency test.",
         "meaning": "avoid having to do something",
-        "verb": "get around (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "get around "
     },
     {
         "example": "She doesn't have a car. She gets around by bicycle, bus, or taxi.",
         "meaning": "move from place to place",
-        "verb": "get around (2. no object)"
+        "usage": "no object",
+        "verb": "get around "
     },
     {
         "example": "I really should wash the dishes, but I don't feel like it. Maybe I'll get around to them tomorrow morning.",
         "meaning": "do something eventually",
-        "verb": "get around to (inseparable)"
+        "usage": "inseparable",
+        "verb": "get around to "
     },
     {
-        "example": "What are you getting at exactly ?",
-        "meaning": "(imply - about personal matters - colloquial)",
-        "verb": "Get at"
+        "example": "What are you getting at exactly?",
+        "meaning": "imply - about personal matters (colloquial)",
+        "verb": "get at"
     },
     {
         "example": "The prisoner got away from his guards and ran into the forest. The prisoner got away from his guards. The prisoner got away from them. The prisoner got away.",
@@ -780,149 +983,179 @@
         "verb": "get away"
     },
     {
-        "example": "Last year Jack robbed a bank and got away with it; the police didn't even find his fingerprints. Nowadays Jack lives a life of luxury on a beautiful tropical island. Jack got away with the bank robbery. Jack got away with robbing the bank. Jack got away w",
+        "examples": [
+          "Last year Jack robbed a bank and got away with it; the police didn't even find his fingerprints.",
+          "Nowadays Jack lives a life of luxury on a beautiful tropical island. Jack got away with the bank robbery."
+        ],
         "meaning": "to do something wrong or illegal without being punished (usually without even being discovered or caught)",
         "verb": "get away with"
     },
     {
         "example": "It's going to be hard to pay the rent now that you've lost your job, but somehow we'll get by.",
         "meaning": "survive, financially, in a difficult situation",
-        "verb": "get by (no object)"
+        "usage": "no object",
+        "verb": "get by "
     },
     {
         "example": "This cold weather really gets me down.",
-        "meaning": "(make to feel depressed - colloquial)",
-        "verb": "Get down"
+        "meaning": "make to feel depressed (colloquial)",
+        "verb": "get down"
     },
     {
         "example": "It's time we got down to some real work.",
-        "meaning": "(begin to seriously deal with)",
-        "verb": "Get down to"
+        "meaning": "begin to seriously deal with",
+        "verb": "get down to"
     },
     {
         "example": "I don't know where Carole was going. She just got in her car and drove away.",
         "meaning": "enter a small, closed vehicle",
-        "verb": "get in (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "get in "
     },
     {
         "example": "Do you know what time Fred's plane gets in?",
         "meaning": "arrive",
-        "verb": "get in (2. no object)"
+        "usage": "no object",
+        "verb": "get in "
     },
     {
         "example": "When you get off the bus, cross the street, turn right on Oak Street, and keep going until you're at the corner of Oak and Lincoln Boulevard.",
         "meaning": "leave a large, closed vehicle",
-        "verb": "get off (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "get off "
     },
     {
         "example": "Some schools got President's Day off but ours didn't. We had classes as usual.",
         "meaning": "be excused (for a period of time) from work, class, or other regularly scheduled activities",
-        "verb": "get off (2. separable)"
+        "usage": "separable",
+        "verb": "get off "
     },
     {
         "example": "Everyone knew he was guilty, but his lawyer was clever and got him off.",
         "meaning": "make it possible for someone to avoid punishment",
-        "verb": "get off (3. separable)"
+        "usage": "separable",
+        "verb": "get off "
     },
     {
         "example": "They were lucky to get off with such light sentences.",
-        "meaning": "(avoid punishment)",
-        "verb": "Get off with"
+        "meaning": "avoid punishment",
+        "verb": "get off with"
     },
     {
         "example": "Sue is getting on very well in her new job.",
-        "meaning": "(make progress - especially in life)",
-        "verb": "Get on"
+        "meaning": "make progress - especially in life",
+        "verb": "get on"
     },
     {
         "example": "I'm sorry, but you're too late to say goodbye to Angela. She got on the plane about 20 minutes ago.",
         "meaning": "enter a large, closed vehicle",
-        "verb": "get on (inseparable)"
+        "usage": "inseparable",
+        "verb": "get on "
     },
     {
         "example": "He must begetting on for seventy.",
-        "meaning": "(approach a certain age/time/number)",
-        "verb": "Get on for"
+        "meaning": "approach a certain age/time/number",
+        "verb": "get on for"
     },
     {
         "example": "There's something wrong with the garage door opener. You'll have to get out of the car and open it by hand.",
         "meaning": "leave a small, closed vehicle",
-        "verb": "get out of (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "get out of "
     },
     {
         "example": "Lisa said she had a terrible headache and got out of giving her speech today.",
         "meaning": "escape having to do something",
-        "verb": "get out of (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "get out of "
     },
     {
-        "example": "I couldn 't get over how well she looked.",
-        "meaning": "(be surprised)",
-        "verb": "Get over"
+        "example": "I couldn't get over how well she looked.",
+        "meaning": "be surprised",
+        "verb": "get over"
     },
     {
         "example": "What time do your classes get over?",
         "meaning": "finish. (Note: for individual activities, not ones that happen again and again.)",
-        "verb": "get over (1. no object)"
+        "usage": "no object",
+        "verb": "get over "
     },
     {
-        "example": "Katy was really upset when she failed the test. She thought she would never get over feeling so stupid. Sam has got over his operation and expects to leave hospital tomorrow. He has got over his operation. He has got over it.",
+        "examples": [
+          "Katy was really upset when she failed the test. She thought she would never get over feeling so stupid.",
+          "Sam has got over his operation and expects to leave hospital tomorrow."
+        ],
         "meaning": "recover from an illness or painful experience",
-        "verb": "get over (2. inseparable)  an illness /a failure/a difficulty/a shock etc."
+        "usage": "inseparable",
+        "verb": "get over "
     },
     {
         "example": "I'll be glad to get this awful business over with.",
-        "meaning": "(come to the end of something, usually unpleasant)",
-        "verb": "Get over with"
+        "meaning": "come to the end of something, usually unpleasant",
+        "verb": "get over with"
     },
     {
         "example": "That shirt is really ugly. Why don't you get rid of it?",
         "meaning": "dispose of; give away or throw away",
-        "verb": "get rid of (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "get rid of "
     },
     {
         "example": "The treasurer of the XYZ company was spending too much money so the company president got rid of him.",
         "meaning": "dismiss someone; fire someone from a job; cause someone to leave",
-        "verb": "get rid of (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "get rid of "
     },
     {
-        "example": "Brian and Dan couldn't move the wardrobe because it was too heavy. They got round the problem by putting the wardrobe on a trolley and pushing it. They got round the problem. They got round it.",
+        "example": "Brian and Dan couldn't move the wardrobe because it was too heavy. They got round the problem by putting the wardrobe on a trolley and pushing it.",
         "meaning": "a problem / a difficulty etc. to solve or avoid a problem",
-        "verb": "get round (1)"
+        "verb": "get round"
     },
     {
-        "example": "Tim wanted some sweets, but his father told him they were bad for his teeth. After five minutes of persuasion, Tim managed to get round his father and they both went into the sweet shop. Tim got round his father. Tim got round him.",
+        "example": "After five minutes of persuasion, Tim managed to get round his father and they both went into the sweet shop. Tim got round him.",
         "meaning": "to persuade someone to do what you want; to persuade someone to let you do what you want",
-        "verb": "get round (2) someone"
+        "verb": "get round someone"
     },
     {
         "example": "Sorry, but I haven't got round to fixing the tap yet.",
-        "meaning": "(find time to do - also around)",
-        "verb": "Get round to"
+        "meaning": "find time to do - also around",
+        "verb": "get round to"
     },
     {
-        "example": "Jim (phoning his friend Roger): Hello, Roger. I've been trying to get through to you for hours! Roger: Sorry, Jim. I had to make a lot of calls this morning. Jim tried to get through to Roger. Jim tried to get through to him. Jim tried to get through,",
+        "examples": [
+          "Hello, Roger. I've been trying to get through to you for hours!",
+          "Jim tried to get through to Roger."
+        ],
         "meaning": "to contact someone (usually by telephone)",
-        "verb": "get through (1)"
+        "verb": "get through"
     },
     {
-        "example": "Roger had a lot of work to do yesterday, but he got through it all by five o'clock. Roger got through his work. Roger got through it.",
+        "example": "Roger had a lot of work to do yesterday, but he got through it all by five o'clock.",
         "meaning": "to finish; to complete",
-        "verb": "get through (2) some work / at ask / a book etc."
+        "context": "some work / at ask / a book etc.",
+        "verb": "get through"
     },
     {
-        "example": "You'll have to get up much earlier than usual tomorrow. We have to leave by no later than 6:00 AM. \"I know I won't hear the alarm tomorrow morning. Can you get me up at 6:00 AM?\"",
+        "examples": [
+          "You'll have to get up much earlier than usual tomorrow. We have to leave by no later than 6:00 AM.",
+          "I know I won't hear the alarm tomorrow morning. Can you get me up at 6:00 AM?"
+        ],
         "meaning": "leave bed after sleeping and begin your daily activities",
-        "verb": "get up (usually no object; with an object, separable)"
+        "usage": "usually no object; with an object, separable",
+        "verb": "get up"
     },
     {
-        "example": "The children are getting up to something in the garden. What have you been getting up to lately?",
-        "meaning": "(do something - usually bad when about children - colloquial)",
-        "verb": "Get up to"
+        "examples": [
+          "The children are getting up to something in the garden.",
+          "What have you been getting up to lately?"
+        ],
+        "meaning": "do something - usually bad when about children (colloquial)",
+        "verb": "get up to"
     },
     {
         "example": "His false identity papers gave him away.",
-        "meaning": "(betray)",
-        "verb": "Give away"
+        "meaning": "betray",
+        "verb": "give away"
     },
     {
         "example": "The fight between Tom and Dick stopped when Tom hurt his hand and had to give in. Tom gave In.",
@@ -931,1063 +1164,1270 @@
     },
     {
         "example": "The cheese had begun to give off a strange smell.",
-        "meaning": "(send off a smell - liquid or gas)",
-        "verb": "Give off"
+        "meaning": "send off a smell - liquid or gas",
+        "verb": "give off"
     },
     {
         "example": "When our money gave out we had to borrow.",
-        "meaning": "(be exhausted)",
-        "verb": "Give out"
+        "meaning": "be exhausted",
+        "verb": "give out"
     },
     {
-        "example": "The teacher gave out the books, so that the pupils could read the story. The teacher gave out the books. The teacher gave the books out. The teacher gave them out.",
+        "example": "The teacher gave out the books, so that the pupils could read the story.",
         "meaning": "to give(some thing or things) to each person in a group of people; to distribute",
-        "verb": "give out books / examination papers / pills etc"
+        "context": "books / examination papers / pills etc",
+        "verb": "give out"
     },
     {
         "example": "The rest of the time was given over to playing cards.",
-        "meaning": "(abandon, devote)",
-        "verb": "Give over (1)"
+        "meaning": "abandon, devote",
+        "verb": "give over"
     },
     {
         "example": "Why don't you give over! You 're getting on my nerves!",
-        "meaning": "(stop - colloquial)",
-        "verb": "Give over (2)"
+        "meaning": "stop (colloquial)",
+        "verb": "give over"
     },
     {
         "example": "He knows smoking isn't good for his health, but he can't give it up.",
         "meaning": "stop doing something (usually a habit)",
-        "verb": "give up (1. separable)"
+        "usage": "separable",
+        "verb": "give up "
     },
     {
-        "example": "The police surrounded the criminal's house and ordered him to give himself up. After a few minutes, he came out and they took him to the police station. The criminal gave himself up to the police. The criminal gave himself up. The escaped prisoner gave he",
+        "examples": [
+          "The police surrounded the criminal's house and ordered him to give himself up.",
+          "The criminal gave himself up to the police."
+        ],
         "meaning": "to surrender oneself (usually to someone)",
-        "verb": "give up (1. separable) / give (oneself) up"
+        "usage": "separable",
+        "verb": "give up "
     },
     {
-        "example": "One day a hungry dog saw a bunch of juicy grapes hanging from a vine. The dog tried very hard to get the grapes, but it couldn't jump high enough to reach them. After ten frustrating minutes, the dog gave up the attempt and walked home angrily. The dog ga",
+        "example": "One day a hungry dog saw a bunch of juicy grapes hanging from a vine. After ten frustrating minutes, the dog gave up the attempt and walked home angrily.",
         "meaning": "to stop trying to do something (often because it is too difficult)",
-        "verb": "give up (2)"
+        "verb": "give up"
     },
     {
-        "example": "After ten days the ship was given up for lost.  A: \"What's black and white and red all over?\" B: \"I give up. What?\" A: \"An embarrassed zebra!\"",
+        "examples": [
+          "After ten days the ship was given up for lost.",
+          "What's black and white and red all over? I give up. What? An embarrassed zebra!"
+        ],
         "meaning": "decide not to try (unsuccessfully) to solve a problem; believed to be dead or lost",
-        "verb": "give up (2. no object)"
+        "usage": "no object",
+        "verb": "give up "
     },
     {
-        "example": "Howard decided to give up cigarettes after seeing a poster on the dangers of smoking. Howard gave up cigarettes. Howard gave cigarettes up. Howard gave them up. Howard gave up smoking.",
+        "example": "Howard decided to give up cigarettes after seeing a poster on the dangers of smoking.",
         "meaning": "to stop doing or having (something)",
-        "verb": "give up (3) (of an habitual activity, smoking / drinking / a job etc.)"
+        "usage": "of an habitual activity, smoking / drinking / a job etc.",
+        "verb": "give up "
     },
     {
         "example": "The management has gone back on its promise.",
-        "meaning": "(break a promise)",
-        "verb": "Go back on"
+        "meaning": "break a promise",
+        "verb": "go back on"
     },
     {
-        "example": "Phil's cheek became swollen because he had a bad tooth ache. The dentist treated his bad tooth and his swollen cheek soon went down. His swollen cheek went down.",
+        "example": "Phil's cheek became swollen because he had a bad tooth ache. The dentist treated his bad tooth and his swollen cheek soon went down.",
         "meaning": "to become less swollen",
         "verb": "go down"
     },
     {
-        "example": "The dog went for Joe and hurt his arm. The dog went for Joe. The dog went for him. Note: this verb is not used in the passive.",
-        "meaning": "a person, an animal  to attack",
+        "example": "The dog went for Joe and hurt his arm. The dog went for Joe. The dog went for him.",
+        "meaning": "a person, an animal; to attack",
+        "usage": "not used in the passive",
         "verb": "go for"
     },
     {
-        "example": "I don 't go in for that kind of thing.",
-        "meaning": "(make a habit of)",
-        "verb": "Go in for (1)"
+        "example": "I don't go in for that kind of thing.",
+        "meaning": "make a habit of",
+        "verb": "go in for"
     },
     {
         "example": "Are you thinking of going in for the race?",
-        "meaning": "(enter a competition)",
-        "verb": "Go in for (2)"
+        "meaning": "enter a competition",
+        "verb": "go in for"
     },
     {
         "example": "This milk has gone off.",
-        "meaning": "(become bad - food)",
-        "verb": "Go off"
+        "meaning": "become bad - food",
+        "verb": "go off"
     },
     {
         "example": "Many people were killed when the bomb went off. The bomb went off.",
         "meaning": "to explode or fire; (of alarms or alarm clocks) to ring suddenly",
-        "verb": "go off (of explosive devices e.g. bombs, guns etc.)"
+        "usage": "of explosive devices e.g. bombs, guns etc.",
+        "verb": "go off "
     },
     {
         "example": "Something funny is going on.",
-        "meaning": "(happen - usually negative)",
-        "verb": "Go on"
+        "meaning": "happen - usually negative",
+        "verb": "go on"
     },
     {
         "example": "You went out with Sharon last night, didn't you?",
         "meaning": "have a date with",
-        "verb": "go out with (inseparable)"
+        "usage": "inseparable",
+        "verb": "go out with "
     },
     {
         "example": "There weren't enough life-jackets to go round.",
-        "meaning": "(be enough)",
-        "verb": "Go round"
+        "meaning": "be enough",
+        "verb": "go round"
     },
     {
-        "example": "When Ben entered this country, a custom's officer went through his suitcase. The officer took all of Ben's clothes out of his suitcase and looked at them very carefully. A custom's officer went through Ben's suitcase. A custom's officerwent through it.",
+        "example": "When Ben entered this country, a custom's officer went through his suitcase.",
         "meaning": "to examine (something)",
         "verb": "go through"
     },
     {
         "example": "When it came to actually stealing the money, Nora couldn't go through with it.",
-        "meaning": "(complete a promise or plan - usually unwillingly)",
-        "verb": "Go through with"
+        "meaning": "complete a promise or plan - usually unwillingly",
+        "verb": "go through with"
     },
     {
-        "example": "You should buy that shirt. It will go well with your dark brown suit. Tom wanted to see if checked trousers go with a striped jacket; he looked in a mirror and thought they looked horrible together. After trying a few other pairs of trousers he decided th",
-        "meaning": "to match or suit (something); look pleasing together. (Note: for clothes, furniture, etc.)",
-        "verb": "go with (1. no object)"
+        "examples": [
+          "You should buy that shirt. It will go well with your dark brown suit.",
+          "Tom wanted to see if checked trousers go with a striped jacket; he looked in a mirror and thought they looked horrible together."
+        ],
+        "meaning": "to match or suit (something); look pleasing together.",
+        "usage": "no object",
+        "context": "for clothes, furniture, etc.",
+        "verb": "go with "
     },
     {
         "example": "Is Gina going with Jim? I see them together all the time.",
         "meaning": "date regularly and steadily",
-        "verb": "go with (2. no object)"
+        "usage": "no object",
+        "verb": "go with "
     },
     {
-        "example": "A: \"Do you have any special plans for your vacation?\" B: \"No. I'm just going to stay home and goof off.\"",
+        "example": "Do you have any special plans for your vacation? No. I'm just going to stay home and goof off.",
         "meaning": "be lazy; do nothing in particular",
-        "verb": "goof off (no object)"
+        "usage": "no object",
+        "verb": "goof off "
     },
     {
         "example": "This new record is growing on me.",
-        "meaning": "(become more liked - colloquial)",
-        "verb": "Grow on"
+        "meaning": "become more liked (colloquial)",
+        "verb": "grow on"
     },
     {
-        "example": "Joe has grown up into a fine young man. Joe has grown up. Did you know that Frank grew up in Malaysia?",
+        "examples": [
+          "Joe has grown up into a fine young man.",
+          "Did you know that Frank grew up in Malaysia?"
+        ],
         "meaning": "to develop from a child into an adult; spend the years between being a child and being an adult",
-        "verb": "grow up (1. no object)"
+        "usage": "no object",
+        "verb": "grow up "
     },
     {
-        "example": "A: \"Lee really irritates me sometimes. He's really silly and childish.\" B: \"I agree. I wish he would grow up.\"",
+        "example": "Lee really irritates me sometimes. He's really silly and childish. I agree. I wish he would grow up.",
         "meaning": "behave responsibly; behave as an adult, not a child",
-        "verb": "grow up (2. no object)"
+        "usage": "no object",
+        "verb": "grow up "
     },
     {
         "example": "You'd better get started on your report. You know that you have to hand it in at 8:30 tomorrow morning!",
         "meaning": "submit homework, an assignment, etc.",
-        "verb": "hand in (separable)"
+        "usage": "separable",
+        "verb": "hand in "
     },
     {
         "example": "Why don't you have a course description and list of assignments? The teacher handed them out on the first day of class.",
         "meaning": "distribute",
-        "verb": "hand out (separable)"
-    },
-    {
-        "example": "",
-        "meaning": "",
-        "verb": "hand over"
+        "usage": "separable",
+        "verb": "hand out "
     },
     {
         "example": "I think we should hang onto the car until next year.",
-        "meaning": "(keep - colloquial)",
-        "verb": "Hang onto"
+        "meaning": "keep (colloquial)",
+        "verb": "hang onto"
     },
     {
         "example": "I'd like to talk longer, but I'd better hang up. My sister needs to make a call.",
         "meaning": "end a phone conversation by replacing the receiver",
-        "verb": "hang up (no object)"
+        "usage": "no object",
+        "verb": "hang up "
     },
     {
         "example": "My teacher has (got) it in for me.",
-        "meaning": "(be deliberately unkind to someone - also as have got)",
-        "verb": "Have it in for"
+        "meaning": "be deliberately unkind to someone - also as have got",
+        "verb": "have it in for"
     },
     {
         "example": "I put up with the problem for a while but in the end I had it out with her.",
-        "meaning": "(express feelings so as to settle a problem)",
-        "verb": "Have it out with"
+        "meaning": "express feelings so as to settle a problem",
+        "verb": "have it out with"
     },
     {
         "example": "I don't believe you. You 're having me on.",
-        "meaning": "(deceive - colloquial)",
-        "verb": "Have someone on"
+        "meaning": "deceive (colloquial)",
+        "verb": "have someone on"
     },
     {
         "example": "This class has to do with the behavior of people in groups.",
         "meaning": "be about",
-        "verb": "have to do with (inseparable)"
+        "usage": "inseparable",
+        "verb": "have to do with "
     },
     {
         "example": "Mark and Sarah really hit it off at the party.",
-        "meaning": "(get on well with - colloquial)",
-        "verb": "Hit it off"
+        "meaning": "get on well with (colloquial)",
+        "verb": "hit it off"
     },
     {
         "example": "They hit upon the solution quite by chance.",
-        "meaning": "(discover by chance - often an idea)",
-        "verb": "Hit upon/on"
+        "meaning": "discover by chance - often an idea",
+        "verb": "hit upon/on"
     },
     {
-        "example": "George phoned his office because he wanted some information. 'Hold on a minute and I'll get it for you,' said his assistant. His assistant asked him to hold on.",
+        "example": "George phoned his office because he wanted some information. 'Hold on a minute and I'll get it for you,' said his assistant.",
         "meaning": "to wait (especially on the telephone)",
         "verb": "hold on"
     },
     {
         "example": "We don't hold out much hope that the price will fall.",
-        "meaning": "(offer - especially with hope)",
-        "verb": "Hold out"
+        "meaning": "offer - especially with hope",
+        "verb": "hold out"
     },
     {
         "example": "The winner of the race proudly held his trophy up for all to see.",
         "meaning": "raise; lift to a higher-than-normal position",
-        "verb": "hold up (1. separable)"
+        "usage": "separable",
+        "verb": "hold up "
     },
     {
         "example": "Jack was always held up as an example to me.",
-        "meaning": "(use as an example - i.e. a model of good behaviour)",
-        "verb": "Hold up (2)"
+        "meaning": "use as an example - i.e. a model of good behaviour",
+        "verb": "hold up"
     },
     {
         "example": "Earlier today a masked robber with a gun held up the bank and escaped with a hundred thousand pounds. A robber held up the bank. A robber held the bank up. A robber held it up.",
         "meaning": "to rob, especially using a weapon (e.g. a gun)",
-        "verb": "hold up (2) a person / a bank / a vehicle etc."
+        "context": "a person / a bank / a vehicle etc.",
+        "verb": "hold up"
     },
     {
-        "example": "I'm sorry I'm late. There was an accident on the freeway and traffic held me up. Sorry I'm late, I was held up in the traffic. The traffic was held up for a few hours because of an accident that blocked the road. The accident held up the traffic. The acci",
+        "examples": [
+          "I'm sorry I'm late. There was an accident on the freeway and traffic held me up.",
+          "Sorry I'm late, I was held up in the traffic.",
+          "The traffic was held up for a few hours because of an accident that blocked the road."
+        ],
         "meaning": "to stop; to delay",
-        "verb": "hold up (2. Separable, usually used in the passive)"
+        "usage": "Separable, usually used in the passive",
+        "verb": "hold up "
     },
     {
         "example": "Sarah is very upset. When she was walking home last night, two men held her up and took her purse and jewelry.",
         "meaning": "rob; threaten someone with harm unless he/she gives her/his money or other valuable things",
-        "verb": "hold up (3. separable)"
+        "usage": "separable",
+        "verb": "hold up "
     },
     {
         "example": "I don't hold with the idea of using force.",
-        "meaning": "(agree with - an idea)",
-        "verb": "Hold with"
+        "meaning": "agree with - an idea",
+        "verb": "hold with"
     },
     {
         "example": "Yes, I know we disagree on lots of things, Susan, but we can iron them out.",
         "meaning": "mutually reach an agreement; mutually resolve difficulties",
-        "verb": "iron out (separable)"
-    },
-    {
-        "example": "",
-        "meaning": "abandon",
-        "verb": "jack in"
+        "usage": "separable",
+        "verb": "iron out "
     },
     {
         "example": "We'll have to jack the back of the car up before we can change the tire.",
         "meaning": "raise / life by using a jack",
-        "verb": "jack up (1. separable)"
+        "usage": "separable",
+        "verb": "jack up "
     },
     {
         "example": "The car dealer bought my old Ford for $750 and jacked the price up to $1,500 when they sold it.",
         "meaning": "raise (used for prices)",
-        "verb": "jack up (2. separable)"
+        "usage": "separable",
+        "verb": "jack up "
     },
     {
         "example": "Arthur is really upset. His boss jumped all over him because he's been late for work three times this week.",
         "meaning": "severely scold someone; berate someone",
-        "verb": "jump all over (inseparable)"
+        "usage": "inseparable",
+        "verb": "jump all over "
     },
     {
         "example": "I'm not ready to stop yet. I think I'll keep on working for a while.",
         "meaning": "continue",
-        "verb": "keep on (1. inseparable--followed by an -ing verb)"
+        "usage": "inseparable--followed by an -ing verb",
+        "verb": "keep on "
     },
     {
         "example": "Bill's very forgetful. You'll have to keep on him or he'll never do all the things you want him to do.",
         "meaning": "continue to remind someone to do something until he/she does it (even if this irritates her/him)",
-        "verb": "keep on (someone) (2. inseparable)"
+        "usage": "someone",
+        "verb": "keep on "
     },
     {
         "example": "Well done' Keep up the good work.",
-        "meaning": "(continue)",
-        "verb": "Keep up"
+        "meaning": "continue",
+        "verb": "keep up"
     },
     {
         "example": "Jim's club kicked him out because he didn't pay his dues or come to meetings.",
         "meaning": "expel; force someone to leave because of his/her poor performance or unacceptable behavior",
-        "verb": "kick out (separable)"
+        "usage": "separable",
+        "verb": "kick out "
     },
     {
         "example": "We completed the project on time because of Chuck. He knocked himself out to be sure we didn't miss the deadline.",
         "meaning": "work much harder than normal or than what is expected",
-        "verb": "knock oneself out (separable)"
+        "usage": "separable",
+        "verb": "knock oneself out "
     },
     {
-        "example": "The boxing match ended when one boxer knocked the other one out. \"That medicine really knocked me out. I slept for 14 hours straight!\"",
+        "examples": [
+          "The boxing match ended when one boxer knocked the other one out.",
+          "That medicine really knocked me out. I slept for 14 hours straight!"
+        ],
         "meaning": "make unconscious",
-        "verb": "knock out (separable)"
+        "usage": "separable",
+        "verb": "knock out "
     },
     {
         "example": "The company has laid down strict procedures for this kind of situation.",
-        "meaning": "(state arule- especially lay down the law)",
-        "verb": "Lay down"
+        "meaning": "state a rule - especially lay down the law",
+        "verb": "lay down"
     },
     {
-        "example": "Last year the manager of Bloggs Ltd laid off a hundred workers because business was very bad. He laid off a hundred workers. He laid a hundred workers off. He laid them off. They were laid off. I feel really sorry Sally's family. Her father was laid off y",
+        "example": "Last year the manager of Bloggs Ltd laid off a hundred workers because business was very bad.",
         "meaning": "to stop employing (a worker), often for a short time because there is not enough work (not because of poor performance)",
-        "verb": "lay off   (separable; often passive)"
+        "usage": "separable; often passive",
+        "verb": "lay off"
     },
     {
         "example": "Oh, no! When I made the list of those who attended the meeting, I left your name out!",
         "meaning": "forget; omit",
-        "verb": "leave out (separable)"
+        "usage": "separable",
+        "verb": "leave out "
     },
     {
-        "example": "Sorry to let you down, but I can't give you a lift today.  Julia promised to meet Rick outside the cinema at eight o'clock, but she let him down. He waited for two hours and then he went home angrily. Julia let Rick down. Julia let him down. I know I let",
+        "examples": [
+          "Sorry to let you down, but I can't give you a lift today.",
+          "Julia promised to meet Rick outside the cinema at eight o'clock, but she let him down."
+        ],
         "meaning": "to disappoint someone (often by breaking a promise or an agreement)",
-        "verb": "let down (separable)"
+        "usage": "separable",
+        "verb": "let down "
     },
     {
         "example": "We haven't let Tina in on the plans yet.",
-        "meaning": "(allow to be part of a secret)",
-        "verb": "Let in on"
+        "meaning": "allow to be part of a secret",
+        "verb": "let in on"
     },
     {
-        "example": "As Dave was young, the judge let him off with a fine. Bill should have been sent to prison for six months, but the judge decided to let him off so that he could stay out of prison and take care of his family. The judge let Bill off going to prison. The ju",
+        "example": "Bill should have been sent to prison for six months, but the judge decided to let him off so that he could stay out of prison and take care of his family.",
         "meaning": "to excuse (someone) from (a punishment, a duty, or doing something)",
         "verb": "let off"
     },
     {
         "example": "We're planning a surprise for Helen, but don't let on.",
-        "meaning": "(inform about a secret - colloquial)",
-        "verb": "Let on"
+        "meaning": "inform about a secret (colloquial)",
+        "verb": "let on"
     },
     {
-        "example": "They let Fred out of prison after five years. They let Fred out of prison. They let Fred out. They let him out.",
+        "example": "They let Fred out of prison after five years.",
         "meaning": "to allow (a person or an animal) to leave (a place); to release",
         "verb": "let out"
     },
     {
         "example": "It's been raining hard for a long time. Will it ever let up?",
         "meaning": "become less intense or slower",
-        "verb": "let up (no object)"
+        "usage": "no object",
+        "verb": "let up "
     },
     {
         "example": "If City lose, they'll never live it down.",
-        "meaning": "(suffer a loss of reputation)",
-        "verb": "Live down  Note. used with (not)"
+        "meaning": "suffer a loss of reputation",
+        "usage": "not",
+        "verb": "live down  Note. used with "
     },
     {
         "example": "The play quite lived up to my expectations.",
-        "meaning": "(reach an expected standard)",
-        "verb": "Live up to"
+        "meaning": "reach an expected standard",
+        "verb": "live up to"
     },
     {
-        "example": "Looking after a baby is a full-time job. You have to bath it, dress it and feed it. She looks after the baby. She looks after It.",
+        "example": "Looking after a baby is a full-time job. You have to bath it, dress it and feed it.",
         "meaning": "to take care of someone or something",
         "verb": "look after someone or something"
     },
     {
-        "example": "When they looked back on their many years together, they realized that their marriage had been a very happy one. The Blacks have been married for many years. They like talking about the past and looking back on old times. At the moment they are looking at",
+        "examples": [
+          "When they looked back on their many years together, they realized that their marriage had been a very happy one.",
+          "They like talking about the past and looking back on old times. At the moment they are looking at"
+        ],
         "meaning": "to remember and think about the past; reflect on / consider something in the past",
-        "verb": "look back on (inseparable)"
+        "usage": "inseparable",
+        "verb": "look back on "
     },
     {
         "example": "It's not surprising that Fred has few friends. He seems to look down on anyone who doesn't like the same things that he does.",
         "meaning": "hold in contempt; regard as inferior",
-        "verb": "look down on (inseparable)"
+        "usage": "inseparable",
+        "verb": "look down on "
     },
     {
-        "example": "Sir Douglas is a very rich aristocrat. Fred is a very poor tramp. Sir Douglas thinks that he is a much better person than Fred-he looks down on Fred. Sir Douglas looks down on Fred. Sir Douglas looks down on him.",
+        "example": "Sir Douglas thinks that he is a much better person than Fred-he looks down on Fred. Sir Douglas looks down on him.",
         "meaning": "to think that someone (or something) is inferior, low or worthless; to disapprove of (someone or something)",
-        "verb": "look down on someone or something"
+        "context": "on someone or something",
+        "verb": "look down"
     },
     {
-        "example": "Fred wanted to open his front door but he couldn't find his key. He looked for it everywhere. It's in one of my pockets,' he thought. He looked for his key. He looked for it.",
+        "example": "Fred wanted to open his front door but he couldn't find his key. He looked for it everywhere.",
         "meaning": "to try to find (something or someone), often athing or person that is lost",
-        "verb": "look for something or someone"
+        "context": "something or someone",
+        "verb": "look for"
     },
     {
-        "example": "I'm really looking forward to vacation. I can't wait for it to begin! Bill Bloggs has been in prison for the last ten years. Next year he'll be released from prison and he'll be a free man. Bill is looking forward to next year. Bill is looking forward to",
+        "examples": [
+          "I'm really looking forward to vacation. I can't wait for it to begin!",
+          "Bill Bloggs has been in prison for the last ten years. Next year he'll be released from prison and he'll be a free man."
+        ],
         "meaning": "anticipate pleasantly; to think with pleasure about a future event that you expect to enjoy",
-        "verb": "look forward to a future event (inseparable)"
+        "usage": "inseparable",
+        "context": "a future event",
+        "verb": "look forward to"
     },
     {
         "example": "My father just came home from the hospital. I plan to look in on him today after I finish work.",
         "meaning": "visit in order to check something's / someone's condition",
-        "verb": "look in on (inseparable)"
+        "usage": "inseparable",
+        "verb": "look in on "
     },
     {
         "example": "The police have promised to look into the problem. Someone said there was a meeting at 9:30 but I haven't heard anything about it. Shall I look into it? The police are looking into the death of Mr James. They want to know how he was murdered. They are loo",
         "meaning": "investigate / get more details about something; to carefully examine a situation or event and try to discover the reasons for it",
-        "verb": "look into a situation / a crime / a problem /a complaint etc. (inseparable)"
+        "usage": "inseparable",
+        "context": "a situation / a crime / a problem /a complaint etc.",
+        "verb": "look into"
     },
     {
         "example": "Does he look like his father or his mother?",
         "meaning": "resemble (in appearance)",
-        "verb": "look like (inseparable)"
+        "usage": "inseparable",
+        "verb": "look like "
     },
     {
         "example": "We look on this town as our real home.",
-        "meaning": "(consider)",
-        "verb": "Look on"
+        "meaning": "consider",
+        "verb": "look on"
     },
     {
-        "example": "I think I may have some typos in this report. Could you look it over? Joe wanted to buy a second-hand car. 'That one looks good,' he said to the salesman. 'Give me some time to look it over. If it's in good condition, I'll buy it.' He looked the car over.",
+        "examples": [
+          "I think I may have some typos in this report. Could you look it over?",
+          "Give me some time to look it over. If it's in good condition, I'll buy it"
+        ],
         "meaning": "check; review; to examine (someone or something) carefully and fully",
-        "verb": "look over some work / a car / a house / a document / a suggestion / an applicant etc.  (separable)"
+        "usage": "separable",
+        "context": "some work / a car / a house / a document / a suggestion / an applicant etc.",
+        "verb": "look over"
     },
     {
-        "example": "Mr and Mrs Smith wanted to buy a house. The estate agent took them to see a house in the centre of town and said, 'Look round the house and see if it's what you want.' They looked round the house. They looked round it. They went into the house and looked",
+        "example": "Mr and Mrs Smith wanted to buy a house. The estate agent took them to see a house in the centre of town and said, 'Look round the house and see if it's what you want.'",
         "meaning": "to visit and tour round a place.",
-        "verb": "look round a house / a shop / a town / a factory / an exhibition etc."
+        "context": "a house / a shop / a town / a factory / an exhibition etc.",
+        "verb": "look round"
     },
     {
-        "example": "\"I'm sorry, but I don't know what that word means. I'll have to look it up.\" While Peter was reading he found a word that he didn't understand. 'This is a difficult word,' he thought. I'll look it up in the dictionary and see what it means. He looked up",
+        "examples": [
+          "I'm sorry, but I don't know what that word means. I'll have to look it up.",
+          "I'll look it up in the dictionary and see what it means. He looked up"
+        ],
         "meaning": "to find (or try to find) something (e.g. a telephone number) in a book (e.g. a telephone directory)",
-        "verb": "look up (1. separable) a word / a telephone number / an address / a train time/a date etc."
+        "usage": "separable",
+        "verb": "look up "
     },
     {
-        "example": "If you're passing through Athens, look me up. Thanks for giving me your brother's address. When I'm in Chicago next month, I'll be sure to look him up.",
+        "examples": [
+          "If you're passing through Athens, look me up.",
+          "Thanks for giving me your brother's address. When I'm in Chicago next month, I'll be sure to look him up."
+        ],
         "meaning": "visit when in the area; find where someone lives or works and visit him/her",
-        "verb": "look up (2. separable)"
+        "usage": "separable",
+        "verb": "look up "
     },
     {
-        "example": "Everyone looks up to Joyce because she always makes time to help others. Young Jimmy's favourite footballer is Ted Ross of Arsenal. Jimmy looks up to Ted and he tries to be like him. Jimmy looks up to Ted Ross. Jimmy looks up to him.",
+        "example": "Everyone looks up to Joyce because she always makes time to help others.",
         "meaning": "to respect (someone); to admire (someone)",
-        "verb": "look up to someone (inseparable)"
+        "usage": "inseparable",
+        "context": "someone",
+        "verb": "look up to"
     },
     {
         "example": "Gloria was worried because she wasn't prepared to give a report at the meeting, but she lucked out because the meeting was postponed.",
         "meaning": "be unexpectedly lucky",
-        "verb": "luck out (no object)"
+        "usage": "no object",
+        "verb": "luck out "
     },
     {
         "example": "Her teen-aged children are always hungry. As soon as they arrive home from school, they make for the refrigerator.",
         "meaning": "go to or toward",
-        "verb": "make for (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "make for "
     },
     {
-        "example": "Many hands make for light work. (If many people work together, there's less work for everyone.) The power steering makes for easier parking.",
+        "example": "Many hands make for light work. The power steering makes for easier parking.",
         "meaning": "result in; cause",
-        "verb": "make for (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "make for "
     },
     {
         "example": "I agree that Bob looks ridiculous since he shaved his head, but don't make fun of him. You'll hurt his feelings.",
         "meaning": "make jokes about (usually unkindly)",
-        "verb": "make fun of (inseparable)"
+        "usage": "inseparable",
+        "verb": "make fun of "
     },
     {
         "example": "The thief made off with a valuable necklace.",
-        "meaning": "(run away with)",
-        "verb": "Make off with"
+        "meaning": "run away with",
+        "verb": "make off with"
     },
     {
-        "example": "Tim made out that he hadn 't seen the No Smoking sign.",
-        "meaning": "(pretend)",
-        "verb": "Make out (1)"
+        "example": "Tim made out that he hadn't seen the No Smoking sign.",
+        "meaning": "pretend",
+        "verb": "make out"
     },
     {
-        "example": "I couldn 't quite make out what the notice said. Bob saw something on the horizon as he was looking through his binoculars. At first he couldn't make out what it was, but after a few minutes he could just make out the shape of a yacht. He couldn't make ou",
-        "meaning": "manage to see or understand; to see, hear, or understand (something or someone), often with difficulty; see / hear something well enough to understand what it means. (Note: often negative.)",
-        "verb": "make out (1)   often used in the negative with can't and couldn 't"
+        "example": "I couldn't quite make out what the notice said.",
+        "meaning": "manage to see or understand; to see, hear, or understand (something or someone), often with difficulty; see / hear something well enough to understand what it means.",
+        "usage": "often used in the negative with can't and couldn't",
+        "verb": "make out"
     },
     {
-        "example": "I made out a cheque for ten pounds. I made out a cheque. I made a cheq ue out. I made it out.",
+        "example": "I made out a cheque for ten pounds.",
         "meaning": "to write (a cheque)",
-        "verb": "make out (2) a cheque"
+        "verb": "make out a cheque"
     },
     {
         "example": "Janet is really odd. I can't make her out.",
-        "meaning": "(understand someone's behaviour)",
-        "verb": "Make someone out"
+        "meaning": "understand someone's behaviour",
+        "verb": "make someone out"
     },
     {
-        "example": "Yesterday Joan and Jack had a big argument about politics. Earlier today they decided to forget their differences and make up. Joan and Jack made up. Joan and Jack made up their quarrel. Joan and Jack made it up. Jack made up with Joan. Jack made it up wi",
+        "examples": [
+          "Yesterday Joan and Jack had a big argument about politics. Earlier today they decided to forget their differences and make up.",
+          "Joan and Jack made up their quarrel."
+        ],
         "meaning": "to become friends again after a quarrel",
-        "verb": "make up (1)"
+        "verb": "make up"
     },
     {
         "example": "Judy's story is hard to believe. I'm sure she made it up. I think you made up the whole story.",
         "meaning": "invent / create (imaginary) information",
-        "verb": "make up (1. separable)"
+        "usage": "separable",
+        "verb": "make up "
     },
     {
-        "example": "Colin overslept and was late for work. It was the third time he had overslept that month, so he decided to make up an excuse. He told his boss that the engine of his car had exploded. He made up an excuse. He made an excuse up. He made It up.",
+        "example": "Colin had overslept, so he decided to make up an excuse. He told his boss that the engine of his car had exploded. He made up an excuse.",
         "meaning": "to invent, sometimes with the purpose of deception",
-        "verb": "make up (2) a story / a poem / an excuse / an explanation etc."
+        "context": "a story / a poem / an excuse / an explanation etc.",
+        "verb": "make up"
     },
     {
         "example": "I'm sorry I missed the test. May I make it up?",
         "meaning": "compensate for something missed or not done by doing extra or equivalent work",
-        "verb": "make up (2. separable)"
+        "usage": "separable",
+        "verb": "make up "
     },
     {
-        "example": "Jack and his girlfriend were very angry with each other, but last night they finally made up. \"Jack and his girlfriend were very angry with each other, but last night they finally made up with each other.\"",
+        "example": "Jack and his girlfriend were very angry with each other, but last night they finally made up with each other.",
         "meaning": "re-establish a friendly relationship by admitting guilt",
-        "verb": "make up (with) (3. inseparable)"
+        "usage": "also make up with",
+        "verb": "make up "
     },
     {
-        "example": "Our success makes up for all the hard times.  June and Ron arranged to meet outside the cinema at 7.30 p.m. June was very upset when Ron arrived an hour late. Ron made up for being late by apologizing to June and giving her a big bunch of flowers. He made",
+        "examples": [
+          "Our success makes up for all the hard times.",
+          "June was very upset when Ron arrived an hour late. Ron made up for being late by apologizing to June and giving her a big bunch of flowers."
+        ],
         "meaning": "to compensate for",
-        "verb": "make up for a mistake /doing or not doing something etc."
+        "context": "a mistake /doing or not doing something etc.",
+        "verb": "make up for"
     },
     {
         "example": "These shoes were really a bargain! The store marked them down by 40%!",
         "meaning": "reduce the price (as an incentive to buy)",
-        "verb": "mark down (separable)"
+        "usage": "separable",
+        "verb": "mark down "
     },
     {
         "example": "Mrs. White's import shop is profitable because she buys things inexpensively and then marks them up.",
         "meaning": "increase the price (for resale)",
-        "verb": "mark up (separable)"
+        "usage": "separable",
+        "verb": "mark up "
     },
     {
         "example": "You have missed out a word here.",
-        "meaning": "(fail to include)",
-        "verb": "Miss out (1)"
+        "meaning": "fail to include",
+        "verb": "miss out"
     },
     {
         "example": "Five people got promoted, but I missed out again.",
-        "meaning": "(lose a chance - colloquial)",
-        "verb": "Miss out (2)"
+        "meaning": "lose a chance (colloquial)",
+        "verb": "miss out"
     },
     {
-        "example": "I frightened rpyself last night when I mistook a piece of old rope for a dangerous snake. I mistook a piece of old rope for a dangerous snake. I saw a piece of old rope and I mistook it for a dangerous snake.",
+        "example": "I mistook a piece of old rope for a dangerous snake.",
         "meaning": "to think wrongly that (one thing or person) is (another thing or person)",
         "verb": "mistake for"
     },
     {
         "example": "I didn't complete the assignment because I didn't know how. The directions mixed me up.",
         "meaning": "cause to become confused",
-        "verb": "mix up (separable)"
+        "usage": "separable",
+        "verb": "mix up "
     },
     {
         "example": "The speech was so boring that several people in the audience nodded off before it was finished.",
         "meaning": "fall sleep (usually unintentionally)",
-        "verb": "nod off (no object)"
+        "usage": "no object",
+        "verb": "nod off "
     },
     {
-        "example": "James owned up to drawing a silly picture of his teacher on the board. None of the children would own up to breaking the window.",
-        "meaning": "confess - colloquial; to tell (someone) that you have done something wrong, or that you are at fault",
+        "examples": [
+          "James owned up to drawing a silly picture of his teacher on the board.",
+          "None of the children would own up to breaking the window."
+        ],
+        "meaning": "confess (colloquial); to tell (someone) that you have done something wrong, or that you are at fault",
         "verb": "own up"
     },
     {
         "example": "John has packed in his job.",
-        "meaning": "(stop an activity - colloquial)",
-        "verb": "Pack in"
+        "meaning": "stop an activity (colloquial)",
+        "verb": "pack in"
     },
     {
         "example": "I'll be here next week after all. My trip to Chicago didn't pan out.",
         "meaning": "succeed; happen as expected (for plans). (Note: almost always negative when in statements.)",
-        "verb": "pan out (no object)"
+        "usage": "no object",
+        "verb": "pan out "
     },
     {
-        "example": "Fred Bloggs passed away (passed on/passed over) in 1985afteralong illness. Fred passed away. Fred passed on. Fred passed over. I was very sorry to hear that your grandfather passed away.",
+        "example": "Fred Bloggs passed away in 1985 after a long illness.",
         "meaning": "to die",
-        "verb": "pass away pass on pass over (usually of a person) (no object)"
+        "usage": "usually of a person",
+        "usage": "also pass on, pass over",
+        "verb": "pass away"
     },
     {
-        "example": "When Ella heard that she'd won a million dollars, she was so shocked that she passed out. When the air-conditioning stopped working, James found it difficult to breathe and passed out. He passed out.",
+        "examples": [
+          "When Ella heard that she'd won a million dollars, she was so shocked that she passed out.",
+          "When the air-conditioning stopped working, James found it difficult to breathe and passed out."
+        ],
         "meaning": "faint; lose consciousness",
-        "verb": "pass out (1. no object)"
+        "usage": "no object",
+        "verb": "pass out "
     },
     {
         "example": "Everyone in the room needs one of these information sheets. Who will help me pass them out?",
         "meaning": "distribute",
-        "verb": "pass out (2. separable)"
+        "usage": "separable",
+        "verb": "pass out "
     },
     {
         "example": "She paid him back for all his insults.",
-        "meaning": "(take revenge - colloquial)",
-        "verb": "Pay back"
+        "meaning": "take revenge (colloquial)",
+        "verb": "pay back"
     },
     {
         "example": "You should be ashamed of teasing your little brother, Bob! Pick on someone your own size!",
         "meaning": "bully; intentionally try to make someone upset",
-        "verb": "pick on (inseparable)"
+        "usage": "inseparable",
+        "verb": "pick on "
     },
     {
         "example": "Billy's grandmother especially liked her birthday card because Billy had picked it out himself.",
         "meaning": "choose; select",
-        "verb": "pick out (separable)"
+        "usage": "separable",
+        "verb": "pick out "
     },
     {
         "example": "Those books don't belong on the floor. Will you help me pick them up?",
         "meaning": "lift; take up",
-        "verb": "pick up (1. separable)"
+        "usage": "separable",
+        "verb": "pick up "
     },
     {
-        "example": "Of course we can go there together. What time should I pick you up? Jeff was driving home when he saw a hitchhiker. He stopped the car and picked the hitchhiker up. Jeff picked up the hitchhiker. Jeff picked the hitchhiker up. Jeff picked him up.",
+        "examples": [
+          "Of course we can go there together. What time should I pick you up?",
+          "Jeff was driving home when he saw a hitchhiker. He stopped the car and picked the hitchhiker up. Jeff picked him up."
+        ],
         "meaning": "arrange to meet someone and give her/him a ride; to collect someone or something (sometimes in a vehicle)",
-        "verb": "pick up (2. separable) something or someone"
+        "usage": "separable",
+        "verb": "pick up "
     },
     {
         "example": "The children just drank the last of the milk. Could you pick some more up on your way home this evening?",
         "meaning": "get; buy",
-        "verb": "pick up (3. separable)"
+        "usage": "separable",
+        "verb": "pick up "
     },
     {
-        "example": "The weather seems to be picking up. He was feeling a little tired, so he drank a glass of orange juice. It picked him up enough to finish his work.",
+        "examples": [
+          "The weather seems to be picking up.",
+          "He was feeling a little tired, so he drank a glass of orange juice. It picked him up enough to finish his work."
+        ],
         "meaning": "refresh; revitalize; improve (colloquial)",
-        "verb": "pick up (4. separable)"
+        "usage": "separable",
+        "verb": "pick up "
     },
     {
         "example": "I asked Jim to name a suitable day, but I couldn't pin him down.",
-        "meaning": "(force to give a clear statement)",
-        "verb": "Pin someone down"
+        "meaning": "force to give a clear statement",
+        "verb": "pin someone down"
     },
     {
         "example": "We'll be finished soon if everyone pitches in.",
         "meaning": "help; join together to accomplish something",
-        "verb": "pitch in (no object)"
+        "usage": "no object",
+        "verb": "pitch in "
     },
     {
         "example": "The car is playing up again. It won't start.",
-        "meaning": "(behave or work badly)",
-        "verb": "Play up"
+        "meaning": "behave or work badly",
+        "verb": "play up"
     },
     {
-        "example": "I pointed out that I would be on holiday anyway. My uncle showed me the building he used to work in and he pointed out his old office on the sixth floor. He pointed out his office. He pointed his office out. He pointed it out.",
+        "examples": [
+          "I pointed out that I would be on holiday anyway.",
+          "My uncle showed me the building he used to work in and he pointed out his old office on the sixth floor."
+        ],
         "meaning": "to draw attention to something or someone",
-        "verb": "point out something or someone"
+        "context": "something or someone",
+        "verb": "point out"
     },
     {
         "example": "It was a tricky plan, but we pulled it off.",
-        "meaning": "(manage to succeed)",
-        "verb": "Pull off"
+        "meaning": "manage to succeed",
+        "verb": "pull off"
     },
     {
         "example": "When the policeman indicated that I should pull over, I knew he was going to give me a ticket.",
         "meaning": "drive a vehicle to the side of the rode",
-        "verb": "pull over (no object)"
+        "usage": "no object",
+        "verb": "pull over "
     },
     {
         "example": "Let's push on and try to reach the coast by tonight.",
-        "meaning": "(continue with some effort - colloquial)",
-        "verb": "Push on"
+        "meaning": "continue with some effort (colloquial)",
+        "verb": "push on"
     },
     {
         "example": "I hate to put you out, but I need a ride to the train station and hope you can take me.",
         "meaning": "inconvenience someone",
-        "verb": "put (someone) out (separable)"
+        "usage": "someone",
+        "verb": "put "
     },
     {
         "example": "Harry is clever but he can't put his ideas across.",
-        "meaning": "(communicate ideas)",
-        "verb": "Put across"
+        "meaning": "communicate ideas",
+        "verb": "put across"
     },
     {
         "example": "I just took these clothes out of the dryer. Will you help me put them away?",
         "meaning": "return something to the proper place",
-        "verb": "put away (separable)"
+        "usage": "separable",
+        "verb": "put away "
     },
     {
         "example": "I've finished with these books. Do you want me to put them back on the shelves?",
         "meaning": "return something to the proper place",
-        "verb": "put back (separable)"
+        "usage": "separable",
+        "verb": "put back "
     },
     {
         "example": "Diane's poor performance was put down to nerves.",
-        "meaning": "(explain the cause of)",
-        "verb": "Put down to"
+        "meaning": "explain the cause of",
+        "verb": "put down to"
     },
     {
-        "example": "Mr Smith put forward the idea of introducing traffic lights at the crossroads as a way of preventing traffic jams. The planning committee thought his idea was very good. He put forward the idea. He put the idea forward. He put it forward.",
+        "example": "Mr Smith put forward the idea of introducing traffic lights at the crossroads as a way of preventing traffic jams.",
         "meaning": "to offer (a proposal / a plan etc.) for consideration",
-        "verb": "put forward a proposal / a plan / a suggestion / an idea etc."
+        "context": "a proposal / a plan / a suggestion / an idea etc.",
+        "verb": "put forward"
     },
     {
         "example": "Sue has put in for a teaching job.",
-        "meaning": "(apply for a job)",
-        "verb": "Put in for"
+        "meaning": "apply for a job",
+        "verb": "put in for"
     },
     {
-        "example": "Martin v/as very unhappy when he saw the huge pile of dirty dishes in the kitchen. He felt a little happier after deciding to put off the washing-up until the next day. Martin put off the washing-up until the next day. Martin put the washing-up off till t",
+        "example": "Martin was very unhappy when he saw the huge pile of dirty dishes in the kitchen. He felt a little happier after deciding to put off the washing-up until the next day.",
         "meaning": "to delay doing something until a late date; to delay an event or arrangement until a later date",
-        "verb": "Put off (1) an event / doing something etc."
+        "context": "an event / doing something etc.",
+        "verb": "put off"
     },
     {
-        "example": "I can't put this work off any longer. If I don't do it soon, it'll be impossible to finish it in time. \"When will Mr. Smith agree to a meeting? I keep asking for an appointment, but he keeps putting me off.\"",
+        "examples": [
+          "I can't put this work off any longer. If I don't do it soon, it'll be impossible to finish it in time.",
+          "When will Mr. Smith agree to a meeting? I keep asking for an appointment, but he keeps putting me off."
+        ],
         "meaning": "postpone; delay; avoid",
-        "verb": "put off (1. separable)"
+        "usage": "separable",
+        "verb": "put off"
     },
     {
-        "example": "The crowd put the gymnast off, and be fell. Ron was trying to read, but the noise from the television put him off and he had to stop. The noise from the TV put Ron off his book. The noise from the TV put him off his bOOK. The noise from the TV put Ron oft",
+        "examples": [
+          "The crowd put the gymnast off, and be fell.",
+          "Ron was trying to read, but the noise from the television put him off and he had to stop."
+        ],
         "meaning": "to discourage, or distract, (someone) from doing doing, upset",
-        "verb": "put off (2) / put (someone) off (2)"
+        "usage": "someone",
+        "verb": "put off"
     },
     {
-        "example": "It's a little bit chilly outside. You'd better put a sweater on. Perry put on his nevi' sweater because he wanted to wear it for work. Perry put on his sweater. Perry put his sweater on. Perry put it on.",
+        "example": "It's a little bit chilly outside. You'd better put a sweater on.",
         "meaning": "begin to wear; don; to dress oneself",
-        "verb": "put on (1. separable) clothes / glasses I a ring / a necklace etc."
+        "usage": "separable",
+        "verb": "put on "
     },
     {
         "example": "Don't believe a word of what Jim was saying. He was just putting us on.",
         "meaning": "try to make someone believe something that is ridiculous or untrue",
-        "verb": "put on (2. separable)"
+        "usage": "separable",
+        "verb": "put on "
     },
     {
         "example": "Please don't put yourself out making a meal. A sandwich will do.",
-        "meaning": "(take trouble - to help someone)",
-        "verb": "Put oneself out"
+        "meaning": "take trouble - to help someone",
+        "verb": "put oneself out"
     },
     {
         "example": "Steve put out the light in the lounge before going upstairs to bed. Steve put out the light. Steve put the light out. Steve put it out.",
         "meaning": "to extinguish",
-        "verb": "put out a cigarette / a light / a fire etc."
+        "context": "a cigarette / a light / a fire etc.",
+        "verb": "put out"
     },
     {
-        "example": "Mr Pratt phoned the offices of Gunn and Company. 'Who would you like to speak to?' asked the switchboard operator. 'Put me through to Mr Guhn please,' Mr Pratt replied. She put Mr Pratt through to Mr Gunn. She put him through to Mr Gunn. She put through M",
+        "example": "Who would you like to speak to? Put me through to Mr Guhn please",
         "meaning": "to connect a telephone caller to the number he or she wants",
         "verb": "put through"
     },
     {
         "example": "Your toys are all over the floor, Timmy. Please put them up.",
         "meaning": "return something to the proper place",
-        "verb": "put up (1. separable)"
+        "usage": "separable",
+        "verb": "put up "
     },
     {
-        "example": "There's no need for you to check into a hotel. I'll be happy to put you up. We can put you up for a few days.",
+        "example": "There's no need for you to check into a hotel. I'll be happy to put you up.",
         "meaning": "offer accommodation; provide someone with a place to sleep",
-        "verb": "put up (2. separable)"
+        "usage": "separable",
+        "verb": "put up "
     },
     {
-        "example": "When Uncle Mike comes to visit us, the children behave very badly. They hit him, they play tricks on him and they make a lot of noise. Uncle Mike must love them very much because he puts up with everything they do, and he never gets annoyed with them. Unc",
+        "example": "When Uncle Mike comes to visit us, the children behave very badly. Uncle Mike must love them very much because he puts up with everything they do.",
         "meaning": "to suffer (a difficult situation or person) without complaining",
         "verb": "put up with"
     },
     {
-        "example": "I can 't put up with all this noise! It's really important to come to work on time. The boss won't put up with tardiness.",
+        "example": "I can't put up with all this noise! It's really important to come to work on time. The boss won't put up with tardiness.",
         "meaning": "tolerate; bear",
-        "verb": "put up with (inseparable)"
+        "usage": "inseparable",
+        "verb": "put up with "
     },
     {
-        "example": "Don't even think about buying a car there. They'll rip you off. You paid \u00a350? They really ripped you off!",
+        "example": "Don't even think about buying a car there. They'll rip you off. You paid £50? They really ripped you off!",
         "meaning": "cheat; take advantage of; charge too much; charge too much (colloquial)",
-        "verb": "rip off (separable)"
+        "usage": "separable",
+        "verb": "rip off "
     },
     {
         "example": "Round all prices off to the closest whole-dollar amounts. For example, round $33.73 off to $34.00.",
         "meaning": "change from a fraction to the nearest whole number",
-        "verb": "round off (separable)"
+        "usage": "separable",
+        "verb": "round off "
     },
     {
         "example": "She's always running down her husband.",
-        "meaning": "(criticise)",
-        "verb": "Run down (1)"
+        "meaning": "criticise",
+        "verb": "run down"
     },
     {
-        "example": "/ think the batteries are running down.",
-        "meaning": "(lose power, allow to decline)",
-        "verb": "Run down (2)"
+        "example": "I think the batteries are running down.",
+        "meaning": "lose power, allow to decline",
+        "verb": "run down"
     },
     {
-        "example": "George is running in his new car. so he can't drive fast. George is running in his hew car. George is running it in. Running in, please pass. (a notice sometimes seen  on new cars)",
+        "examples": [
+          "George is running in his new car. so he can't drive fast.",
+          "Running in, please pass. (a notice sometimes seen on new cars)"
+        ],
         "meaning": "to use a new (or reconditioned) engine carefully until it is ready for normal use",
-        "verb": "run in a motor cycle / a new car / a machine etc."
+        "context": "a motor cycle / a new car / a machine etc.",
+        "verb": "run in"
     },
     {
-        "example": "Guess who I ran into at the supermarket! Yesterday at the supermarket, Jan ran into her former roommate. Before yesterday, they hadn't seen each other for nearly five years. I was on my way to work when I ran into Jeremy Thomas. It was a lovely surprise b",
+        "examples": [
+          "Guess who I ran into at the supermarket!",
+          "Yesterday at the supermarket, Jan ran into her former roommate.",
+          "Before yesterday, they hadn't seen each other for nearly five years. I was on my way to work when I ran into Jeremy Thomas."
+        ],
         "meaning": "meet by chance",
-        "verb": "run into (inseparable) someone"
+        "usage": "inseparable",
+        "verb": "run into "
     },
     {
         "example": "On the way home from work, Art ran out of gas. Howard has run out. of bread, so he can't make himself a sandwich. If he wants a sandwich, he'll have to go to the baker's shop and buy some more bread. Howard has run out of bread.  Howard has run out of it.",
         "meaning": "to use all of (something) and have no more left",
-        "verb": "run out of (inseparable) coffee / sugar / money /' patience / time etc."
+        "usage": "inseparable",
+        "verb": "run out of "
     },
     {
         "example": "Let's run over the plan once more.",
-        "meaning": "(check - also run through)",
-        "verb": "Run over"
+        "meaning": "check - also run through",
+        "verb": "run over"
     },
     {
         "example": "I don't think we can run to a holiday abroad this year.",
-        "meaning": "(have enough money)",
-        "verb": "Run to"
+        "meaning": "have enough money",
+        "verb": "run to"
     },
     {
         "example": "I ran up a huge telephone bill at the hotel.",
-        "meaning": "(a bill - let a bill get longer without paying)",
-        "verb": "Run up"
+        "meaning": "a bill - let a bill get longer without paying",
+        "verb": "run up"
     },
     {
         "example": "We've run up against a slight problem.",
-        "meaning": "(encounter - usually a problem)",
-        "verb": "Run up against"
+        "meaning": "encounter - usually a problem",
+        "verb": "run up against"
     },
     {
-        "example": "Bill arranged to go to Scotland to stay with his grandmother for a few days. His father, Frank, drove him to the railway station and saw him off. Frank saw Bill off. Frank saw him off. I went to the station to see them off.",
+        "example": "Bill arranged to go to Scotland to stay with his grandmother for a few days. His father, Frank, drove him to the railway station and saw him off.",
         "meaning": "to say goodbye to someone who is going on a journey at the place (e.g. airport, station etc.) where the journey begins; go to station, airport, etc to say goodbye to someone",
         "verb": "see someone off"
     },
     {
         "example": "I saw through his intentions at once.",
-        "meaning": "(realise the truth about)",
-        "verb": "See through"
+        "meaning": "realise the truth about",
+        "verb": "see through"
     },
     {
         "example": "Jean is always sending up the French teacher.",
-        "meaning": "(make fun of by Imitating)",
-        "verb": "Send up"
+        "meaning": "make fun of by Imitating",
+        "verb": "send up"
     },
     {
         "example": "We must set about re-organising the office.",
-        "meaning": "(start working)",
-        "verb": "Set about"
+        "meaning": "start working",
+        "verb": "set about"
     },
     {
         "example": "We've had some problems with the project that have set us back at least two days . We'll give you a progress report tomorrow.",
         "meaning": "cause a delay in scheduling",
-        "verb": "set back (1. separable)"
+        "usage": "separable",
+        "verb": "set back "
     },
     {
         "example": "I wonder how much Bill's new car set him back?",
         "meaning": "cost",
-        "verb": "set back (2. separable)"
+        "usage": "separable",
+        "verb": "set back "
     },
     {
-        "example": "/ think this ram has set infer the day.",
-        "meaning": "(establish itself-especially weather)",
-        "verb": "Set in"
+        "example": "I think this ram has set infer the day.",
+        "meaning": "establish itself-especially weather",
+        "verb": "set in"
     },
     {
-        "example": "Barry set off on his camping holiday at six o'clock in the morning and reached the campsite, in France, at midday. Barry set off. Barry set off at six o'clock. Barry set off on a camping holiday. Barry set off for France.",
+        "example": "Barry set off on his camping holiday at six o'clock in the morning and reached the campsite, in France, at midday.",
         "meaning": "to start a journey",
         "verb": "set off"
     },
     {
         "example": "We were set upon by a gang of hooligans.",
-        "meaning": "(attack)",
-        "verb": "Set on / set (up) on"
+        "meaning": "attack",
+        "usage": "up",
+        "verb": "set on"
     },
     {
         "example": "This document sets out all the Union demands.",
-        "meaning": "(give in detail in writing)",
-        "verb": "Set out (1)"
+        "meaning": "give in detail in writing",
+        "verb": "set out"
     },
     {
         "example": "I've set out the refreshments in the hall.",
-        "meaning": "(arrange)",
-        "verb": "Set out (2)"
+        "meaning": "arrange",
+        "verb": "set out"
     },
     {
         "example": "Sue set out to write a biography hut it became a novel.",
-        "meaning": "(start an action)",
-        "verb": "Set out (3)"
+        "meaning": "start an action",
+        "verb": "set out"
     },
     {
         "example": "An inquiry into the accident has been set up. You'll see Mr. Thomas tomorrow. I've set a meeting up for 9:30 AM.",
         "meaning": "make arrangements for something; establish",
-        "verb": "set up (separable)"
+        "usage": "separable",
+        "verb": "set up "
     },
     {
         "example": "The boss was very upset when you didn't show up for the meeting. What happened?",
         "meaning": "arrive; appear",
-        "verb": "show up (1. no object)"
+        "usage": "no object",
+        "verb": "show up "
     },
     {
         "example": "Everyone thought Marsha would win, but Jean did. Actually, Jean really showed Marsha up.",
         "meaning": "do a noticeably better job (often unexpectedly) than someone else",
-        "verb": "show up (2. separable)"
+        "usage": "separable",
+        "verb": "show up "
     },
     {
         "example": "Slowly the realisation that I had won began to sink in.",
-        "meaning": "(realise slowly - colloquial, Intransitive)",
-        "verb": "Sink in"
+        "meaning": "realise slowly (colloquial, Intransitive)",
+        "verb": "sink in"
     },
     {
-        "example": "Someone slipped up and my application was lost. You slipped up here. The amount should be $135.28, not $132.58.",
+        "examples": [
+          "Someone slipped up and my application was lost.",
+          "You slipped up here. The amount should be $135.28, not $132.58."
+        ],
         "meaning": "make a mistake (colloquial)",
-        "verb": "slip up (no object)"
+        "usage": "no object",
+        "verb": "slip up "
     },
     {
-        "example": "The sponge soaked up the spilt milk. The sponge soaked up the milk. The sponge soaked the milk up. The sponge soaked it up.",
+        "example": "The sponge soaked up the spilt milk.",
         "meaning": "to absorb; to become filled with (something)",
-        "verb": "soak up a liquid / information / knowledge / punishment etc."
+        "context": "a liquid / information / knowledge / punishment etc.",
+        "verb": "soak up"
     },
     {
         "example": "Don't worry, Mary will sort out your problem.",
-        "meaning": "(find a solution - colloquial)",
-        "verb": "Sort out"
+        "meaning": "find a solution (colloquial)",
+        "verb": "sort out"
     },
     {
-        "example": "Terry was talking to his grandfather. 'Speak up, Terry,' his grandfather said. I'm a bit deaf and I can't hear you.' Grandfather told Terry to speak up. Grandfather said, 'Speak up'.",
+        "example": "'Speak up, Terry,' his grandfather said. I'm a bit deaf and I can't hear you.",
         "meaning": "to speak louder",
-        "verb": "speak up   often used in the imperative"
+        "usage": "often used in the imperative",
+        "verb": "speak up"
     },
     {
         "example": "The company agreed to stand by its original commitment.",
-        "meaning": "(keep to an agreement)",
-        "verb": "Stand by"
+        "meaning": "keep to an agreement",
+        "verb": "stand by"
     },
     {
-        "example": "The letters B.B.C. stand for the British Broadcasting Corporation. B.B.C. stands for British Broadcasting Corporation. What do the letters B.B.C. stand tor? e.g. stands for exempli gratia, it's Latin.",
+        "example": "The letters B.B.C. stand for the British Broadcasting Corporation.",
         "meaning": "to represent or mean; to be a sign or short form of something else; initials",
-        "verb": "stand for (1)"
+        "verb": "stand for"
     },
     {
         "example": "These letters seem to be an abbreviation. Do you know what they stand for?",
         "meaning": "represent",
-        "verb": "stand for (1. no object)"
+        "usage": "no object",
+        "verb": "stand for "
     },
     {
-        "example": "/ will not stand for this kind of behaviour in my house!",
-        "meaning": "(tolerate)",
-        "verb": "Stand for (2)"
+        "example": "I will not stand for this kind of behaviour in my house!",
+        "meaning": "tolerate",
+        "verb": "stand for"
     },
     {
         "example": "I'm not surprised that Mrs. Johnson rejected your report. She won't stand for shoddy work.",
         "meaning": "tolerate; permit (usually negative)",
-        "verb": "stand for (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "stand for "
     },
     {
         "example": "Carol has kindly agreed to stand in for Graham at the monthly meeting.",
-        "meaning": "(take the place of)",
-        "verb": "Stand in for"
+        "meaning": "take the place of",
+        "verb": "stand in for"
     },
     {
         "example": "Good job, Ann! Your work really stands out!",
         "meaning": "be noticeably better than other similar people or things",
-        "verb": "stand out (no object)"
+        "usage": "no object",
+        "verb": "stand out "
     },
     {
         "example": "When the Chairperson entered the room, everyone stood up.",
         "meaning": "rise to a standing position",
-        "verb": "stand up (1. no object)"
+        "usage": "no object",
+        "verb": "stand up "
     },
     {
         "example": "Angela was supposed to go to the dance with Fred, but she stood him up and went with Chuck instead.",
         "meaning": "make a date but not keep it",
-        "verb": "stand up (2. separable)"
+        "usage": "separable",
+        "verb": "stand up "
     },
     {
-        "example": "The engine won 't stand up to the strain.",
-        "meaning": "(resist, bear stress)",
-        "verb": "Stand up to"
+        "example": "The engine won't stand up to the strain.",
+        "meaning": "resist, bear stress",
+        "verb": "stand up to"
     },
     {
         "example": "The Chairman has stepped down after criticism from shareholders.",
-        "meaning": "(resign - colloquial)",
-        "verb": "Step down"
+        "meaning": "resign (colloquial)",
+        "verb": "step down"
     },
     {
         "example": "Production at the Leeds plant has been stepped up.",
-        "meaning": "(increase)",
-        "verb": "Step up"
+        "meaning": "increase",
+        "verb": "step up"
     },
     {
         "example": "You must learn to stick up for yourself.",
-        "meaning": "(defend- especially yourself, your rights -colloquial)",
-        "verb": "Stick up for"
+        "meaning": "defend- especially yourself, your rights -colloquial",
+        "verb": "stick up for"
     },
     {
-        "example": "/ know you are unhappy, but don't take it out on me!",
-        "meaning": "(make someone else suffer because of one's own sufferings)",
-        "verb": "Take (it) out on"
+        "example": "I know you are unhappy, but don't take it out on me!",
+        "meaning": "make someone else suffer because of one's own sufferings",
+        "usage": "it",
+        "verb": "take "
     },
     {
-        "example": "This book is due tomorrow. I guess I should take it back to the library. \"Yes, you can borrow my pen, but don't forget to bring it back to me when you're finished.\"",
+        "example": "This book is due tomorrow. I guess I should take it back to the library.",
         "meaning": "return",
-        "verb": "take / bring back (separable)"
+        "usage": "separable",
+        "verb": "take back "
+    },
+    {
+        "example": "Yes, you can borrow my pen, but don't forget to bring it back to me when you're finished.",
+        "meaning": "return",
+        "usage": "separable",
+        "verb": "bring back "
     },
     {
         "example": "Both my sister and I take after our father.",
         "meaning": "resemble; favor (in appearance)  Note: used for people",
-        "verb": "take after (inseparable)"
+        "usage": "inseparable",
+        "verb": "take after "
     },
     {
-        "example": "Little Christopher takes after his father. He has black hair, big feet and a bad temper just like his dad. Christopher takes alter his father. Christopher takes after him.",
+        "example": "Little Christopher takes after his father. He has black hair, big feet and a bad temper just like his dad.",
         "meaning": "to look or be like an older relative",
-        "verb": "take after someone"
+        "context": "someone",
+        "verb": "take after"
     },
     {
-        "example": "Lois has been taking care of her father since he returned home from the hospital. \"You've been working too hard lately. You'd better take care of yourself!\"",
+        "examples": [
+          "Lois has been taking care of her father since he returned home from the hospital.",
+          "You've been working too hard lately. You'd better take care of yourself!"
+        ],
         "meaning": "provide care for; watch one's health",
-        "verb": "take care of (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "take care of "
     },
     {
         "example": "Will you take care of making reservations for our flight to Boston?",
         "meaning": "make arrangements (for something to happen); take responsibility for",
-        "verb": "take care of (2. inseparable)"
+        "usage": "inseparable",
+        "verb": "take care of "
     },
     {
-        "example": "When the policeman arrived at the scene of the accident he took down the witness's statement. He took down the statement. He took the statement down. He took it down.",
+        "example": "When the policeman arrived at the scene of the accident he took down the witness's statement.",
         "meaning": "to record in writing",
-        "verb": "take down a statement / a telephone number / some information etc."
+        "context": "a statement / a telephone number / some information etc.",
+        "verb": "take down"
     },
     {
-        "example": "Don't be taken in by her apparent shyness. The hungry wolf had a problem: all the sheep in the neighbourhood knew him and ran away when they saw him. After some thought he decided to disguise himself as a sheep. The neighbourhood sheep were taken In by th",
+        "example": "Don't be taken in by her apparent shyness.",
         "meaning": "to deceive (someone); to cheat (someone)",
-        "verb": "take in   (often used in the passive)"
+        "usage": "often used in the passive",
+        "verb": "take in"
     },
     {
-        "example": "At the beginning of a journey an aeroplane takes off. At the end of a journey an aeroplane lands. The aeroplane took off.",
+        "example": "At the beginning of a journey an aeroplane takes off. At the end of a journey an aeroplane lands.",
         "meaning": "to rise from the ground",
-        "verb": "take off (1) (of an aeroplane)"
+        "usage": "of an aeroplane",
+        "verb": "take off "
     },
     {
         "example": "Please take your hat off when you go inside a building.",
         "meaning": "remove (something you're wearing)",
-        "verb": "take off (1. separable)"
+        "usage": "separable",
+        "verb": "take off "
     },
     {
-        "example": "Nick took off his jacket because he was feeling very hot. Nick took off his jacket. Nick took his jacket off. Nick took it off.",
+        "example": "Nick took off his jacket because he was feeling very hot.",
         "meaning": "to remove anything that is worn on the body (especially clothes)",
-        "verb": "take off (2)"
+        "verb": "take off"
     },
     {
-        "example": "Was something wrong with Jill? She took off without saying goodbye. \"When does your plane take off?\"",
+        "examples": [
+          "Was something wrong with Jill? She took off without saying goodbye.",
+          "When does your plane take off?"
+        ],
         "meaning": "leave; depart (often suddenly or quickly)",
-        "verb": "take off (2. no object)"
+        "usage": "no object",
+        "verb": "take off "
     },
     {
         "example": "Susan isn't here today. She's taking today and tomorrow off.",
         "meaning": "make arrangements to be absent from work",
-        "verb": "take off (3. separable)"
+        "usage": "separable",
+        "verb": "take off "
     },
     {
         "example": "Dave takes off the Prime Minister really well.",
-        "meaning": "(imitate - colloquial)",
-        "verb": "Take off (4)"
+        "meaning": "imitate (colloquial)",
+        "verb": "take off"
     },
     {
         "example": "My grandmother has taken on a new lease of life since her operation.",
-        "meaning": "(acquire a new characteristic)",
-        "verb": "Take on (1)"
+        "meaning": "acquire a new characteristic",
+        "verb": "take on"
     },
     {
         "example": "She has taken on too much with a full-time job as well.",
-        "meaning": "(do something extra)",
-        "verb": "Take on (2)"
+        "meaning": "do something extra",
+        "verb": "take on"
     },
     {
         "example": "Ann has taken out life insurance.",
-        "meaning": "(insurance - sign an insurance agreement)",
-        "verb": "Take out"
+        "meaning": "insurance - sign an insurance agreement",
+        "verb": "take out"
     },
     {
-        "example": "The army tried to take over the country.  Simon took over the manager's job from Mr Jones when he retired. Simon took over the manager's job from Mr Jones. Simon took over the manager's job. Simon took the manager's job over. Simon took it over. Simon too",
+        "examples": [
+          "The army tried to take over the country.",
+          "Simon took over the manager's job from Mr Jones when he retired."
+        ],
         "meaning": "gain control of; to assume responsibility for, or control of, (something or a situation) from someone else",
         "verb": "take over"
     },
     {
         "example": "You'll soon take to your new boss, I'm sure.",
-        "meaning": "(develop a liking for)",
-        "verb": "Take to someone"
+        "meaning": "develop a liking for",
+        "verb": "take to someone"
     },
     {
         "example": "The meeting took up a whole morning",
-        "meaning": "(time - occupy time)",
-        "verb": "Take up"
+        "meaning": "time - occupy time",
+        "verb": "take up"
     },
     {
-        "example": "A: \"Do you like to ski?\" B: \"I've never been skiing, but I think I'd like to take it up.\"",
+        "example": "Do you like to ski? I've never been skiing, but I think I'd like to take it up.",
         "meaning": "begin (a hobby or leisure-time activity)",
-        "verb": "take up (separable)"
+        "usage": "separable",
+        "verb": "take up "
     },
     {
-        "example": "Tim wanted to take up painting, so he joined an evening class at the local College of Art. He took up painting. He took painting up. He took it up. He took up a new hobby.",
+        "example": "Tim wanted to take up painting, so he joined an evening class at the local College of Art.",
         "meaning": "to begin to Study, practice, or do (something)",
-        "verb": "take up a hobby / a sport / a job / a habit etc."
+        "context": "a hobby / a sport / a job / a habit etc.",
+        "verb": "take up"
     },
     {
         "example": "Paul talked me into going skiing, against my better judgement.",
-        "meaning": "(dissuade from, persuade into)",
-        "verb": "Talk out of or into"
+        "meaning": "dissuade from, persuade into",
+        "usage": "also talk out of",
+        "verb": "talk into"
     },
     {
         "example": "Eric's plan to go on a skiing holiday fell through because he broke his leg. His plan fell through.",
@@ -1995,149 +2435,180 @@
         "verb": "tall through"
     },
     {
-        "example": "Brian tore up the letter angrily.Brian tore up the letter. Brian tore the letter up. Brian tore it up.",
+        "example": "Brian tore up the letter angrily.",
         "meaning": "to destroy completely by tearing.",
-        "verb": "tear up a piece of paper / a letter / a newspaper etc."
+        "context": "a piece of paper / a letter / a newspaper etc.",
+        "verb": "tear up"
     },
     {
-        "example": "Our teacher told us off for being late. Julie was really angry at Bob; she told him off in front of all of us. Howard told his son oH for breaking a window with his football. Howard told oil his son. Howard told his son off. Howard told him off. Howard to",
-        "meaning": "speak to someone bluntly and negatively, saying exactly what she/he did wrong; to speak angrily to someone who has done something wrong; to find fault with someone",
-        "verb": "tell (someone) off (separable)"
-    },
-    {
-        "example": "Owen is playing chess with a friend. At the moment he is thinking over his next move. He is thinking over his next move. He is thinking his next move over. He is thinking it over.",
+        "example": "Owen is playing chess with a friend. At the moment he is thinking over his next move.",
         "meaning": "to consider (something) carefully",
-        "verb": "think over a problem / a proposal / a situation etc."
+        "context":  "a problem / a proposal / a situation etc.",
+        "verb": "think over"
     },
     {
         "example": "You shouldn't throw those newspapers away; they're recyclable.",
         "meaning": "discard; put in the garbage",
-        "verb": "throw away (separable)"
+        "usage": "separable",
+        "verb": "throw away "
     },
     {
         "example": "This food smells bad. You'd better throw it out.",
         "meaning": "discard; put in the garbage",
-        "verb": "throw out (1. separable)"
+        "usage": "separable",
+        "verb": "throw out "
     },
     {
         "example": "Those people are drunk and making everyone uncomfortable. The manager should throw them out.",
         "meaning": "forcibly make someone leave (usually because of bad behavior)",
-        "verb": "throw out (2. separable)"
+        "usage": "separable",
+        "verb": "throw out "
     },
     {
         "example": "Paul was so nervous about his job interview that he threw up just before he left for it.",
         "meaning": "vomit",
-        "verb": "throw up (usually no object; with an object, separable)"
+        "usage": "usually no object; with an object, separable",
+        "verb": "throw up "
     },
     {
         "example": "It really ticks her off when someone is late for an appointment.",
         "meaning": "irritate someone; make someone upset or angry",
-        "verb": "tick off (1. separable)"
+        "usage": "separable",
+        "verb": "tick off "
     },
     {
         "example": "Here are the things you need to do. Tick each one off when you finish it.",
         "meaning": "show that something has been completed by putting a tick (check) beside it",
-        "verb": "tick off (2. separable)"
+        "usage": "separable",
+        "verb": "tick off "
     },
     {
         "example": "I'm afraid your party doesn't quite tie in with aor arrangements.",
         "meaning": "be in agreement with",
-        "verb": "Tie in with"
+        "verb": "tie in with"
     },
     {
         "example": "The police tracked down killer and arrested him.",
         "meaning": "trace the whereabouts of",
-        "verb": "Track down"
+        "verb": "track down"
     },
     {
         "example": "I'm not sure that jacket is large enough. May I try it on?",
         "meaning": "wear something briefly to check its fit, how it looks, etc.",
-        "verb": "try on (separable)"
+        "usage": "separable",
+        "verb": "try on "
     },
     {
-        "example": "Last week I went into a shop and tried on three hats. The first hat was too big; the second one was too small; but the third one fitted me perfectly and looked good, so I bought it. I tried on three hats. I tried three hats on. I tried them on.",
+        "example": "Last week I went into a shop and tried on three hats.",
         "meaning": "to put on an article of clothing to see if it fits and how it looks",
-        "verb": "try on a hat / a new pair of shoes / a dress etc."
+        "context": "a hat / a new pair of shoes / a dress etc.",
+        "verb": "try on"
     },
     {
-        "example": "I know you want to be on the football team. Are you going to try out? \"If you like to sing, you should try out for the choir.",
+        "examples": [
+          "I know you want to be on the football team. Are you going to try out?",
+          "If you like to sing, you should try out for the choir."
+        ],
         "meaning": "try to win a place on a team or other organization",
-        "verb": "try out (for) (inseparable)"
+        "usage": "for",
+        "verb": "try out "
     },
     {
-        "example": "I really like the way this car looks. May I try it out? Let's try out the new washing machine.",
+        "examples": [
+          "I really like the way this car looks. May I try it out?",
+          "Let's try out the new washing machine."
+        ],
         "meaning": "test - a machine; use a machine briefly to determine how well it works",
-        "verb": "try out (separable)"
+        "usage": "separable",
+        "verb": "try out "
     },
     {
-        "example": "Angela saw an advertisement for a new soap powder called 'Zap'. She decided to try it out because she wanted to see if it was better than her usual soap powder. Angela tried out new 'Zap'. Angela tried new 'Zap' out. Angela tried it out.",
+        "example": "Angela saw an advertisement for a new soap powder called 'Zap'. She decided to try it out because she wanted to see if it was better than her usual soap powder.",
         "meaning": "to test something (or someone) by using it",
-        "verb": "try out something or someone"
+        "context": "something or someone",
+        "verb": "try out"
     },
     {
         "example": "Everyone turned around and stared when I entered the meeting late.",
         "meaning": "move so that you are facing the opposite direction",
-        "verb": "turn around (1. usually no object)"
+        "usage": "usually no object",
+        "verb": "turn around "
     },
     {
         "example": "I don't want this chair facing the window. Will you help me turn it around?",
         "meaning": "move so that someone / something is facing the opposite direction",
-        "verb": "turn around (2. separable)"
+        "usage": "separable",
+        "verb": "turn around "
     },
     {
         "example": "The company was doing poorly until it hired a new president. He turned it around in about six months and now it's doing quite well.",
         "meaning": "make changes so that something that was unprofitable is profitable",
-        "verb": "turn around (3. separable)"
+        "usage": "separable",
+        "verb": "turn around "
     },
     {
         "example": "Your music is giving me a headache! Please turn it down or use your headphones!",
         "meaning": "decrease the volume",
-        "verb": "turn down (1. separable)"
+        "usage": "separable",
+        "verb": "turn down "
     },
     {
-        "example": "Another company offered me a job but I turned them down. I thought I could borrow some money from Joe, but when I asked, he turned me down. Jeff was interviewed for the job at Bloggs Ltd but they turned him down because he was too young. They turned down",
+        "examples": [
+          "Another company offered me a job but I turned them down.",
+          "I thought I could borrow some money from Joe, but when I asked, he turned me down.",
+          "Jeff was interviewed for the job at Bloggs Ltd but they turned him down because he was too young."
+        ],
         "meaning": "to refuse or reject (something or someone)",
-        "verb": "turn down (2. separable) a request / an offer / an applicant / an application etc."
+        "usage": "separable",
+        "verb": "turn down "
     },
     {
         "example": "I've written my report, but I haven't turned it in.",
         "meaning": "give / deliver / submit to someone",
-        "verb": "turn in (1. separable)"
+        "usage": "separable",
+        "verb": "turn in "
     },
     {
         "example": "I'm pretty tired. I guess I'll turn in.",
         "meaning": "go to bed",
-        "verb": "turn in (2. no object)"
+        "usage": "no object",
+        "verb": "turn in "
     },
     {
         "example": "Two days after the robbery, the thieves turned themselves in.",
         "meaning": "report or deliver wrongdoers to the authorities",
-        "verb": "turn in (3. separable)"
+        "usage": "separable",
+        "verb": "turn in "
     },
     {
-        "example": "The beautiful princess kissed the frog and it turned into a handsome prince. The frog turned into a prince. The kiss turned the frog into a prince,",
+        "example": "The beautiful princess kissed the frog and it turned into a handsome prince.",
         "meaning": "to change; to become",
-        "verb": "turn into something or someone"
+        "context": "something or someone",
+        "verb": "turn into"
     },
     {
         "example": "I'm cold. Do you mind if I turn the air conditioner off?",
         "meaning": "stop by turning a handle or switch",
-        "verb": "turn off (1. separable)"
+        "usage": "separable",
+        "verb": "turn off "
     },
     {
         "example": "That music turns me off. Please play something else!",
         "meaning": "bore; repel (very informal)",
-        "verb": "turn off (2. separable)"
+        "usage": "separable",
+        "verb": "turn off "
     },
     {
         "example": "It's cold in here. I'm going to turn the heater on",
         "meaning": "start by turning a handle or switch",
-        "verb": "turn on (1. separable)"
+        "usage": "separable",
+        "verb": "turn on "
     },
     {
         "example": "What kind of music turns you on?",
         "meaning": "interest very much; excite (very informal)",
-        "verb": "turn on (2. separable)"
+        "usage": "separable",
+        "verb": "turn on "
     },
     {
         "example": "He turned out to be an old friend of Helen's.",
@@ -2152,111 +2623,147 @@
     {
         "example": "I can barely hear the TV. Can you turn it up a little?",
         "meaning": "increase the volume",
-        "verb": "turn up (1. separable)"
+        "usage": "separable",
+        "verb": "turn up "
     },
     {
-        "example": "We were all surprised when Pam turned up at the party. We didn't even know she was in town. Not many people turned up for the lesson.",
+        "example": "We were all surprised when Pam turned up at the party. We didn't even know she was in town.",
         "meaning": "appear, arrive unexpectedly",
-        "verb": "turn up (2. no object)"
+        "usage": "no object",
+        "verb": "turn up "
     },
     {
         "example": "Don't worry about that missing book, it's bound to turn up sooner or later.",
         "meaning": "be discovered by chance",
-        "verb": "turn up (3)"
+        "verb": "turn up"
     },
     {
-        "example": "When will Kenny be finished with work? I've been waiting for him for almost an hour! \"I'm tired of waiting for the bus. I guess I'll take a taxi instead.\"",
+        "examples": [
+          "When will Kenny be finished with work? I've been waiting for him for almost an hour!",
+          "I'm tired of waiting for the bus. I guess I'll take a taxi instead."
+        ],
         "meaning": "wait until someone / something arrives or is finished with something else",
-        "verb": "wait for (inseparable)"
+        "usage": "inseparable",
+        "verb": "wait for "
     },
     {
-        "example": "I want to make a complaint. The person who just waited on me was very impolite.",
+        "examples": [
+          "I want to make a complaint.",
+          "The person who just waited on me was very impolite."
+        ],
         "meaning": "serve (usually customers in a restaurant, shop, etc.)",
-        "verb": "wait on (1. inseparable)"
+        "usage": "inseparable",
+        "verb": "wait on "
     },
     {
         "example": "I usually wake up around 5:00 AM each day.",
         "meaning": "stop sleeping",
-        "verb": "wake up (1. no object)"
+        "usage": "no object",
+        "verb": "wake up "
     },
     {
         "example": "I have an important meeting tomorrow and I'm afraid I won't hear my alarm. Will you wake me up at 6:00 AM?",
         "meaning": "rouse someone; cause someone to stop sleeping",
-        "verb": "wake up (2. separable)"
+        "usage": "separable",
+        "verb": "wake up "
     },
     {
-        "example": "There's a school at the end of this block. Watch out for children crossing the street. \"If you take that road, watch out for ice during the winter.\"",
+        "examples": [
+          "There's a school at the end of this block. Watch out for children crossing the street.",
+          "If you take that road, watch out for ice during the winter."
+        ],
         "meaning": "be careful of; beware of",
-        "verb": "watch out for (inseparable)"
+        "usage": "inseparable",
+        "verb": "watch out for "
     },
     {
-        "example": "The pain in Jim's foot wore off after he took some painkiller. The pain wore off.",
+        "example": "The pain in Jim's foot wore off after he took some painkiller.",
         "meaning": "to disappear gradually",
-        "verb": "wear off (1)"
+        "verb": "wear off"
     },
     {
         "example": "These painkillers wear off after about two hours.",
         "meaning": "loose effect - especially a drug",
-        "verb": "wear off (2)"
+        "verb": "wear off"
     },
     {
-        "example": "Paul wore out his favourite jumper after wearing it every day for ten years. Paul wore out his jumper. Paul wore his jumper out. Paul wore it out. The jumper wore out.",
+        "example": "Paul wore out his favourite jumper after wearing it every day for ten years.",
         "meaning": "to use (something) until it becomes unfit for further use; to become unusable after excessive use",
-        "verb": "wear out (1)"
+        "verb": "wear out"
     },
     {
-        "example": "I need a new pencil sharpener. I wore this one out. \"I suppose I should get some new shoes. I've almost worn this pair out.\"",
+        "examples": [
+          "I need a new pencil sharpener. I wore this one out.",
+          "I suppose I should get some new shoes. I've almost worn this pair out."
+        ],
         "meaning": "wear something / use something until it can no longer be worn / be used",
-        "verb": "wear out (1. separable)"
+        "usage": "separable",
+        "verb": "wear out "
     },
     {
-        "example": "Carrying the heavy box across the street wore Fred out. When he got home he went straight to bed. Carrying the heavy box wore out Fred. Carrying the heavy box wore Fred out. Carrying the heavy box wore him out. Fred was worn out by carrying the heavy box.",
+        "example": "Carrying the heavy box across the street wore Fred out. When he got home he went straight to bed.",
         "meaning": "to tire greatly; to exhaust",
-        "verb": "wear out (2)   often used in the passive"
+        "usage": "often used in the passive",
+        "verb": "wear out"
     },
     {
-        "example": "I had four different meetings today. They wore me out. \"I suppose I should get some new shoes. I've almost worn this pair out.\"",
+        "examples": [
+          "I had four different meetings today. They wore me out.",
+          "I suppose I should get some new shoes. I've almost worn this pair out."
+        ],
         "meaning": "cause to become exhausted; cause to become very tired",
-        "verb": "wear out (2. separable)"
+        "usage": "separable",
+        "verb": "wear out "
     },
     {
         "example": "Instead of eating lunch on Monday, Wednesday, and Friday, Sheila goes to the recreation center to work out.",
         "meaning": "exercise (usually in a gym, etc.) to build muscles, body tone, etc",
-        "verb": "work out (1. no object)"
+        "usage": "no object",
+        "verb": "work out "
     },
     {
-        "example": "I know we disagree on many points, but I believe we can work things out. Jimmy is busy doing his homework. At the moment he is working out the answer to a sum. He is working out the answer. He is working the answer out. He is working it out.",
+        "examples": [
+          "I know we disagree on many points, but I believe we can work things out.",
+          "Jimmy is busy doing his homework. At the moment he is working out the answer to a sum."
+        ],
         "meaning": "solve a problem / resolve a difficult situation (usually by working together);  to produce a way of dealing with a problem or situation by thinking",
-        "verb": "work out (2. separable) a problem /a plan/a method etc."
+        "usage": "separable",
+        "verb": "work out "
     },
     {
         "example": "The hotel bill worked out at over $500.",
         "meaning": "calculate - also work out for a specific ammount; to solve a problem by calculation or study",
-        "verb": "work out (3) a sum"
+        "context": "a sum",
+        "verb": "work out"
     },
     {
         "example": "It's really cold today. Be sure you wrap up when you leave the house.",
         "meaning": "wear enough clothes to keep warm",
-        "verb": "wrap up (1. no object)"
+        "usage": "no object",
+        "verb": "wrap up "
     },
     {
         "example": "We've been talking about the problem for nearly three hours. I hope we'll be able to wrap the discussion up soon.",
         "meaning": "finish something; bring something to a conclusion",
-        "verb": "wrap up (2. separable)"
+        "usage": "separable",
+        "verb": "wrap up "
     },
     {
         "example": "Could you tell me your e-mail address again? I want to write it down.",
         "meaning": "record something in writing",
-        "verb": "write down (separable)"
+        "usage": "separable",
+        "verb": "write down "
     },
     {
         "example": "You'll need to make a report on your business meetings. Be sure you write them up as soon as possible after you return from your trip.",
         "meaning": "record; report in writing",
-        "verb": "write up (separable)"
+        "usage": "separable",
+        "verb": "write up "
     },
     {
         "example": "I intended to go shopping after work, but I was so tired that I zonked out as soon as I got home.",
         "meaning": "fall asleep quickly because of exhaustion",
-        "verb": "zonk out (no object)"
+        "usage": "no object",
+        "verb": "zonk out "
     }
 ]

@@ -1,90 +1,90 @@
-accused of,
+accused of,She is accused of preparing terrorist acts.
 accustomed to,He is accustomed to having his own office.
-acquainted with,
+acquainted with,You should become acquainted with your clients.
 addicted to,She is addicted to watching TV.
 afraid of,She is afraid of speaking in public.
 allergic to,He is allergic to nuts.
-amazed at,
-amazed by,
+amazed at,I was amazed at how strong he was.
+amazed by,They were amazed by the hospitality.
 angry with,Mom is angry with you.
-annoyed about,
-annoyed with,
-annoyed at,
+annoyed about,I would get very annoyed about this too.
+annoyed with,The celebrity was annoyed with several aspects of the interview.
+annoyed at,Who has not been annoyed at a too narrow parking place?
 anxious about,Norma is anxious about making the presentation.
-appreciated for,
-ashamed of,
-associated with,
-astonished at,
-astonished by,
-attached to,
-aware of,
-bad at,
+appreciated for,Its wood is very much appreciated for making furniture.
+ashamed of,There was nothing that we should be ashamed of.
+associated with,Symptoms commonly associated with allergies include sneezing.
+astonished at,we are astonished at the failure of the European Union.
+astonished by,I was astonished by the statement made by the president.
+attached to,A revised description will be attached to their report.
+aware of,They must be continually made aware of our unresolved issues.
+bad at,The numbers don't look bad at all.
 based on,This report is based on numerous studies.
-beneficial to,
+beneficial to,This new strategy is beneficial to their customers.
 bored of,I am bored of doing the same old job.
-bored with,
-brilliant at,
+bored with,Many employees are simply bored with their current job tasks.
+brilliant at,He is brilliant at presenting.
 busy with,I am too busy with my work.
 capable of,He is capable of winning a gold medal.
-careful with,
-careful about,
-careful of,
-certain about,
-characteristic of,
-clever at,
+careful with,You must be very careful with this type of product.
+careful about,We have to be careful about how we approach this topic.
+careful of,Be especially careful of files with the setuid bits set.
+certain about,But it is too soon to be certain about that.
+characteristic of,It is a characteristic of our distinct society.
+clever at,Some people are quite clever at using computers.
 committed to,She is committed to improving her English.
 concerned about,Nancy was concerned about being late.
-connected with,
-conscious of,
+connected with,You see that I keep connected with you.
+conscious of,Be very conscious of the need to take measures to prevent damage.
 content with,Tim is content with winning second place.
-crazy about,
-crowded with,
-curious about,
+crazy about,Martin was crazy about coming back here.
+crowded with,The marketplace is crowded with many participants.
+curious about,I am curious about his expectations.
 dedicated to,The organization is dedicated to ending poverty.
-delighted at,I am delighted at the progress that both countries have made
-delighted about,I am delighted about this
-derived from,The observed trends derived from indicators
+delighted at,I am delighted at the progress that both countries have made.
+delighted about,I am delighted about this.
+derived from,The observed trends derived from indicators.
 devoted to,The money will be devoted to protecting the environment.
-different from,Every one is different from the other
+different from,Every one is different from the other.
 disappointed with,Fiona was disappointed with coming in third place.
 discouraged by,He was discouraged by not getting the job.
 dissatisfied with,I am extremely dissatisfied with his response.
-doubtful about,People are doubtful about the safety of ships
-eager for,They are eager for new experiences and knowledge
-eligible for,He is eligible for a heart transplant
-enthusiastic about,Always be enthusiastic about your team
+doubtful about,People are doubtful about the safety of ships.
+eager for,They are eager for new experiences and knowledge.
+eligible for,He is eligible for a heart transplant.
+enthusiastic about,Always be enthusiastic about your team.
 envious of,We are envious of the situation in other countries.
-excellent in,Excellent in capturing the audience
-excellent at,Excellent at improvisation
+excellent in,Excellent in capturing the audience.
+excellent at,Excellent at improvisation.
 excited about,The researcher was excited about going to Africa.
 experienced in,Difficulties experienced in recruiting and retaining employees.
-exposed to,Furniture will be altered if directly exposed to sunlight
-faithful to,He remained faithful to his life vocation
-familiar with,We are familiar with the many problems faced by young people
+exposed to,Furniture will be altered if directly exposed to sunlight.
+faithful to,He remained faithful to his life vocation.
+familiar with,We are familiar with the many problems faced by young people.
 famous for,That actor is famous for being extremely weird.
-fed up with,You feel fed up with baby's crying
+fed up with,You feel fed up with baby's crying.
 fond of,She is fond of having picnics.
-free of,A world free of weapons
-free from,A world free from nuclear weapons
-friendly with,I am not friendly with any of them
+free of,A world free of weapons.
+free from,A world free from nuclear weapons.
+friendly with,I am not friendly with any of them.
 frightened of,She is frightened of being alone at night.
-full of,A room full of people
+full of,A room full of people.
 furious about,Mom is furious about you.
 furnished with,We've been furnished with some of the best equipment in the world.
-generous with,They are generous with their time
+generous with,They are generous with their time.
 generous about,You're being overly generous about the financial part of it.
-good at,He's really good at his job
+good at,He's really good at his job.
 grateful to,I am grateful to all those who supported us.
-guilty about,
+guilty about,They already feel guilty about their child's death.
 guilty of,The banker was guilty of stealing money.
 happy about,He was happy about winning the lottery.
 hopeful of,I am hopeful of a better future for the world.
 hopeful about,People are hopeful about the future.
 identical to,Their positioning should be identical to the example shown.
 immune to,No company is immune to the economic recession.
-impressed with,I was most impressed with his in-depth knowledge
+impressed with,I was most impressed with his in-depth knowledge.
 incapable of,He is incapable of reading correctly.
-indifferent to,They are completely indifferent to the social hardship
+indifferent to,They are completely indifferent to the social hardship.
 inferior to,The price is inferior to the cost of production.
 innocent of,She is presumed to be innocent of the crime charged.
 interested in,She is interested in becoming a doctor.
@@ -96,61 +96,60 @@ kind to,July has not been kind to the canola market.
 known for,She was known for causing problems.
 late for,It was clearly too late for us to pull out.
 limited to,Spirituality cannot be limited to religion.
-lucky at,I was lucky at first
-nervous about,I am very nervous about his speech
+lucky at,I was lucky at first.
+nervous about,I am very nervous about his speech.
 notorious for,Humans are notorious for resisting change.
 opposed to,They are opposed to building a new road in the park.
-patient with,
-pessimistic about,
-pleased with,
-polite to,
-popular with,
-presented with,
+patient with,Producers have been very patient with him so far.
+pessimistic about,Most economists were pessimistic about the future of Europe.
+pleased with,I am pleased with what you said.
+polite to,They were very polite to us.
+popular with,This new product is increasingly popular with our customers.
+presented with,You will be presented with a dialog box.
 proud of,He was proud of having completed the marathon.
-punished for,
-puzzled by,
-puzzled about,
-qualified for,
-ready for,
-related to,
-relevant to,
+punished for,I am not worry about being punished for that.
+puzzled by,We are puzzled by a number of points.
+puzzled about,She is puzzled about the business model.
+qualified for,All crew members were qualified for their respective positions.
+ready for,To be ready for every eventuality.
+related to,The increase is directly related to the increase in revenues.
+relevant to,It may be relevant to mention that...
 remembered for,She is remembered for protecting mountain gorillas.
-respectful for,
+respectful for,We're proud to sell products that are respectful for the environment.
 responsible for,He is responsible for causing the damage.
-rid of,
-sad about,
-safe from,
-satisfied with,
+rid of,The time comes to get rid of the gun.
+sad about,I am sad about what I am sensing from the comments.
+safe from,Miniatures are safe from nearly any damage.
+satisfied with,I am therefore satisfied with the action plan on corruption.
 scared of,Tina is scared of being alone at night.
-sensitive to,
-serious about,
-shocked by,
-sick of,
-similar to,
-skillful at,
-slow at,
-sorry for,
-sorry about,
-successful in,
-suitable for,
-superior to,
-sure of,
-sure about,
-surprised at,
-suspicious of,
-sympathetic with,
-terrible at,
+sensitive to,Some adolescents are less sensitive to the effects of the drug.
+serious about,We have to be serious about what is happening.
+shocked by,Some of you may be shocked by the content of this article.
+sick of,Consumers are sick of bearing the cost of fluctuating prices at the pump.
+similar to,These pictures look similar to pictures made with an ordinary camera.
+skillful at,Each teammate is extremely skillful at what he do.
+slow at,The meetings may be slow at first.
+sorry for,We're very sorry for any inconvenience you may have experienced.
+sorry about,I am really sorry about the error in the previous tables.
+successful in,Athletes need the best equipment to be successful in competitions.
+suitable for,Both models are suitable for a wide range of applications.
+superior to,None of these approaches is inherently superior to the others.
+sure of,Please be sure of our support in this difficult moment.
+sure about,If you are not sure about a step, just select the default choice.
+surprised at,We were surprised at the quality of the sample.
+suspicious of,Be suspicious of email attachments from unknown sources.
+sympathetic with,We should be sympathetic with these people who risk their lives.
+terrible at,I'm terrible at telling stories.
 terrified of,The surfer is terrified of being attacked by a shark.
-thankful to,
-thankful for,
+thankful to,She is thankful to all those who shared their views with her.
+thankful for,We are thankful for the help of international partners.
 tired from,She is tired from working all day.
 tired of,Margaret is tired of making dinner every night.
-trilled with,
-troubled with,
-typical of,
-unaware of,
-upset about,
-used to,
+troubled with,He was troubled with the way many children were treated.
+typical of,The building is typical of the regional architecture.
+unaware of,We are unaware of renewable energy and its full potential.
+upset about,I'm still upset about the world.
+used to,It is also used to prevent heart attack.
 worried about,The hikers were worried about not having enough water.
 wrong with,There is nothing wrong with that.
 wrong about,I may be wrong about the probable impact of global warming.
