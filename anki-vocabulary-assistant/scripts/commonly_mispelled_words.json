@@ -1,0 +1,1914 @@
+[
+    {
+        "example": "I feel very close to my brother.",
+        "example_annotated": "I feel very <b>close</b> to my brother.",
+        "example_mispelled": "I feel very clore to my brother.",
+        "word_en": "close",
+        "word_fr": "clore",
+        "word_franglish": "clore"
+    },
+    {
+        "example": "Medical students study the human skeleton.",
+        "example_annotated": "Medical students study the <b>human</b> skeleton.",
+        "example_mispelled": "Medical students study the humain skeleton.",
+        "word_en": "human",
+        "word_fr": "humain",
+        "word_franglish": "humain"
+    },
+    {
+        "example": "The dinner at the restaurant was very enjoyable.",
+        "example_annotated": "The <b>dinner</b> at the restaurant was very enjoyable.",
+        "example_mispelled": "The diner at the restaurant was very enjoyable.",
+        "word_en": "dinner",
+        "word_fr": "dîner",
+        "word_franglish": "diner"
+    },
+    {
+        "example": "My father reads the morning paper every day.",
+        "example_annotated": "My father reads the morning <b>paper</b> every day.",
+        "example_mispelled": "My father reads the morning papier every day.",
+        "word_en": "paper",
+        "word_fr": "papier",
+        "word_franglish": "papier"
+    },
+    {
+        "example": "After five years of marriage, they decided to divorce.",
+        "example_annotated": "After five years of <b>marriage</b>, they decided to divorce.",
+        "example_mispelled": "After five years of mariage, they decided to divorce.",
+        "word_en": "marriage",
+        "word_fr": "mariage",
+        "word_franglish": "mariage"
+    },
+    {
+        "example": "The printer makes a strange noise.",
+        "example_annotated": "The printer makes a <b>strange</b> noise.",
+        "example_mispelled": "The printer makes a etrange noise.",
+        "word_en": "strange",
+        "word_fr": "étrange",
+        "word_franglish": "etrange"
+    },
+    {
+        "example": "The court declared the accused innocent.",
+        "example_annotated": "The <b>court</b> declared the accused innocent.",
+        "example_mispelled": "The cour declared the accused innocent.",
+        "word_en": "court",
+        "word_fr": "cour",
+        "word_franglish": "cour"
+    },
+    {
+        "example": "A round table has no corners.",
+        "example_annotated": "A <b>round</b> table has no corners.",
+        "example_mispelled": "A rond table has no corners.",
+        "word_en": "round",
+        "word_fr": "rond",
+        "word_franglish": "rond"
+    },
+    {
+        "example": "She shows a great interest in science.",
+        "example_annotated": "She shows a great <b>interest</b> in science.",
+        "example_mispelled": "She shows a great interet in science.",
+        "word_en": "interest",
+        "word_fr": "intérêt",
+        "word_franglish": "interet"
+    },
+    {
+        "example": "A good judge is impartial and just.",
+        "example_annotated": "A good <b>judge</b> is impartial and just.",
+        "example_mispelled": "A good juge is impartial and just.",
+        "word_en": "judge",
+        "word_fr": "juge",
+        "word_franglish": "juge"
+    },
+    {
+        "example": "The hotel offers double beds at no extra cost.",
+        "example_annotated": "The hotel offers double beds at no extra <b>cost</b>.",
+        "example_mispelled": "The hotel offers double beds at no extra cout.",
+        "word_en": "cost",
+        "word_fr": "coût",
+        "word_franglish": "cout"
+    },
+    {
+        "example": "Intrusive rock is made of magma, not lava.",
+        "example_annotated": "Intrusive <b>rock</b> is made of magma, not lava.",
+        "example_mispelled": "Intrusive roc is made of magma, not lava.",
+        "word_en": "rock",
+        "word_fr": "roc",
+        "word_franglish": "roc"
+    },
+    {
+        "example": "My uncle's quirks make me laugh.",
+        "example_annotated": "My <b>uncle</b>'s quirks make me laugh.",
+        "example_mispelled": "My oncle's quirks make me laugh.",
+        "word_en": "uncle",
+        "word_fr": "oncle",
+        "word_franglish": "oncle"
+    },
+    {
+        "example": "The dance school put on an end-of-year performance.",
+        "example_annotated": "The <b>dance</b> school put on an end-of-year performance.",
+        "example_mispelled": "The danse school put on an end-of-year performance.",
+        "word_en": "dance",
+        "word_fr": "danse",
+        "word_franglish": "danse"
+    },
+    {
+        "example": "The winning team had the advantage.",
+        "example_annotated": "The winning team had the <b>advantage</b>.",
+        "example_mispelled": "The winning team had the avantage.",
+        "word_en": "advantage",
+        "word_fr": "avantage",
+        "word_franglish": "avantage"
+    },
+    {
+        "example": "I published a series of books for children.",
+        "example_annotated": "I published a <b>series</b> of books for children.",
+        "example_mispelled": "I published a serie of books for children.",
+        "word_en": "series",
+        "word_fr": "série",
+        "word_franglish": "serie"
+    },
+    {
+        "example": "How to end the crisis in the Middle East?",
+        "example_annotated": "How to end the crisis in the Middle <b>East</b>?",
+        "example_mispelled": "How to end the crisis in the Middle Est?",
+        "word_en": "east",
+        "word_fr": "est",
+        "word_franglish": "est"
+    },
+    {
+        "example": "The book was a huge success.",
+        "example_annotated": "The book was a huge <b>success</b>.",
+        "example_mispelled": "The book was a huge succes.",
+        "word_en": "success",
+        "word_fr": "succès",
+        "word_franglish": "succes"
+    },
+    {
+        "example": "There is no access allowed to the museum after six.",
+        "example_annotated": "There is no <b>access</b> allowed to the museum after six.",
+        "example_mispelled": "There is no acces allowed to the museum after six.",
+        "word_en": "access",
+        "word_fr": "accès",
+        "word_franglish": "acces"
+    },
+    {
+        "example": "The teacher clarified the concept with an example.",
+        "example_annotated": "The teacher clarified the concept with an <b>example</b>.",
+        "example_mispelled": "The teacher clarified the concept with an exemple.",
+        "word_en": "example",
+        "word_fr": "exemple",
+        "word_franglish": "exemple"
+    },
+    {
+        "example": "This place looks familiar, I must have been here before.",
+        "example_annotated": "This place looks <b>familiar</b>, I must have been here before.",
+        "example_mispelled": "This place looks familier, I must have been here before.",
+        "word_en": "familiar",
+        "word_fr": "familier",
+        "word_franglish": "familier"
+    },
+    {
+        "example": "The schoolgirl had trouble finishing her grammar exercises.",
+        "example_annotated": "The schoolgirl had trouble finishing her grammar <b>exercise</b>s.",
+        "example_mispelled": "The schoolgirl had trouble finishing her grammar exercices.",
+        "word_en": "exercise",
+        "word_fr": "exercice",
+        "word_franglish": "exercice"
+    },
+    {
+        "example": "My brief comment explains the situation.",
+        "example_annotated": "My <b>brief</b> comment explains the situation.",
+        "example_mispelled": "My bref comment explains the situation.",
+        "word_en": "brief",
+        "word_fr": "bref",
+        "word_franglish": "bref"
+    },
+    {
+        "example": "I had a brilliant idea.",
+        "example_annotated": "I had a <b>brilliant</b> idea.",
+        "example_mispelled": "I had a brillant idea.",
+        "word_en": "brilliant",
+        "word_fr": "brillant",
+        "word_franglish": "brillant"
+    },
+    {
+        "example": "I live in the oldest quarter of town.",
+        "example_annotated": "I live in the oldest <b>quarter</b> of town.",
+        "example_mispelled": "I live in the oldest quartier of town.",
+        "word_en": "quarter",
+        "word_fr": "quartier",
+        "word_franglish": "quartier"
+    },
+    {
+        "example": "An angel from the moon comes to Lisa and helps her meet a famous chef.",
+        "example_annotated": "An <b>angel</b> from the moon comes to Lisa and helps her meet a famous chef.",
+        "example_mispelled": "An ange from the moon comes to Lisa and helps her meet a famous chef.",
+        "word_en": "angel",
+        "word_fr": "ange",
+        "word_franglish": "ange"
+    },
+    {
+        "example": "The item must be weighed on a flat surface.",
+        "example_annotated": "The item must be weighed on a <b>flat</b> surface.",
+        "example_mispelled": "The item must be weighed on a plat surface.",
+        "word_en": "flat",
+        "word_fr": "plat",
+        "word_franglish": "plat"
+    },
+    {
+        "example": "The road passes through the forest.",
+        "example_annotated": "The road passes through the <b>forest</b>.",
+        "example_mispelled": "The road passes through the foret.",
+        "word_en": "forest",
+        "word_fr": "forêt",
+        "word_franglish": "foret"
+    },
+    {
+        "example": "The exchange rate fluctuates daily.",
+        "example_annotated": "The <b>exchange</b> rate fluctuates daily.",
+        "example_mispelled": "The echange rate fluctuates daily.",
+        "word_en": "exchange",
+        "word_fr": "échange",
+        "word_franglish": "echange"
+    },
+    {
+        "example": "Space is not only an adventure, it is also an opportunity.",
+        "example_annotated": "Space is not only an <b>adventure</b>, it is also an opportunity.",
+        "example_mispelled": "Space is not only an aventure, it is also an opportunity.",
+        "word_en": "adventure",
+        "word_fr": "aventure",
+        "word_franglish": "aventure"
+    },
+    {
+        "example": "Giants and fairies are mythical creatures.",
+        "example_annotated": "<b>Giants</b> and fairies are mythical creatures.",
+        "example_mispelled": "Geants and fairies are mythical creatures.",
+        "word_en": "giant",
+        "word_fr": "géant",
+        "word_franglish": "geant"
+    },
+    {
+        "example": "My slow movements calmed the horse.",
+        "example_annotated": "My slow <b>movement</b>s calmed the horse.",
+        "example_mispelled": "My slow mouvements calmed the horse.",
+        "word_en": "movement",
+        "word_fr": "mouvement",
+        "word_franglish": "mouvement"
+    },
+    {
+        "example": "I need to measure the risks before making a decision.",
+        "example_annotated": "I need to <b>measure</b> the risks before making a decision.",
+        "example_mispelled": "I need to mesure the risks before making a decision.",
+        "word_en": "measure",
+        "word_fr": "mesure",
+        "word_franglish": "mesure"
+    },
+    {
+        "example": "Hibernation allows animals to survive the winter months.",
+        "example_annotated": "Hibernation allows animals to <b>survive</b> the winter months.",
+        "example_mispelled": "Hibernation allows animals to survivre the winter months.",
+        "word_en": "survive",
+        "word_fr": "survivre",
+        "word_franglish": "survivre"
+    },
+    {
+        "example": "A block of opera tickets went on sale this morning.",
+        "example_annotated": "A <b>block</b> of opera tickets went on sale this morning.",
+        "example_mispelled": "A bloc of opera tickets went on sale this morning.",
+        "word_en": "block",
+        "word_fr": "bloc",
+        "word_franglish": "bloc"
+    },
+    {
+        "example": "Destiny is the theme of many classical plays.",
+        "example_annotated": "<b>Destiny</b> is the theme of many classical plays.",
+        "example_mispelled": "Destin is the theme of many classical plays.",
+        "word_en": "destiny",
+        "word_fr": "destin",
+        "word_franglish": "destin"
+    },
+    {
+        "example": "Our organization always needs volunteers.",
+        "example_annotated": "Our <b>organization</b> always needs volunteers.",
+        "example_mispelled": "Our organisation always needs volunteers.",
+        "word_en": "organization",
+        "word_fr": "organisation",
+        "word_franglish": "organisation"
+    },
+    {
+        "example": "The price includes VAT and delivery charges.",
+        "example_annotated": "The price <b>include</b>s VAT and delivery charges.",
+        "example_mispelled": "The price inclures VAT and delivery charges.",
+        "word_en": "include",
+        "word_fr": "inclure",
+        "word_franglish": "inclure"
+    },
+    {
+        "example": "The jury respected the principle of the presumption of innocence.",
+        "example_annotated": "The jury respected the <b>principle</b> of the presumption of innocence.",
+        "example_mispelled": "The jury respected the principe of the presumption of innocence.",
+        "word_en": "principle",
+        "word_fr": "principe",
+        "word_franglish": "principe"
+    },
+    {
+        "example": "The athlete took up the challenge and won the race.",
+        "example_annotated": "The athlete took up the <b>challenge</b> and won the race.",
+        "example_mispelled": "The athlete took up the chalenge and won the race.",
+        "word_en": "challenge",
+        "word_fr": "chalenge",
+        "word_franglish": "chalenge"
+    },
+    {
+        "example": "A simple feel of this dress tells me it is made of cotton.",
+        "example_annotated": "A simple feel of this dress tells me it is made of <b>cotton</b>.",
+        "example_mispelled": "A simple feel of this dress tells me it is made of coton.",
+        "word_en": "cotton",
+        "word_fr": "coton",
+        "word_franglish": "coton"
+    },
+    {
+        "example": "I always have a bowl of cereal for breakfast.",
+        "example_annotated": "I always have a <b>bowl</b> of cereal for breakfast.",
+        "example_mispelled": "I always have a bol of cereal for breakfast.",
+        "word_en": "bowl",
+        "word_fr": "bol",
+        "word_franglish": "bol"
+    },
+    {
+        "example": "By taking the tube, I avoid car traffic.",
+        "example_annotated": "By taking the tube, I avoid car <b>traffic</b>.",
+        "example_mispelled": "By taking the tube, I avoid car trafic.",
+        "word_en": "traffic",
+        "word_fr": "trafic",
+        "word_franglish": "trafic"
+    },
+    {
+        "example": "Payment is due at the end of the month.",
+        "example_annotated": "<b>Payment</b> is due at the end of the month.",
+        "example_mispelled": "Paiement is due at the end of the month.",
+        "word_en": "payment",
+        "word_fr": "paiement",
+        "word_franglish": "paiement"
+    },
+    {
+        "example": "The chef poured some rum over the crepe and flamed it.",
+        "example_annotated": "The chef poured some rum over the crepe and <b>flame</b>d it.",
+        "example_mispelled": "The chef poured some rum over the crepe and flammed it.",
+        "word_en": "flame",
+        "word_fr": "flamme",
+        "word_franglish": "flamme"
+    },
+    {
+        "example": "The new agreement will be favourable to all parties.",
+        "example_annotated": "The new agreement will be <b>favourable</b> to all parties.",
+        "example_mispelled": "The new agreement will be favorable to all parties.",
+        "word_en": "favourable",
+        "word_fr": "favorable",
+        "word_franglish": "favorable"
+    },
+    {
+        "example": "The horse is resting in the stable.",
+        "example_annotated": "The horse is resting in the <b>stable</b>.",
+        "example_mispelled": "The horse is resting in the etable.",
+        "word_en": "stable",
+        "word_fr": "étable",
+        "word_franglish": "etable"
+    },
+    {
+        "example": "I got a response to my question.",
+        "example_annotated": "I got a <b>response</b> to my question.",
+        "example_mispelled": "I got a reponse to my question.",
+        "word_en": "response",
+        "word_fr": "réponse",
+        "word_franglish": "reponse"
+    },
+    {
+        "example": "Pope's opinion was that property rights had to be respected",
+        "example_annotated": "<b>Pope</b>'s opinion was that property rights had to be respected",
+        "example_mispelled": "Pape's opinion was that property rights had to be respected",
+        "word_en": "pope",
+        "word_fr": "pape",
+        "word_franglish": "pape"
+    },
+    {
+        "example": "Art and literature enrich our lives.",
+        "example_annotated": "Art and <b>literature</b> enrich our lives.",
+        "example_mispelled": "Art and litterature enrich our lives.",
+        "word_en": "literature",
+        "word_fr": "littérature",
+        "word_franglish": "litterature"
+    },
+    {
+        "example": "he offered his pontifical throne to the tired old pilgrim.",
+        "example_annotated": "he offered his pontifical <b>throne</b> to the tired old pilgrim.",
+        "example_mispelled": "he offered his pontifical trone to the tired old pilgrim.",
+        "word_en": "throne",
+        "word_fr": "trône",
+        "word_franglish": "trone"
+    },
+    {
+        "example": "The commander ordered his troops to begin the assault.",
+        "example_annotated": "The commander ordered his troops to begin the <b>assault</b>.",
+        "example_mispelled": "The commander ordered his troops to begin the assaut.",
+        "word_en": "assault",
+        "word_fr": "assaut",
+        "word_franglish": "assaut"
+    },
+    {
+        "example": "Each civilization must be proud of what it has accomplished.",
+        "example_annotated": "Each <b>civilization</b> must be proud of what it has accomplished.",
+        "example_mispelled": "Each civilisation must be proud of what it has accomplished.",
+        "word_en": "civilization",
+        "word_fr": "civilisation",
+        "word_franglish": "civilisation"
+    },
+    {
+        "example": "Gardening is easier when the soil is fertile.",
+        "example_annotated": "Gardening is easier when the <b>soil</b> is fertile.",
+        "example_mispelled": "Gardening is easier when the sol is fertile.",
+        "word_en": "soil",
+        "word_fr": "sol",
+        "word_franglish": "sol"
+    },
+    {
+        "example": "As Sheriff, it was his annual duty to round up horses",
+        "example_annotated": "As <b>Sheriff</b>, it was his annual duty to round up horses",
+        "example_mispelled": "As Sherif, it was his annual duty to round up horses",
+        "word_en": "sheriff",
+        "word_fr": "shérif",
+        "word_franglish": "sherif"
+    },
+    {
+        "example": "It is crystal clear that the species is under threat of extinction.",
+        "example_annotated": "It is <b>crystal</b> clear that the species is under threat of extinction.",
+        "example_mispelled": "It is cristal clear that the species is under threat of extinction.",
+        "word_en": "crystal",
+        "word_fr": "cristal",
+        "word_franglish": "cristal"
+    },
+    {
+        "example": "She has the relevant experience to assume a new function.",
+        "example_annotated": "She has the relevant experience to assume a new <b>function</b>.",
+        "example_mispelled": "She has the relevant experience to assume a new fonction.",
+        "word_en": "function",
+        "word_fr": "fonction",
+        "word_franglish": "fonction"
+    },
+    {
+        "example": "I almost forgot to put a stamp on the envelope.",
+        "example_annotated": "I almost forgot to put a stamp on the <b>envelope</b>.",
+        "example_mispelled": "I almost forgot to put a stamp on the enveloppe.",
+        "word_en": "envelope",
+        "word_fr": "enveloppe",
+        "word_franglish": "enveloppe"
+    },
+    {
+        "example": "Ponies are safe mounts for children.",
+        "example_annotated": "<b>Ponies</b> are safe mounts for children.",
+        "example_mispelled": "Poneys are safe mounts for children.",
+        "word_en": "pony",
+        "word_fr": "poney",
+        "word_franglish": "poney"
+    },
+    {
+        "example": "Brakes are used to stop a moving vehicle.",
+        "example_annotated": "Brakes are used to stop a moving <b>vehicle</b>.",
+        "example_mispelled": "Brakes are used to stop a moving vehicule.",
+        "word_en": "vehicle",
+        "word_fr": "véhicule",
+        "word_franglish": "vehicule"
+    },
+    {
+        "example": "There is no comparison in the two struggles.",
+        "example_annotated": "There is no <b>comparison</b> in the two struggles.",
+        "example_mispelled": "There is no comparaison in the two struggles.",
+        "word_en": "comparison",
+        "word_fr": "comparaison",
+        "word_franglish": "comparaison"
+    },
+    {
+        "example": "After emigrating to France, he worked as a mason.",
+        "example_annotated": "After emigrating to France, he worked as a <b>mason</b>.",
+        "example_mispelled": "After emigrating to France, he worked as a macon.",
+        "word_en": "mason",
+        "word_fr": "maçon",
+        "word_franglish": "macon"
+    },
+    {
+        "example": "The Dalai Lama is a political personage of some importance on the international scene.",
+        "example_annotated": "The Dalai Lama is a political <b>personage</b> of some importance on the international scene.",
+        "example_mispelled": "The Dalai Lama is a political personnage of some importance on the international scene.",
+        "word_en": "personage",
+        "word_fr": "personnage",
+        "word_franglish": "personnage"
+    },
+    {
+        "example": "There is a striking resemblance between my brother and my father.",
+        "example_annotated": "There is a striking <b>resemblance</b> between my brother and my father.",
+        "example_mispelled": "There is a striking ressemblance between my brother and my father.",
+        "word_en": "resemblance",
+        "word_fr": "ressemblance",
+        "word_franglish": "ressemblance"
+    },
+    {
+        "example": "The cannon is loaded and ready to fire.",
+        "example_annotated": "The <b>cannon</b> is loaded and ready to fire.",
+        "example_mispelled": "The canon is loaded and ready to fire.",
+        "word_en": "cannon",
+        "word_fr": "canon",
+        "word_franglish": "canon"
+    },
+    {
+        "example": "Criminal investigations are within the jurisdiction of the police.",
+        "example_annotated": "Criminal investigations are within the <b>jurisdiction</b> of the police.",
+        "example_mispelled": "Criminal investigations are within the juridiction of the police.",
+        "word_en": "jurisdiction",
+        "word_fr": "juridiction",
+        "word_franglish": "juridiction"
+    },
+    {
+        "example": "The company did well despite an uncertain market.",
+        "example_annotated": "The company did well despite an <b>uncertain</b> market.",
+        "example_mispelled": "The company did well despite an incertain market.",
+        "word_en": "uncertain",
+        "word_fr": "incertain",
+        "word_franglish": "incertain"
+    },
+    {
+        "example": "A woman inserts a tampon into the opening of her vagina.",
+        "example_annotated": "A woman inserts a tampon into the opening of her <b>vagina</b>.",
+        "example_mispelled": "A woman inserts a tampon into the opening of her vagin.",
+        "word_en": "vagina",
+        "word_fr": "vagin",
+        "word_franglish": "vagin"
+    },
+    {
+        "example": "The woman was caught soliciting at the bar.",
+        "example_annotated": "The woman was caught <b>soliciting</b> at the bar.",
+        "example_mispelled": "The woman was caught solliciting at the bar.",
+        "word_en": "solicitation",
+        "word_fr": "sollicitation",
+        "word_franglish": "sollicitation"
+    },
+    {
+        "example": "The company recalled this product because it has a mechanical default.",
+        "example_annotated": "The company recalled this product because it has a mechanical <b>default</b>.",
+        "example_mispelled": "The company recalled this product because it has a mechanical defaut.",
+        "word_en": "default",
+        "word_fr": "défaut",
+        "word_franglish": "defaut"
+    },
+    {
+        "example": "A wonderful odour emanated from the kitchen.",
+        "example_annotated": "A wonderful <b>odour</b> emanated from the kitchen.",
+        "example_mispelled": "A wonderful odeur emanated from the kitchen.",
+        "word_en": "odour",
+        "word_fr": "odeur",
+        "word_franglish": "odeur"
+    },
+    {
+        "example": "Winslow's soldiers built a palisade of wooden pickets around the church.",
+        "example_annotated": "Winslow's soldiers built a <b>palisade</b> of wooden pickets around the church.",
+        "example_mispelled": "Winslow's soldiers built a palissade of wooden pickets around the church.",
+        "word_en": "palisade",
+        "word_fr": "palissade",
+        "word_franglish": "palissade"
+    },
+    {
+        "example": "The assailant struck him on the head with an axe.",
+        "example_annotated": "The <b>assailant</b> struck him on the head with an axe.",
+        "example_mispelled": "The assaillant struck him on the head with an axe.",
+        "word_en": "assailant",
+        "word_fr": "assaillant",
+        "word_franglish": "assaillant"
+    },
+    {
+        "example": "The M1 carbine is an interesting little weapon.",
+        "example_annotated": "The M1 <b>carbine</b> is an interesting little weapon.",
+        "example_mispelled": "The M1 carabine is an interesting little weapon.",
+        "word_en": "carbine",
+        "word_fr": "carabine",
+        "word_franglish": "carabine"
+    },
+    {
+        "example": "It is redundant to say that a giant is tall.",
+        "example_annotated": "It is <b>redundant</b> to say that a giant is tall.",
+        "example_mispelled": "It is redondant to say that a giant is tall.",
+        "word_en": "redundant",
+        "word_fr": "redondant",
+        "word_franglish": "redondant"
+    },
+    {
+        "example": "The event will take place in Pavilion 1.",
+        "example_annotated": "The event will take place in <b>Pavilion</b> 1.",
+        "example_mispelled": "The event will take place in Pavillon 1.",
+        "word_en": "pavilion",
+        "word_fr": "pavillon",
+        "word_franglish": "pavillon"
+    },
+    {
+        "example": "It is an undeniable fact that ice is cold.",
+        "example_annotated": "It is an <b>undeniable</b> fact that ice is cold.",
+        "example_mispelled": "It is an indeniable fact that ice is cold.",
+        "word_en": "undeniable",
+        "word_fr": "indéniable",
+        "word_franglish": "indeniable"
+    },
+    {
+        "example": "It is used for ambuscade.",
+        "example_annotated": "It is used for <b>ambuscade</b>.",
+        "example_mispelled": "It is used for embuscade.",
+        "word_en": "ambuscade",
+        "word_fr": "embuscade",
+        "word_franglish": "embuscade"
+    },
+    {
+        "example": "The diplomat was accompanied by his interpreter.",
+        "example_annotated": "The diplomat was accompanied by his <b>interpreter</b>.",
+        "example_mispelled": "The diplomat was accompanied by his interprete.",
+        "word_en": "interpreter",
+        "word_fr": "interprète",
+        "word_franglish": "interprete"
+    },
+    {
+        "example": "I don't have to keep talking about marriage as a sacrament.",
+        "example_annotated": "I don't have to keep talking about marriage as a <b>sacrament</b>.",
+        "example_mispelled": "I don't have to keep talking about marriage as a sacrement.",
+        "word_en": "sacrament",
+        "word_fr": "sacrement",
+        "word_franglish": "sacrement"
+    },
+    {
+        "example": "What affect alcohol has on the fetus.",
+        "example_annotated": "What affect alcohol has on the <b>fetus</b>.",
+        "example_mispelled": "What affect alcohol has on the foetus.",
+        "word_en": "fetus",
+        "word_fr": "fœtus",
+        "word_franglish": "foetus"
+    },
+    {
+        "example": "The electrician disabled the alarm system.",
+        "example_annotated": "The <b>electrician</b> disabled the alarm system.",
+        "example_mispelled": "The electricien disabled the alarm system.",
+        "word_en": "electrician",
+        "word_fr": "électricien",
+        "word_franglish": "electricien"
+    },
+    {
+        "example": "It is distributed throughout the metropolitan area.",
+        "example_annotated": "It is distributed throughout the <b>metropolitan</b> area.",
+        "example_mispelled": "It is distributed throughout the metropolitain area.",
+        "word_en": "metropolitan",
+        "word_fr": "métropolitain",
+        "word_franglish": "metropolitain"
+    },
+    {
+        "example": "Meditation brings me a sense of well-being and contentment.",
+        "example_annotated": "Meditation brings me a sense of well-being and <b>contentment</b>.",
+        "example_mispelled": "Meditation brings me a sense of well-being and contentement.",
+        "word_en": "contentment",
+        "word_fr": "contentement",
+        "word_franglish": "contentement"
+    },
+    {
+        "example": "USA is the abbreviation for United States of America.",
+        "example_annotated": "USA is the <b>abbreviation</b> for United States of America.",
+        "example_mispelled": "USA is the abreviation for United States of America.",
+        "word_en": "abbreviation",
+        "word_fr": "abréviation",
+        "word_franglish": "abreviation"
+    },
+    {
+        "example": "She asked some really trenchant questions.",
+        "example_annotated": "She asked some really <b>trenchant</b> questions.",
+        "example_mispelled": "She asked some really tranchant questions.",
+        "word_en": "trenchant",
+        "word_fr": "tranchant",
+        "word_franglish": "tranchant"
+    },
+    {
+        "example": "I know a lot of people who are addicted to caffeine.",
+        "example_annotated": "I know a lot of people who are addicted to <b>caffeine</b>.",
+        "example_mispelled": "I know a lot of people who are addicted to cafeine.",
+        "word_en": "caffeine",
+        "word_fr": "caféine",
+        "word_franglish": "cafeine"
+    },
+    {
+        "example": "The moth overwinters as a larva in a cocoon.",
+        "example_annotated": "The moth overwinters as a larva in a <b>cocoon</b>.",
+        "example_mispelled": "The moth overwinters as a larva in a cocon.",
+        "word_en": "cocoon",
+        "word_fr": "cocon",
+        "word_franglish": "cocon"
+    },
+    {
+        "example": "After the bath,you may want to offer a manicure.",
+        "example_annotated": "After the bath,you may want to offer a <b>manicure</b>.",
+        "example_mispelled": "After the bath,you may want to offer a manucure.",
+        "word_en": "manicure",
+        "word_fr": "manucure",
+        "word_franglish": "manucure"
+    },
+    {
+        "example": "Embryo research is not possible without women's egg cells being made available.",
+        "example_annotated": "<b>Embryo</b> research is not possible without women's egg cells being made available.",
+        "example_mispelled": "Embryon research is not possible without women's egg cells being made available.",
+        "word_en": "embryo",
+        "word_fr": "embryon",
+        "word_franglish": "embryon"
+    },
+    {
+        "example": "She is so predictable; I always know how she is going to react.",
+        "example_annotated": "She is so <b>predictable</b>; I always know how she is going to react.",
+        "example_mispelled": "She is so predictible; I always know how she is going to react.",
+        "word_en": "predictable",
+        "word_fr": "prédictible",
+        "word_franglish": "predictible"
+    },
+    {
+        "example": "The journalist wrote a report on refugees.",
+        "example_annotated": "The journalist wrote a report on <b>refugee</b>s.",
+        "example_mispelled": "The journalist wrote a report on refugies.",
+        "word_en": "refugee",
+        "word_fr": "réfugié",
+        "word_franglish": "refugie"
+    },
+    {
+        "example": "A good manager engenders a productive work environment.",
+        "example_annotated": "A good manager <b>engender</b>s a productive work environment.",
+        "example_mispelled": "A good manager engendrers a productive work environment.",
+        "word_en": "engender",
+        "word_fr": "engendrer",
+        "word_franglish": "engendrer"
+    },
+    {
+        "example": "The premise of his argument was false.",
+        "example_annotated": "The <b>premise</b> of his argument was false.",
+        "example_mispelled": "The premisse of his argument was false.",
+        "word_en": "premise",
+        "word_fr": "prémisse",
+        "word_franglish": "premisse"
+    },
+    {
+        "example": "We all agree that the current economic conjuncture is good.",
+        "example_annotated": "We all agree that the current economic <b>conjuncture</b> is good.",
+        "example_mispelled": "We all agree that the current economic conjoncture is good.",
+        "word_en": "conjuncture",
+        "word_fr": "conjoncture",
+        "word_franglish": "conjoncture"
+    },
+    {
+        "example": "I saw a giraffe at the zoo.",
+        "example_annotated": "I saw a <b>giraffe</b> at the zoo.",
+        "example_mispelled": "I saw a girafe at the zoo.",
+        "word_en": "giraffe",
+        "word_fr": "girafe",
+        "word_franglish": "girafe"
+    },
+    {
+        "example": "These herds sometimes mingle with ostrich, and antelope.",
+        "example_annotated": "These herds sometimes mingle with ostrich, and <b>antelope</b>.",
+        "example_mispelled": "These herds sometimes mingle with ostrich, and antilope.",
+        "word_en": "antelope",
+        "word_fr": "antilope",
+        "word_franglish": "antilope"
+    },
+    {
+        "example": "Elite warriors such as the Samurai of Japan.",
+        "example_annotated": "Elite warriors such as the <b>Samurai</b> of Japan.",
+        "example_mispelled": "Elite warriors such as the Samourai of Japan.",
+        "word_en": "samurai",
+        "word_fr": "samouraï",
+        "word_franglish": "samourai"
+    },
+    {
+        "example": "The new drug has few undesirable side effects.",
+        "example_annotated": "The new drug has few <b>undesirable</b> side effects.",
+        "example_mispelled": "The new drug has few indesirable side effects.",
+        "word_en": "undesirable",
+        "word_fr": "indésirable",
+        "word_franglish": "indesirable"
+    },
+    {
+        "example": "The food was good and abundant.",
+        "example_annotated": "The food was good and <b>abundant</b>.",
+        "example_mispelled": "The food was good and abondant.",
+        "word_en": "abundant",
+        "word_fr": "abondant",
+        "word_franglish": "abondant"
+    },
+    {
+        "example": "The Sioux Archer is the most skillful of hunters and can hit his target in full gallop.",
+        "example_annotated": "The Sioux Archer is the most skillful of hunters and can hit his target in full <b>gallop</b>.",
+        "example_mispelled": "The Sioux Archer is the most skillful of hunters and can hit his target in full galop.",
+        "word_en": "gallop",
+        "word_fr": "galop",
+        "word_franglish": "galop"
+    },
+    {
+        "example": "We learned pronunciation and how to write English.",
+        "example_annotated": "We learned <b>pronunciation</b> and how to write English.",
+        "example_mispelled": "We learned prononciation and how to write English.",
+        "word_en": "pronunciation",
+        "word_fr": "prononciation",
+        "word_franglish": "prononciation"
+    },
+    {
+        "example": "People eat oranges and broccoli for their vitamin C content.",
+        "example_annotated": "People eat oranges and <b>broccoli</b> for their vitamin C content.",
+        "example_mispelled": "People eat oranges and brocoli for their vitamin C content.",
+        "word_en": "broccoli",
+        "word_fr": "brocoli",
+        "word_franglish": "brocoli"
+    },
+    {
+        "example": "The tower bears the blazon of its sponsor in the form of a lion.",
+        "example_annotated": "The tower bears the <b>blazon</b> of its sponsor in the form of a lion.",
+        "example_mispelled": "The tower bears the blason of its sponsor in the form of a lion.",
+        "word_en": "blazon",
+        "word_fr": "blason",
+        "word_franglish": "blason"
+    },
+    {
+        "example": "Connoisseurs prize our wines.",
+        "example_annotated": "<b>Connoisseurs</b> prize our wines.",
+        "example_mispelled": "Connaisseurs prize our wines.",
+        "word_en": "connoisseur",
+        "word_fr": "connaisseur",
+        "word_franglish": "connaisseur"
+    },
+    {
+        "example": "The powerful aroma of truffle.",
+        "example_annotated": "The powerful aroma of <b>truffle</b>.",
+        "example_mispelled": "The powerful aroma of truffe.",
+        "word_en": "truffle",
+        "word_fr": "truffe",
+        "word_franglish": "truffe"
+    },
+    {
+        "example": "Built by a Pasha dynasty, the palace is particularly noteworthy for its highly individualised portals.",
+        "example_annotated": "Built by a <b>Pasha</b> dynasty, the palace is particularly noteworthy for its highly individualised portals.",
+        "example_mispelled": "Built by a Pacha dynasty, the palace is particularly noteworthy for its highly individualised portals.",
+        "word_en": "pasha",
+        "word_fr": "pacha",
+        "word_franglish": "pacha"
+    },
+    {
+        "example": "The increase in the temperature of the bitumen leads to a reduction in its viscosity.",
+        "example_annotated": "The increase in the temperature of the <b>bitumen</b> leads to a reduction in its viscosity.",
+        "example_mispelled": "The increase in the temperature of the bitume leads to a reduction in its viscosity.",
+        "word_en": "bitumen",
+        "word_fr": "bitume",
+        "word_franglish": "bitume"
+    },
+    {
+        "example": "The Harlequin Duck population.",
+        "example_annotated": "The <b>Harlequin</b> Duck population.",
+        "example_mispelled": "The Arlequin Duck population.",
+        "word_en": "harlequin",
+        "word_fr": "arlequin",
+        "word_franglish": "arlequin"
+    },
+    {
+        "example": "The controls by the army and the guerrilla have made it impossible to move about freely.",
+        "example_annotated": "The controls by the army and the <b>guerrilla</b> have made it impossible to move about freely.",
+        "example_mispelled": "The controls by the army and the guerilla have made it impossible to move about freely.",
+        "word_en": "guerrilla",
+        "word_fr": "guérilla",
+        "word_franglish": "guerilla"
+    },
+    {
+        "example": "The majority of the individuals discarded are dead or moribund.",
+        "example_annotated": "The majority of the individuals discarded are dead or <b>moribund</b>.",
+        "example_mispelled": "The majority of the individuals discarded are dead or moribond.",
+        "word_en": "moribund",
+        "word_fr": "moribond",
+        "word_franglish": "moribond"
+    },
+    {
+        "example": "What should the wife of an adulterer be told?",
+        "example_annotated": "What should the wife of an <b>adulterer</b> be told?",
+        "example_mispelled": "What should the wife of an adultere be told?",
+        "word_en": "adulterer",
+        "word_fr": "adultère",
+        "word_franglish": "adultere"
+    },
+    {
+        "example": "They brought in a 70-year-old accordion player who blew me away.",
+        "example_annotated": "They brought in a 70-year-old <b>accordion</b> player who blew me away.",
+        "example_mispelled": "They brought in a 70-year-old accordeon player who blew me away.",
+        "word_en": "accordion",
+        "word_fr": "accordéon",
+        "word_franglish": "accordeon"
+    },
+    {
+        "example": "The ballerinas dance in perfect alignment.",
+        "example_annotated": "The ballerinas dance in perfect <b>alignment</b>.",
+        "example_mispelled": "The ballerinas dance in perfect alignement.",
+        "word_en": "alignment",
+        "word_fr": "alignement",
+        "word_franglish": "alignement"
+    },
+    {
+        "example": "I see a coconut vendor who has a machete",
+        "example_annotated": "I see a coconut vendor who has a <b>machete</b>",
+        "example_mispelled": "I see a coconut vendor who has a machette",
+        "word_en": "machete",
+        "word_fr": "machette",
+        "word_franglish": "machette"
+    },
+    {
+        "example": "Before entering school, children must be immunised against tetanus.",
+        "example_annotated": "Before entering school, children must be immunised against <b>tetanus</b>.",
+        "example_mispelled": "Before entering school, children must be immunised against tetanos.",
+        "word_en": "tetanus",
+        "word_fr": "tétanos",
+        "word_franglish": "tetanos"
+    },
+    {
+        "example": "Punctuation is very important for the structure of a text.",
+        "example_annotated": "<b>Punctuation</b> is very important for the structure of a text.",
+        "example_mispelled": "Ponctuation is very important for the structure of a text.",
+        "word_en": "punctuation",
+        "word_fr": "ponctuation",
+        "word_franglish": "ponctuation"
+    },
+    {
+        "example": "During a typhoon his relics were scattered and could not be identified.",
+        "example_annotated": "During a <b>typhoon</b> his relics were scattered and could not be identified.",
+        "example_mispelled": "During a typhon his relics were scattered and could not be identified.",
+        "word_en": "typhoon",
+        "word_fr": "typhon",
+        "word_franglish": "typhon"
+    },
+    {
+        "example": "Ice and tundra are major in the Arctic.",
+        "example_annotated": "Ice and <b>tundra</b> are major in the Arctic.",
+        "example_mispelled": "Ice and toundra are major in the Arctic.",
+        "word_en": "tundra",
+        "word_fr": "toundra",
+        "word_franglish": "toundra"
+    },
+    {
+        "example": "Build new friends with Tetris Party Deluxe",
+        "example_annotated": "Build new friends with Tetris Party <b>Deluxe</b>",
+        "example_mispelled": "Build new friends with Tetris Party De luxe",
+        "word_en": "deluxe",
+        "word_fr": "de luxe",
+        "word_franglish": "de luxe"
+    },
+    {
+        "example": "Strong winds can cause signal distortion.",
+        "example_annotated": "Strong winds can cause signal <b>distortion</b>.",
+        "example_mispelled": "Strong winds can cause signal distorsion.",
+        "word_en": "distortion",
+        "word_fr": "distorsion",
+        "word_franglish": "distorsion"
+    },
+    {
+        "example": "he disjunction between the survey results and the rise in concern.",
+        "example_annotated": "he <b>disjunction</b> between the survey results and the rise in concern.",
+        "example_mispelled": "he disjonction between the survey results and the rise in concern.",
+        "word_en": "disjunction",
+        "word_fr": "disjonction",
+        "word_franglish": "disjonction"
+    },
+    {
+        "example": "The decision is to build a major bridge rather than a minor viaduct.",
+        "example_annotated": "The decision is to build a major bridge rather than a minor <b>viaduct</b>.",
+        "example_mispelled": "The decision is to build a major bridge rather than a minor viaduc.",
+        "word_en": "viaduct",
+        "word_fr": "viaduc",
+        "word_franglish": "viaduc"
+    },
+    {
+        "example": "Big Man Walking is a giant marionette that goes out to meet different communities throughout Scotland.",
+        "example_annotated": "Big Man Walking is a giant <b>marionette</b> that goes out to meet different communities throughout Scotland.",
+        "example_mispelled": "Big Man Walking is a giant marionnette that goes out to meet different communities throughout Scotland.",
+        "word_en": "marionette",
+        "word_fr": "marionnette",
+        "word_franglish": "marionnette"
+    },
+    {
+        "example": "I had to cut my baby's umbilical cord.",
+        "example_annotated": "I had to cut my baby's <b>umbilical</b> cord.",
+        "example_mispelled": "I had to cut my baby's ombilical cord.",
+        "word_en": "umbilical",
+        "word_fr": "ombilical",
+        "word_franglish": "ombilical"
+    },
+    {
+        "example": "How can this mammoth task be accomplished?",
+        "example_annotated": "How can this <b>mammoth</b> task be accomplished?",
+        "example_mispelled": "How can this mammouth task be accomplished?",
+        "word_en": "mammoth",
+        "word_fr": "mammouth",
+        "word_franglish": "mammouth"
+    },
+    {
+        "example": "One testicle is a bit bigger than the other.",
+        "example_annotated": "One <b>testicle</b> is a bit bigger than the other.",
+        "example_mispelled": "One testicule is a bit bigger than the other.",
+        "word_en": "testicle",
+        "word_fr": "testicule",
+        "word_franglish": "testicule"
+    },
+    {
+        "example": "The length of the belt is adjustable.",
+        "example_annotated": "The length of the belt is <b>adjustable</b>.",
+        "example_mispelled": "The length of the belt is ajustable.",
+        "word_en": "adjustable",
+        "word_fr": "ajustable",
+        "word_franglish": "ajustable"
+    },
+    {
+        "example": "Poverty is a legacy of colonization.",
+        "example_annotated": "Poverty is a legacy of <b>colonization</b>.",
+        "example_mispelled": "Poverty is a legacy of colonisation.",
+        "word_en": "colonization",
+        "word_fr": "colonisation",
+        "word_franglish": "colonisation"
+    },
+    {
+        "example": "The firemen localized the fire's point of origin.",
+        "example_annotated": "The firemen <b>localized</b> the fire's point of origin.",
+        "example_mispelled": "The firemen localised the fire's point of origin.",
+        "word_en": "localization",
+        "word_fr": "localisation",
+        "word_franglish": "localisation"
+    },
+    {
+        "example": "The chameleon is known for its ability to change color depending on its environment.",
+        "example_annotated": "The <b>chameleon</b> is known for its ability to change color depending on its environment.",
+        "example_mispelled": "The cameleon is known for its ability to change color depending on its environment.",
+        "word_en": "chameleon",
+        "word_fr": "caméléon",
+        "word_franglish": "cameleon"
+    },
+    {
+        "example": "The modernization of agriculture.",
+        "example_annotated": "The <b>modernization</b> of agriculture.",
+        "example_mispelled": "The modernisation of agriculture.",
+        "word_en": "modernization",
+        "word_fr": "modernisation",
+        "word_franglish": "modernisation"
+    },
+    {
+        "example": "Mats of floating algae or vegetation should not be removed.",
+        "example_annotated": "Mats of floating <b>algae</b> or vegetation should not be removed.",
+        "example_mispelled": "Mats of floating algue or vegetation should not be removed.",
+        "word_en": "algae",
+        "word_fr": "algue",
+        "word_franglish": "algue"
+    },
+    {
+        "example": "I don't know if this is apropos to say.",
+        "example_annotated": "I don't know if this is <b>apropos</b> to say.",
+        "example_mispelled": "I don't know if this is a propos to say.",
+        "word_en": "apropos",
+        "word_fr": "à propos",
+        "word_franglish": "a propos"
+    },
+    {
+        "example": "The programmer debugged his software to make it run properly.",
+        "example_annotated": "The <b>programmer</b> debugged his software to make it run properly.",
+        "example_mispelled": "The programmeur debugged his software to make it run properly.",
+        "word_en": "programmer",
+        "word_fr": "programmeur",
+        "word_franglish": "programmeur"
+    },
+    {
+        "example": "Plants draw nutrients from the soil.",
+        "example_annotated": "Plants draw <b>nutrient</b>s from the soil.",
+        "example_mispelled": "Plants draw nutriments from the soil.",
+        "word_en": "nutrient",
+        "word_fr": "nutriment",
+        "word_franglish": "nutriment"
+    },
+    {
+        "example": "Cleaning must always precede disinfection or sterilization.",
+        "example_annotated": "Cleaning must always precede disinfection or <b>sterilization</b>.",
+        "example_mispelled": "Cleaning must always precede disinfection or sterilisation.",
+        "word_en": "sterilization",
+        "word_fr": "stérilisation",
+        "word_franglish": "sterilisation"
+    },
+    {
+        "example": "I ate an apricot this morning.",
+        "example_annotated": "I ate an <b>apricot</b> this morning.",
+        "example_mispelled": "I ate an abricot this morning.",
+        "word_en": "apricot",
+        "word_fr": "abricot",
+        "word_franglish": "abricot"
+    },
+    {
+        "example": "A matte surface is less likely to show fingerprints.",
+        "example_annotated": "A <b>matte</b> surface is less likely to show fingerprints.",
+        "example_mispelled": "A mate surface is less likely to show fingerprints.",
+        "word_en": "matte",
+        "word_fr": "mate",
+        "word_franglish": "mate"
+    },
+    {
+        "example": "Plankton is one of the oldest forms of life on Earth.",
+        "example_annotated": "<em>Plankton</em> is one of the oldest forms of life on Earth.",
+        "example_mispelled": "Plancton is one of the oldest forms of life on Earth.",
+        "word_en": "plankton",
+        "word_fr": "plancton",
+        "word_franglish": "plancton"
+    },
+    {
+        "example": "He forced him to perform fellatio on him.",
+        "example_annotated": "He forced him to perform <b>fellatio</b> on him.",
+        "example_mispelled": "He forced him to perform fellation on him.",
+        "word_en": "fellatio",
+        "word_fr": "fellation",
+        "word_franglish": "fellation"
+    },
+    {
+        "example": "Use the clef to open the door.",
+        "example_annotated": "Use the <b>clef</b> to open the door.",
+        "example_mispelled": "Use the cle to open the door.",
+        "word_en": "clef",
+        "word_fr": "clé",
+        "word_franglish": "cle"
+    },
+    {
+        "example": "Dermatological pomade",
+        "example_annotated": "Dermatological <b>pomade</b>",
+        "example_mispelled": "Dermatological pommade",
+        "word_en": "pomade",
+        "word_fr": "pommade",
+        "word_franglish": "pommade"
+    },
+    {
+        "example": "I broke my clavicle.",
+        "example_annotated": "I broke my <b>clavicle</b>.",
+        "example_mispelled": "I broke my clavicule.",
+        "word_en": "clavicle",
+        "word_fr": "clavicule",
+        "word_franglish": "clavicule"
+    },
+    {
+        "example": "The study highlights 64 mammal, bird and amphibian species.",
+        "example_annotated": "The study highlights 64 mammal, bird and <b>amphibian</b> species.",
+        "example_mispelled": "The study highlights 64 mammal, bird and amphibien species.",
+        "word_en": "amphibian",
+        "word_fr": "amphibien",
+        "word_franglish": "amphibien"
+    },
+    {
+        "example": "In Scotland, we have endured a draconian regime",
+        "example_annotated": "In Scotland, we have endured a <b>draconian</b> regime",
+        "example_mispelled": "In Scotland, we have endured a draconien regime",
+        "word_en": "draconian",
+        "word_fr": "draconien",
+        "word_franglish": "draconien"
+    },
+    {
+        "example": "My mother gave me a hug to comfort me.",
+        "example_annotated": "My mother gave me a hug to <b>comfort</b> me.",
+        "example_mispelled": "My mother gave me a hug to confort me.",
+        "word_en": "comfort",
+        "word_fr": "confort",
+        "word_franglish": "confort"
+    },
+    {
+        "example": "Poverty is often a vicious circle.",
+        "example_annotated": "Poverty is often a vicious <b>circle</b>.",
+        "example_mispelled": "Poverty is often a vicious cercle.",
+        "word_en": "circle",
+        "word_fr": "cercle",
+        "word_franglish": "cercle"
+    },
+    {
+        "example": "Ancient tribes used to live in this valley.",
+        "example_annotated": "<b>Ancient</b> tribes used to live in this valley.",
+        "example_mispelled": "Ancien tribes used to live in this valley.",
+        "word_en": "ancient",
+        "word_fr": "ancien",
+        "word_franglish": "ancien"
+    },
+    {
+        "example": "The instruction manual details the process step by step.",
+        "example_annotated": "The instruction manual details the <b>process</b> step by step.",
+        "example_mispelled": "The instruction manual details the proces step by step.",
+        "word_en": "process",
+        "word_fr": "procès",
+        "word_franglish": "proces"
+    },
+    {
+        "example": "I made great progress in French thanks to my teacher.",
+        "example_annotated": "I made great <b>progress</b> in French thanks to my teacher.",
+        "example_mispelled": "I made great progres in French thanks to my teacher.",
+        "word_en": "progress",
+        "word_fr": "progrès",
+        "word_franglish": "progres"
+    },
+    {
+        "example": "She works as a nurse in the hospital.",
+        "example_annotated": "She works as a nurse in the <b>hospital</b>.",
+        "example_mispelled": "She works as a nurse in the hopital.",
+        "word_en": "hospital",
+        "word_fr": "hôpital",
+        "word_franglish": "hopital"
+    },
+    {
+        "example": "I keep all of my camping equipment in my backpack.",
+        "example_annotated": "I keep all of my camping <b>equipment</b> in my backpack.",
+        "example_mispelled": "I keep all of my camping equipement in my backpack.",
+        "word_en": "equipment",
+        "word_fr": "équipement",
+        "word_franglish": "equipement"
+    },
+    {
+        "example": "The license lets you use the software on three computers.",
+        "example_annotated": "The <b>license</b> lets you use the software on three computers.",
+        "example_mispelled": "The licence lets you use the software on three computers.",
+        "word_en": "license",
+        "word_fr": "licence",
+        "word_franglish": "licence"
+    },
+    {
+        "example": "The sergeant told his soldiers not to fire.",
+        "example_annotated": "The <b>sergeant</b> told his soldiers not to fire.",
+        "example_mispelled": "The sergent told his soldiers not to fire.",
+        "word_en": "sergeant",
+        "word_fr": "sergent",
+        "word_franglish": "sergent"
+    },
+    {
+        "example": "I went into the parlor and even the pictures, of Christ and Our Lord, were on the walls.",
+        "example_annotated": "I went into the <b>parlor</b> and even the pictures, of Christ and Our Lord, were on the walls.",
+        "example_mispelled": "I went into the parloir and even the pictures, of Christ and Our Lord, were on the walls.",
+        "word_en": "parlor",
+        "word_fr": "parloir",
+        "word_franglish": "parloir"
+    },
+    {
+        "example": "The old man walks with a cane.",
+        "example_annotated": "The old man walks with a <b>cane</b>.",
+        "example_mispelled": "The old man walks with a canne.",
+        "word_en": "cane",
+        "word_fr": "canne",
+        "word_franglish": "canne"
+    },
+    {
+        "example": "Do you still dare to hate me, you bastard?",
+        "example_annotated": "Do you still dare to hate me, you <b>bastard</b>?",
+        "example_mispelled": "Do you still dare to hate me, you batard?",
+        "word_en": "bastard",
+        "word_fr": "bâtard",
+        "word_franglish": "batard"
+    },
+    {
+        "example": "You need to click on the thumbnail to enlarge the image.",
+        "example_annotated": "You need to <b>click</b> on the thumbnail to enlarge the image.",
+        "example_mispelled": "You need to clic on the thumbnail to enlarge the image.",
+        "word_en": "click",
+        "word_fr": "clic",
+        "word_franglish": "clic"
+    },
+    {
+        "example": "The balloon floats because it is full of helium.",
+        "example_annotated": "The <b>balloon</b> floats because it is full of helium.",
+        "example_mispelled": "The ballon floats because it is full of helium.",
+        "word_en": "balloon",
+        "word_fr": "ballon",
+        "word_franglish": "ballon"
+    },
+    {
+        "example": "Lemons are more sour than oranges.",
+        "example_annotated": "Lemons are more <b>sour</b> than oranges.",
+        "example_mispelled": "Lemons are more sur than oranges.",
+        "word_en": "sour",
+        "word_fr": "sur",
+        "word_franglish": "sur"
+    },
+    {
+        "example": "I got the job due to his recommendation.",
+        "example_annotated": "I got the job due to his <b>recommendation</b>.",
+        "example_mispelled": "I got the job due to his recommandation.",
+        "word_en": "recommendation",
+        "word_fr": "recommandation",
+        "word_franglish": "recommandation"
+    },
+    {
+        "example": "My employer gave me a raise today.",
+        "example_annotated": "My <b>employer</b> gave me a raise today.",
+        "example_mispelled": "My employeur gave me a raise today.",
+        "word_en": "employer",
+        "word_fr": "employeur",
+        "word_franglish": "employeur"
+    },
+    {
+        "example": "The customs officer stamped my passport and let me through.",
+        "example_annotated": "The customs officer stamped my <b>passport</b> and let me through.",
+        "example_mispelled": "The customs officer stamped my passeport and let me through.",
+        "word_en": "passport",
+        "word_fr": "passeport",
+        "word_franglish": "passeport"
+    },
+    {
+        "example": " I know that an admiral should never be called a general.",
+        "example_annotated": " I know that an <b>admiral</b> should never be called a general.",
+        "example_mispelled": " I know that an amiral should never be called a general.",
+        "word_en": "admiral",
+        "word_fr": "amiral",
+        "word_franglish": "amiral"
+    },
+    {
+        "example": "The child torments the dog by pulling its tail.",
+        "example_annotated": "The child <b>torment</b>s the dog by pulling its tail.",
+        "example_mispelled": "The child tourments the dog by pulling its tail.",
+        "word_en": "torment",
+        "word_fr": "tourment",
+        "word_franglish": "tourment"
+    },
+    {
+        "example": "Any amendment to the contract must be made in writing.",
+        "example_annotated": "Any <b>amendment</b> to the contract must be made in writing.",
+        "example_mispelled": "Any amendement to the contract must be made in writing.",
+        "word_en": "amendment",
+        "word_fr": "amendement",
+        "word_franglish": "amendement"
+    },
+    {
+        "example": "They have claimed that salmon farming damages the environment.",
+        "example_annotated": "They have claimed that <b>salmon</b> farming damages the environment.",
+        "example_mispelled": "They have claimed that saumon farming damages the environment.",
+        "word_en": "salmon",
+        "word_fr": "saumon",
+        "word_franglish": "saumon"
+    },
+    {
+        "example": "Four pages will suffice for my essay.",
+        "example_annotated": "Four pages will <b>suffice</b> for my essay.",
+        "example_mispelled": "Four pages will suffire for my essay.",
+        "word_en": "suffice",
+        "word_fr": "suffire",
+        "word_franglish": "suffire"
+    },
+    {
+        "example": "Half of our merchandise is for export.",
+        "example_annotated": "Half of our <b>merchandise</b> is for export.",
+        "example_mispelled": "Half of our marchandise is for export.",
+        "word_en": "merchandise",
+        "word_fr": "marchandise",
+        "word_franglish": "marchandise"
+    },
+    {
+        "example": "This person is also extremely discreet.",
+        "example_annotated": "This person is also extremely <b>discreet</b>.",
+        "example_mispelled": "This person is also extremely discret.",
+        "word_en": "discreet",
+        "word_fr": "discret",
+        "word_franglish": "discret"
+    },
+    {
+        "example": "Water retention is an excess of water in one's body.",
+        "example_annotated": "Water retention is an <b>excess</b> of water in one's body.",
+        "example_mispelled": "Water retention is an exces of water in one's body.",
+        "word_en": "excess",
+        "word_fr": "excès",
+        "word_franglish": "exces"
+    },
+    {
+        "example": "He washed his car with a sponge.",
+        "example_annotated": "He washed his car with a <b>sponge</b>.",
+        "example_mispelled": "He washed his car with a eponge.",
+        "word_en": "sponge",
+        "word_fr": "éponge",
+        "word_franglish": "eponge"
+    },
+    {
+        "example": "My colleague reminded me of our meeting with the customer.",
+        "example_annotated": "My <b>colleague</b> reminded me of our meeting with the customer.",
+        "example_mispelled": "My collegue reminded me of our meeting with the customer.",
+        "word_en": "colleague",
+        "word_fr": "collègue",
+        "word_franglish": "collegue"
+    },
+    {
+        "example": "Juveniles are not allowed to buy alcohol.",
+        "example_annotated": "Juveniles are not allowed to buy <b>alcohol</b>.",
+        "example_mispelled": "Juveniles are not allowed to buy alcool.",
+        "word_en": "alcohol",
+        "word_fr": "alcool",
+        "word_franglish": "alcool"
+    },
+    {
+        "example": "The gymnast lifted her arms and arched her back.",
+        "example_annotated": "The gymnast lifted her arms and <b>arch</b>ed her back.",
+        "example_mispelled": "The gymnast lifted her arms and arced her back.",
+        "word_en": "arch",
+        "word_fr": "arc",
+        "word_franglish": "arc"
+    },
+    {
+        "example": "The judge concluded that the defendant was innocent.",
+        "example_annotated": "The judge <b>conclude</b>d that the defendant was innocent.",
+        "example_mispelled": "The judge conclured that the defendant was innocent.",
+        "word_en": "conclude",
+        "word_fr": "conclure",
+        "word_franglish": "conclure"
+    },
+    {
+        "example": " There is no scruple whatever in receiving money honestly and duly earned.",
+        "example_annotated": " There is no <b>scruple</b> whatever in receiving money honestly and duly earned.",
+        "example_mispelled": " There is no scrupule whatever in receiving money honestly and duly earned.",
+        "word_en": "scruple",
+        "word_fr": "scrupule",
+        "word_franglish": "scrupule"
+    },
+    {
+        "example": "Philosophers are interested in the essence of all things.",
+        "example_annotated": "<b>Philosophers</b> are interested in the essence of all things.",
+        "example_mispelled": "Philosophs are interested in the essence of all things.",
+        "word_en": "philosopher",
+        "word_fr": "philosophe",
+        "word_franglish": "philosophe"
+    },
+    {
+        "example": "The author sent the manuscript to the publisher.",
+        "example_annotated": "The author sent the <b>manuscript</b> to the publisher.",
+        "example_mispelled": "The author sent the manuscrit to the publisher.",
+        "word_en": "manuscript",
+        "word_fr": "manuscrit",
+        "word_franglish": "manuscrit"
+    },
+    {
+        "example": "It took her years of practice to master the violin.",
+        "example_annotated": "It took her years of practice to master the <b>violin</b>.",
+        "example_mispelled": "It took her years of practice to master the violon.",
+        "word_en": "violin",
+        "word_fr": "violon",
+        "word_franglish": "violon"
+    },
+    {
+        "example": "The circus clown and the magician captivate the audience.",
+        "example_annotated": "The circus clown and the <b>magician</b> captivate the audience.",
+        "example_mispelled": "The circus clown and the magicien captivate the audience.",
+        "word_en": "magician",
+        "word_fr": "magicien",
+        "word_franglish": "magicien"
+    },
+    {
+        "example": "We could get there by boat but it is mostly impracticable for most of the year.",
+        "example_annotated": "We could get there by boat but it is mostly <b>impracticable</b> for most of the year.",
+        "example_mispelled": "We could get there by boat but it is mostly impraticable for most of the year.",
+        "word_en": "impracticable",
+        "word_fr": "impraticable",
+        "word_franglish": "impraticable"
+    },
+    {
+        "example": "In her haste to catch the bus, she forgot her keys.",
+        "example_annotated": "In her <b>haste</b> to catch the bus, she forgot her keys.",
+        "example_mispelled": "In her hate to catch the bus, she forgot her keys.",
+        "word_en": "haste",
+        "word_fr": "hâte",
+        "word_franglish": "hate"
+    },
+    {
+        "example": "Concrete is an aggregate of sand and cement.",
+        "example_annotated": "Concrete is an aggregate of sand and <b>cement</b>.",
+        "example_mispelled": "Concrete is an aggregate of sand and ciment.",
+        "word_en": "cement",
+        "word_fr": "ciment",
+        "word_franglish": "ciment"
+    },
+    {
+        "example": "The advocate will defend the victim during the trial.",
+        "example_annotated": "The <b>advocate</b> will defend the victim during the trial.",
+        "example_mispelled": "The avocate will defend the victim during the trial.",
+        "word_en": "advocate",
+        "word_fr": "avocate",
+        "word_franglish": "avocate"
+    },
+    {
+        "example": "It's a volcano due to the clouds always hanging from its top.",
+        "example_annotated": "It's a <b>volcano</b> due to the clouds always hanging from its top.",
+        "example_mispelled": "It's a volcan due to the clouds always hanging from its top.",
+        "word_en": "volcano",
+        "word_fr": "volcan",
+        "word_franglish": "volcan"
+    },
+    {
+        "example": "My family's barber is a very nice man.",
+        "example_annotated": "My family's <b>barber</b> is a very nice man.",
+        "example_mispelled": "My family's barbier is a very nice man.",
+        "word_en": "barber",
+        "word_fr": "barbier",
+        "word_franglish": "barbier"
+    },
+    {
+        "example": "This young man want to be a millionaire.",
+        "example_annotated": "This young man want to be a <b>millionaire</b>.",
+        "example_mispelled": "This young man want to be a millionnaire.",
+        "word_en": "millionaire",
+        "word_fr": "millionnaire",
+        "word_franglish": "millionnaire"
+    },
+    {
+        "example": "The look of an English manor house.",
+        "example_annotated": "The look of an English <b>manor</b> house.",
+        "example_mispelled": "The look of an English manoir house.",
+        "word_en": "manor",
+        "word_fr": "manoir",
+        "word_franglish": "manoir"
+    },
+    {
+        "example": "He fixed the unstable chair to prevent an accident.",
+        "example_annotated": "He fixed the <b>unstable</b> chair to prevent an accident.",
+        "example_mispelled": "He fixed the instable chair to prevent an accident.",
+        "word_en": "unstable",
+        "word_fr": "instable",
+        "word_franglish": "instable"
+    },
+    {
+        "example": "A profusion of ornament and clutter.",
+        "example_annotated": "A profusion of <b>ornament</b> and clutter.",
+        "example_mispelled": "A profusion of ornement and clutter.",
+        "word_en": "ornament",
+        "word_fr": "ornement",
+        "word_franglish": "ornement"
+    },
+    {
+        "example": "There was a boom in tourism after the borders were opened.",
+        "example_annotated": "There was a <b>boom</b> in tourism after the borders were opened.",
+        "example_mispelled": "There was a boum in tourism after the borders were opened.",
+        "word_en": "boom",
+        "word_fr": "boum",
+        "word_franglish": "boum"
+    },
+    {
+        "example": "About 700,000 pilgrims visit the Basilica of the Holy Sepulchre in Jerusalem each year.",
+        "example_annotated": "About 700,000 pilgrims visit the Basilica of the Holy <b>Sepulchre</b> in Jerusalem each year.",
+        "example_mispelled": "About 700,000 pilgrims visit the Basilica of the Holy Sepulcre in Jerusalem each year.",
+        "word_en": "sepulchre",
+        "word_fr": "sépulcre",
+        "word_franglish": "sepulcre"
+    },
+    {
+        "example": "At midday, we had an agreeable lunch.",
+        "example_annotated": "At midday, we had an <b>agreeable</b> lunch.",
+        "example_mispelled": "At midday, we had an agreable lunch.",
+        "word_en": "agreeable",
+        "word_fr": "agréable",
+        "word_franglish": "agreable"
+    },
+    {
+        "example": "The only way to protect deep-water coral reefs.",
+        "example_annotated": "The only way to protect deep-water <b>coral</b> reefs.",
+        "example_mispelled": "The only way to protect deep-water corail reefs.",
+        "word_en": "coral",
+        "word_fr": "corail",
+        "word_franglish": "corail"
+    },
+    {
+        "example": "Negotiations for the new contract lasted all day.",
+        "example_annotated": "<b>Negotiations</b> for the new contract lasted all day.",
+        "example_mispelled": "Negociations for the new contract lasted all day.",
+        "word_en": "negotiation",
+        "word_fr": "négociation",
+        "word_franglish": "negociation"
+    },
+    {
+        "example": "The model poses for the photographer.",
+        "example_annotated": "The model poses for the <b>photographer</b>.",
+        "example_mispelled": "The model poses for the photographe.",
+        "word_en": "photographer",
+        "word_fr": "photographe",
+        "word_franglish": "photographe"
+    },
+    {
+        "example": "They go to Carnival in Rio de Janeiro.",
+        "example_annotated": "They go to <b>Carnival</b> in Rio de Janeiro.",
+        "example_mispelled": "They go to Carnaval in Rio de Janeiro.",
+        "word_en": "carnival",
+        "word_fr": "carnaval",
+        "word_franglish": "carnaval"
+    },
+    {
+        "example": "The farm mainly produces cheese and yogurts.",
+        "example_annotated": "The farm mainly produces cheese and <b>yogurt</b>s.",
+        "example_mispelled": "The farm mainly produces cheese and yogourts.",
+        "word_en": "yogurt",
+        "word_fr": "yogourt",
+        "word_franglish": "yogourt"
+    },
+    {
+        "example": "The triumphal march has resulted in a loss of widespread knowledge.",
+        "example_annotated": "The <b>triumphal</b> march has resulted in a loss of widespread knowledge.",
+        "example_mispelled": "The triomphal march has resulted in a loss of widespread knowledge.",
+        "word_en": "triumphal",
+        "word_fr": "triomphal",
+        "word_franglish": "triomphal"
+    },
+    {
+        "example": "I copied the text to paste it into a new document.",
+        "example_annotated": "I copied the text to <b>paste</b> it into a new document.",
+        "example_mispelled": "I copied the text to pate it into a new document.",
+        "word_en": "paste",
+        "word_fr": "pâte",
+        "word_franglish": "pate"
+    },
+    {
+        "example": "My cat always plays with the fringe of the carpet.",
+        "example_annotated": "My cat always plays with the <b>fringe</b> of the carpet.",
+        "example_mispelled": "My cat always plays with the frange of the carpet.",
+        "word_en": "fringe",
+        "word_fr": "frange",
+        "word_franglish": "frange"
+    },
+    {
+        "example": "But the lake was not always so serene and tranquil.",
+        "example_annotated": "But the lake was not always so <b>serene</b> and tranquil.",
+        "example_mispelled": "But the lake was not always so sereine and tranquil.",
+        "word_en": "serene",
+        "word_fr": "sereine",
+        "word_franglish": "sereine"
+    },
+    {
+        "example": "It is important to trim the vine.",
+        "example_annotated": "It is important to trim the <b>vine</b>.",
+        "example_mispelled": "It is important to trim the vigne.",
+        "word_en": "vine",
+        "word_fr": "vigne",
+        "word_franglish": "vigne"
+    },
+    {
+        "example": "She did not become a prostitute by choice.",
+        "example_annotated": "She did not become a <b>prostitute</b> by choice.",
+        "example_mispelled": "She did not become a prostituee by choice.",
+        "word_en": "prostitute",
+        "word_fr": "prostituée",
+        "word_franglish": "prostituee"
+    },
+    {
+        "example": "The statue is placed on a marble pedestal.",
+        "example_annotated": "The statue is placed on a marble <b>pedestal</b>.",
+        "example_mispelled": "The statue is placed on a marble piedestal.",
+        "word_en": "pedestal",
+        "word_fr": "piédestal",
+        "word_franglish": "piedestal"
+    },
+    {
+        "example": "Large buildings and bright lights are part of the urban landscape.",
+        "example_annotated": "Large buildings and bright lights are part of the <b>urban</b> landscape.",
+        "example_mispelled": "Large buildings and bright lights are part of the urbain landscape.",
+        "word_en": "urban",
+        "word_fr": "urbain",
+        "word_franglish": "urbain"
+    },
+    {
+        "example": "In the desert, water is a scarce resource.",
+        "example_annotated": "In the desert, water is a scarce <b>resource</b>.",
+        "example_mispelled": "In the desert, water is a scarce ressource.",
+        "word_en": "resource",
+        "word_fr": "ressource",
+        "word_franglish": "ressource"
+    },
+    {
+        "example": " No king, no tyrant ever expected so much of so few.",
+        "example_annotated": " No king, no <b>tyrant</b> ever expected so much of so few.",
+        "example_mispelled": " No king, no tyran ever expected so much of so few.",
+        "word_en": "tyrant",
+        "word_fr": "tyran",
+        "word_franglish": "tyran"
+    },
+    {
+        "example": "My car engine is making an abnormal noise.",
+        "example_annotated": "My car engine is making an <b>abnormal</b> noise.",
+        "example_mispelled": "My car engine is making an anormal noise.",
+        "word_en": "abnormal",
+        "word_fr": "anormal",
+        "word_franglish": "anormal"
+    },
+    {
+        "example": "See the well preserved rampart.",
+        "example_annotated": "See the well preserved <b>rampart</b>.",
+        "example_mispelled": "See the well preserved rempart.",
+        "word_en": "rampart",
+        "word_fr": "rempart",
+        "word_franglish": "rempart"
+    },
+    {
+        "example": "My spouse and I have been married for ten years.",
+        "example_annotated": "My <b>spouse</b> and I have been married for ten years.",
+        "example_mispelled": "My epouse and I have been married for ten years.",
+        "word_en": "spouse",
+        "word_fr": "épouse",
+        "word_franglish": "epouse"
+    },
+    {
+        "example": "She stresses the last syllable of the word.",
+        "example_annotated": "She stresses the last <b>syllable</b> of the word.",
+        "example_mispelled": "She stresses the last syllabe of the word.",
+        "word_en": "syllable",
+        "word_fr": "syllabe",
+        "word_franglish": "syllabe"
+    },
+    {
+        "example": "People used to travel by chariot.",
+        "example_annotated": "People used to travel by <b>chariot</b>.",
+        "example_mispelled": "People used to travel by charriot.",
+        "word_en": "chariot",
+        "word_fr": "charriot",
+        "word_franglish": "charriot"
+    },
+    {
+        "example": "If the lever sticks, I just pull harder.",
+        "example_annotated": "If the <b>lever</b> sticks, I just pull harder.",
+        "example_mispelled": "If the levier sticks, I just pull harder.",
+        "word_en": "lever",
+        "word_fr": "levier",
+        "word_franglish": "levier"
+    },
+    {
+        "example": "The literal translation of a word is sometimes not the best one.",
+        "example_annotated": "The <b>literal</b> translation of a word is sometimes not the best one.",
+        "example_mispelled": "The litteral translation of a word is sometimes not the best one.",
+        "word_en": "literal",
+        "word_fr": "littéral",
+        "word_franglish": "litteral"
+    },
+    {
+        "example": "This anniversary is also the occasion to pay homage to the generations of men and women who have worked for our company.",
+        "example_annotated": "This anniversary is also the occasion to pay <b>homage</b> to the generations of men and women who have worked for our company.",
+        "example_mispelled": "This anniversary is also the occasion to pay hommage to the generations of men and women who have worked for our company.",
+        "word_en": "homage",
+        "word_fr": "hommage",
+        "word_franglish": "hommage"
+    },
+    {
+        "example": "The shepherd took his flock to the pasture.",
+        "example_annotated": "The shepherd took his flock to the <b>pasture</b>.",
+        "example_mispelled": "The shepherd took his flock to the pature.",
+        "word_en": "pasture",
+        "word_fr": "pâture",
+        "word_franglish": "pature"
+    },
+    {
+        "example": "The government predicts an economic rebound next year.",
+        "example_annotated": "The government predicts an economic <b>rebound</b> next year.",
+        "example_mispelled": "The government predicts an economic rebond next year.",
+        "word_en": "rebound",
+        "word_fr": "rebond",
+        "word_franglish": "rebond"
+    },
+    {
+        "example": "He received an injunction from the court.",
+        "example_annotated": "He received an <b>injunction</b> from the court.",
+        "example_mispelled": "He received an injonction from the court.",
+        "word_en": "injunction",
+        "word_fr": "injonction",
+        "word_franglish": "injonction"
+    },
+    {
+        "example": "Only a doctor can prescribe antibiotics.",
+        "example_annotated": "Only a doctor can <b>prescribe</b> antibiotics.",
+        "example_mispelled": "Only a doctor can prescrire antibiotics.",
+        "word_en": "prescribe",
+        "word_fr": "prescrire",
+        "word_franglish": "prescrire"
+    },
+    {
+        "example": "A new clothing store just opened at the mall.",
+        "example_annotated": "A new clothing store just opened at the <b>mall</b>.",
+        "example_mispelled": "A new clothing store just opened at the mail.",
+        "word_en": "mall",
+        "word_fr": "mail",
+        "word_franglish": "mail"
+    },
+    {
+        "example": "Old patriarchal decision-making systems will be broken down.",
+        "example_annotated": "Old <b>patriarchal</b> decision-making systems will be broken down.",
+        "example_mispelled": "Old patriarcal decision-making systems will be broken down.",
+        "word_en": "patriarchal",
+        "word_fr": "patriarcal",
+        "word_franglish": "patriarcal"
+    },
+    {
+        "example": "It is a portmanteau word concealing or distorting reality.",
+        "example_annotated": "It is a <b>portmanteau</b> word concealing or distorting reality.",
+        "example_mispelled": "It is a portemanteau word concealing or distorting reality.",
+        "word_en": "portmanteau",
+        "word_fr": "portemanteau",
+        "word_franglish": "portemanteau"
+    },
+    {
+        "example": " I have no compunction in referring to such people as evil.",
+        "example_annotated": " I have no <b>compunction</b> in referring to such people as evil.",
+        "example_mispelled": " I have no componction in referring to such people as evil.",
+        "word_en": "compunction",
+        "word_fr": "componction",
+        "word_franglish": "componction"
+    },
+    {
+        "example": "The region has an abundance of natural resources.",
+        "example_annotated": "The region has an <b>abundance</b> of natural resources.",
+        "example_mispelled": "The region has an abondance of natural resources.",
+        "word_en": "abundance",
+        "word_fr": "abondance",
+        "word_franglish": "abondance"
+    },
+    {
+        "example": "The roof was leaking because of the broken tiles.",
+        "example_annotated": "The roof was leaking because of the broken <b>tile</b>s.",
+        "example_mispelled": "The roof was leaking because of the broken tuiles.",
+        "word_en": "tile",
+        "word_fr": "tuile",
+        "word_franglish": "tuile"
+    },
+    {
+        "example": "The ceremony is conducted by a woman rabbi and her husband, both of them American Jews.",
+        "example_annotated": "The ceremony is conducted by a woman <b>rabbi</b> and her husband, both of them American Jews.",
+        "example_mispelled": "The ceremony is conducted by a woman rabbin and her husband, both of them American Jews.",
+        "word_en": "rabbi",
+        "word_fr": "rabbin",
+        "word_franglish": "rabbin"
+    },
+    {
+        "example": "We have some endangered species called the peregrine falcon.",
+        "example_annotated": "We have some endangered species called the peregrine <b>falcon</b>.",
+        "example_mispelled": "We have some endangered species called the peregrine faucon.",
+        "word_en": "falcon",
+        "word_fr": "faucon",
+        "word_franglish": "faucon"
+    },
+    {
+        "example": "The snake's bite can be lethal.",
+        "example_annotated": "The snake's bite can be <b>lethal</b>.",
+        "example_mispelled": "The snake's bite can be letal.",
+        "word_en": "lethal",
+        "word_fr": "létal",
+        "word_franglish": "letal"
+    },
+    {
+        "example": "On the whole, however, the talks revealed the differences between the two sides to be irreconcilable.",
+        "example_annotated": "On the whole, however, the talks revealed the differences between the two sides to be <b>irreconcilable</b>.",
+        "example_mispelled": "On the whole, however, the talks revealed the differences between the two sides to be irreconciliable.",
+        "word_en": "irreconcilable",
+        "word_fr": "irréconciliable",
+        "word_franglish": "irreconciliable"
+    },
+    {
+        "example": "When military officials become more voluble than the government, we know we have a serious problem.",
+        "example_annotated": "When military officials become more <b>voluble</b> than the government, we know we have a serious problem.",
+        "example_mispelled": "When military officials become more volubile than the government, we know we have a serious problem.",
+        "word_en": "voluble",
+        "word_fr": "volubile",
+        "word_franglish": "volubile"
+    },
+    {
+        "example": "She has conflicting feelings about the vegetarian diet.",
+        "example_annotated": "She has conflicting feelings about the <b>vegetarian</b> diet.",
+        "example_mispelled": "She has conflicting feelings about the vegetarien diet.",
+        "word_en": "vegetarian",
+        "word_fr": "végétarien",
+        "word_franglish": "vegetarien"
+    },
+    {
+        "example": "The sailor looped the rope around the mast.",
+        "example_annotated": "The sailor looped the rope around the <b>mast</b>.",
+        "example_mispelled": "The sailor looped the rope around the mat.",
+        "word_en": "mast",
+        "word_fr": "mât",
+        "word_franglish": "mat"
+    },
+    {
+        "example": "I went to an international congress of historians.",
+        "example_annotated": "I went to an international congress of <b>historian</b>s.",
+        "example_mispelled": "I went to an international congress of historiens.",
+        "word_en": "historian",
+        "word_fr": "historien",
+        "word_franglish": "historien"
+    },
+    {
+        "example": "The referee called a foul and excluded the player.",
+        "example_annotated": "The referee called a foul and <b>exclude</b>d the player.",
+        "example_mispelled": "The referee called a foul and exclured the player.",
+        "word_en": "exclude",
+        "word_fr": "exclure",
+        "word_franglish": "exclure"
+    },
+    {
+        "example": "So at the end, we are again empty, poor and mendicant, ready to start all over again.",
+        "example_annotated": "So at the end, we are again empty, poor and <b>mendicant</b>, ready to start all over again.",
+        "example_mispelled": "So at the end, we are again empty, poor and mendiant, ready to start all over again.",
+        "word_en": "mendicant",
+        "word_fr": "mendiant",
+        "word_franglish": "mendiant"
+    },
+    {
+        "example": "The main parts of the instrument are the fixed vertical meridian ring.",
+        "example_annotated": "The main parts of the instrument are the fixed vertical <b>meridian</b> ring.",
+        "example_mispelled": "The main parts of the instrument are the fixed vertical meridien ring.",
+        "word_en": "meridian",
+        "word_fr": "méridien",
+        "word_franglish": "meridien"
+    }
+]
