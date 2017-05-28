@@ -4,31 +4,169 @@
 """
 Convert and load the file "connectors.json" to Anki.
 
-To run: (we consider a deck named "English" already exists)
+# Input
+
+This program accepts a JSON file containing the list of verbs in this format:
+
+ {
+   "connector_en": "afterward",
+   "connector_fr": "Par la suite",
+   "example_en": "Afterward, she got a promotion.",
+   "example_en_annotated": "[Afterward], she got a promotion.",
+   "example_fr": "Par la suite, elle a obtenu une promotion.",
+   "example_fr_annotated": "[Par la suite], elle a obtenu une promotion."
+ }
+
+# Output
+
+The program creates multiple flashcards like this:
+
+===========================================================
+<div>
+  <small class="notice" style="color: gray; font-style: italic">
+    Translate
+  </small>
+   (Grammar)
+</div>
+<br/>
+<div lang="fr">
+  <i><b>Par la suite</b>, elle a obtenu une promotion.</i>
+</div>
+-----------------------------------------------------------
+<div lang="en">
+  <i><b>Afterward</b>, she got a promotion.</i>
+</div>
+===========================================================
+
+The input could contains additional properties "example_en_question" and "example_en_answer":
+
+ {
+   "connector_en": "again",
+   "connector_fr": "à nouveau",
+   "example_en": "We are back together again.",
+   "example_en_annotated": "We are back together [again].",
+   "example_en_answer": 3,
+   "example_en_question": "We are (1) back (2) together (3).",
+   "example_fr": "Nous revenons à nouveau ensemble.",
+   "example_fr_annotated": "Nous revenons [à nouveau] ensemble."
+}
+
+An additional flashcard will be created like this:
+
+===========================================================
+<div>
+  <small class="notice" style="color: gray; font-style: italic">
+    Place
+  </small>
+  <b>again</b>
+  (Grammar)
+</div>
+<br/>
+<div lang="en">
+  <i>
+    We are <span class="placeholder" style="border-radius: 50px; background-color: gray; color: white">1</span>
+    back <span class="placeholder" style="border-radius: 50px; background-color: gray; color: white">2</span>
+    together <span class="placeholder" style="border-radius: 50px; background-color: gray; color: white">3</span>.
+  </i>
+</div>
+-----------------------------------------------------------
+<div lang="en">
+  <span class="placeholder" style="border-radius: 50px; background-color: gray; color: white">1</span>
+  <i>We are back together <b>again</b>.</i>
+</div>
+===========================================================
+
+Note: all created flashcards have the tag "PhrasalVerb"
+
+
+# Running
+
+Note: We consider a deck named "English" already exists.
 
 $ python load_connectors.py -d English \
     $PWD/connectors.json \
     AnkiTest/User\ 1/
+
+Or
+$ python load_connectors.py -d EnglishGrammar /home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/connectors.json AnkiTest/User\ 1/
+
 """
 
-import os, sys, re
-
-# Add Anki source to path
-sys.path.append("../../anki")
-from anki.storage import Collection
+import os, sys, json, re
 
 
+def load_connectors(input_file, col, deck):
 
-def escape_em(text):
-    """
-    Replace quotes around english word by HTML tags.
+    # We read the input file
+    with open(input_file) as f:
+        data = json.load(f)
 
-    Ex: ennui ''tiresome'' > ennui <em><font>tiresome</font></em>
-    """
-    return re.sub(r"''(.*?)''",
-        r'<em><font color="#39499b">\1</font></em>',
-        text)
+        for word in data:
 
+            connector_en = word["connector_en"]
+            example_en_annotated = word["example_en_annotated"]
+            example_fr_annotated = word["example_fr_annotated"]
+            example_en_highlight = example_en_annotated.replace('[', '<b>').replace(']', '</b>')
+            example_fr_highlight = example_fr_annotated.replace('[', '<b>').replace(']', '</b>')
+
+            # Card 1: French -> English
+            card_front = """
+<div>
+  <small class="notice" style="color: gray; font-style: italic">
+    Translate
+  </small>
+   (Grammar)
+</div>
+<br/>
+<div lang="fr">
+  <i>%s</i>
+</div>
+""" % example_fr_highlight
+
+            card_back = """
+<div lang="en">
+  <i>%s</i>
+</div>
+""" % example_en_highlight
+
+            add_flashcard(col, deck, card_front, card_back)
+
+            # Card 2: Place the connector
+            if "example_en_question" in word and "example_en_answer" in word:
+
+                question = word["example_en_question"]
+                answer = word["example_en_answer"]
+
+                question = question\
+                    .replace('(1)', '<span class="placeholder" style="display: inline-block; padding: 5px; border-radius: 50px; background-color: gray; color: white">1</span>')\
+                    .replace('(2)', '<span class="placeholder" style="display: inline-block; padding: 5px; border-radius: 50px; background-color: gray; color: white">2</span>')\
+                    .replace('(3)', '<span class="placeholder" style="display: inline-block; padding: 5px; border-radius: 50px; background-color: gray; color: white">3</span>')\
+                    .replace('(4)', '<span class="placeholder" style="display: inline-block; padding: 5px; border-radius: 50px; background-color: gray; color: white">4</span>')
+
+                card_front = """
+<div>
+  <small class="notice" style="color: gray; font-style: italic">
+    Place
+  </small>
+  <b>%s</b>
+  (Grammar)
+</div>
+<br/>
+<div lang="en">
+  <i>
+    %s
+  </i>
+</div>
+ """ % (connector_en, question)
+
+                card_back = """
+<span class="placeholder" style="display: inline-block; padding: 5px; border-radius: 50px; background-color: gray; color: white">%s</span><br/><br/>
+<div lang="en">
+  <i>%s</i>
+</div>
+ """ % (answer, example_en_highlight)
+
+                add_flashcard(col, deck, card_front, card_back)
 
 
 def add_flashcard(col, deck, front, back):
@@ -51,7 +189,7 @@ def add_flashcard(col, deck, front, back):
 
 
     # Set the tags (and add the new ones to the deck configuration
-    tags = "Grammar FalseFriends"
+    tags = "Grammar Connector"
     note.tags = col.tags.canonify(col.tags.split(tags))
     m = note.model()
     m['tags'] = note.tags
@@ -61,150 +199,27 @@ def add_flashcard(col, deck, front, back):
     col.addNote(note)
 
 
-def generate_flashcard(col, deck, word):
-    """
-    Unsafe method to load the word into Anki.
-    """
-
-    # Create a flashcard for the english word
-    en_name = word.name
-    partial = ""
-    color = "red"
-    if word.partial:
-        partial = "PARTIAL "
-        color = "#FF8C00" # DarkOrange
-    en_type = ""
-    if word.type:
-        en_type = " (%s)" % word.type
-
-    # Front (English->French)
-    front = """
-<small class="notice" style="color: gray; font-style: italic">
-    What means
-</small> <font color="#39499b">%s</font>%s? """ % (en_name.replace("'",""), en_type)
-
-    # Back (English->French)
-    en_definitions = ""
-    for definition in word.definitions:
-        en_definitions += "    <li>%s</li>\n" % escape_em(definition)
-    fr_definitions = ""
-    for definition in word.fr:
-        fr_name = definition['name']
-        fr_definition = definition['definition']
-        fr_type = ""
-        if definition['type']:
-            fr_type = " (%s)" % definition['type']
-        fr_definitions += "    <dt><strong>%s</strong>%s</dt>\n" % (fr_name, fr_type)
-        fr_definitions += "    <dd>%s</dd>" % escape_em(fr_definition)
-    back = """
-<ul style="text-align: left">
-%s</ul>
-<div class="falseFriends partial" style="color: %s; font-weight: bold; margin: 1em 0">
-  **%sFALSE FRIENDS**
-</div>
-""" % (en_definitions, color, partial)
-    if len(word.fr):
-        back += """
-<div class="notice">
-    <small style="color: gray; font-style: italic;">Do not confuse with:</small>
-</div>
-<dl style="text-align: left">
-%s
-</dl>""" % fr_definitions
-
-    add_flashcard(col, deck, front, back)
-
-    # Iterate over French expressions
-    for definition in word.fr:
-        fr_name = definition['name']
-        fr_definition = definition['definition']
-        fr_type = ""
-        if definition['type']:
-            fr_type = " (%s)" % definition['type']
-        front = """
-<small class="notice" style="color: gray; font-style: italic">
-    Translate
-</small> %s%s? """ % (fr_name, fr_type)
-
-        back = """
-%s
-
-<div class="falseFriends partial" style="color: %s; font-weight: bold; margin: 1em 0">
-  **%sFALSE FRIENDS**
-</div>
-<div class="notice">
-    <small style="color: gray; font-style: italic;">Do not confuse with</small>
-    <font color="#39499b">%s</font>
-</div>
-<ul style="text-align: left">
-%s</ul>
-        """ % (escape_em(fr_definition), color, partial, en_name, en_definitions)
-
-        add_flashcard(col, deck, front, back)
-
-
 
 if __name__ == "__main__":
 
-    import json
-
-    with open('/home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/connectors-with-sentences.txt', 'r') as fi:
-        words = []
-
-        for line in fi.readlines():
-            line = line.strip()
-
-            if line == "" or line.startswith("#"):
-                continue
-
-            i_comma = line.index(",")
-            i_pipe = line.index("|")
-
-            connector = line[:i_comma]
-            example_en = line[i_comma + 1:i_pipe]
-            example_fr = line[i_pipe + 1:]
-
-            words.append({
-                "connector_en": connector,
-                "connector_fr": "",
-                "example_en": example_en,
-                "example_en_question": example_en,
-                "example_en_answer": example_en,
-                "example_fr": example_fr,
-                "example_fr_annotated": example_fr,
-                "example_en_annotated": example_en,
-            })
-
-            # Card type 1: Place the connector (Grammar)
-            # Front: This (1) is the first (2)
-            # Back: This <b>connector</b> is the first.
-
-            # Card type 2:
-            # Front: <b>De fait</b>, ce projet est un échect
-            # Back: <b>In fact</b>, this project is a total failure.
-
-
-
-        with open('/home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/connectors.json', 'w') as fo:
-            json.dump(words, fo, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
-
-    sys.exit(0)
+    # Add Anki source to path
+    sys.path.append("../../anki")
+    from anki.storage import Collection
 
     import argparse, glob
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("input_file", help="Text file containing the list of false friends in xwiki syntax")
+    parser.add_argument("input_file", help="JSON file containing the connectors")
     parser.add_argument("anki_home", help="Home of your Anki installation")
     parser.add_argument("-d", "--deck", help="Name of the deck in which to create the flashcards", default="English")
     parser.add_argument("-v", "--verbose", help="Enable verbose mode", action='store_true')
     parser.set_defaults(verbose=False)
     args = parser.parse_args()
 
-    print("----------------------------------")
-    print("False Friends Loader -------------")
-    print("----------------------------------")
+    print("-------------------------------")
+    print("Connectors Loader -------------")
+    print("-------------------------------")
     print("Anki home: %s\n" % args.anki_home)
-
 
     # Load the anki collection
     cpath = os.path.join(args.anki_home, "collection.anki2")
@@ -220,27 +235,7 @@ if __name__ == "__main__":
     current_word = None
 
     # Parse input file
-    with open('/home/julien/workshop/anki-scripting/anki-vocabulary-assistant/scripts/false-friends-FR-EN.xwiki', 'r') as f:
-        for line in f.readlines():
-            line = line.strip()
-
-            # We are only interested by two types of line
-            if line.startswith("* "):  # New word
-                if current_word:  # Save previous word
-                    generate_flashcard(col, deck, current_word)
-
-                line = line[2:]
-                current_word = Word(line)
-
-            elif line.startswith("** fr : "):  # New definition
-                line = line[8:]
-                current_word.new_fr_line(line)
-
-
-    # Add the last word
-    if current_word:
-        generate_flashcard(col, deck, current_word)
-
+    load_connectors(args.input_file, col, deck)
 
     # Save the changes to DB
     col.save()
