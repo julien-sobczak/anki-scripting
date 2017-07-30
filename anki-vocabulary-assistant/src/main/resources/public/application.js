@@ -192,6 +192,13 @@ angular.module('app', ['ngSanitize'])
    * Save the currently edited JSON document before moving to the next word.
    */
   $scope.save = function() {
+    if ($scope.json.new_translation.trim().length > 0) {
+      $scope.json.translations.push({
+        text: $scope.json.new_translation,
+        include: true
+      });
+      $scope.json.new_translation = "";
+    }
     $http.put('/api/word/' + $scope.rank, $scope.json).then(function() {
         $scope.showNextWord();
     });
