@@ -45,7 +45,7 @@ class Word:
             return self.doc["audio"]["url"]
         else:
             return None
- 
+
     def abbreviated_types(self):
         """
         Return a comma-separated list of the valid types of the word.
@@ -58,7 +58,7 @@ class Word:
             return ", ".join(result)
         else:
             return None
- 
+
     def definitions_with_samples(self):
         html = ""
         for type in self.doc["types"]:
@@ -125,6 +125,8 @@ class Word:
                 if "include" in translation and translation["include"]:
                     selected_translations.append(translation["text"])
         if selected_translations:
+            # Some translations contains brackets. Ex: "[[en]] [[bonne]] [[santé]]"
+            selected_translations = [s.replace("[[", "").replace("]]", "") for s in selected_translations]
             return ", ".join(selected_translations)
         else:
             return None
@@ -169,7 +171,18 @@ class Word:
 
 
     def has_image_card(self):
-        return "card_image" in self.doc and self.doc["card_image"]
+        if "card_image" not in self.doc:
+            return False
+
+        if not self.doc["card_image"]:
+            return False
+
+        # If the attribute is true, we need to check a picture is selected
+        if "images" in self.doc:
+            for image in self.doc["images"]:
+                if "include" in image and image["include"]:
+                    return True
+        return False
 
     def has_definition_card(self):
         for type in self.doc["types"]:
