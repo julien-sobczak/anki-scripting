@@ -192,7 +192,10 @@ angular.module('app', ['ngSanitize'])
    * Save the currently edited JSON document before moving to the next word.
    */
   $scope.save = function() {
-    if ($scope.json.new_translation.trim().length > 0) {
+    if ($scope.json.new_translation && $scope.json.new_translation.trim().length > 0) {
+      if (!$scope.json.translations) {
+        $scope.json.translations = [];
+      }
       $scope.json.translations.push({
         text: $scope.json.new_translation,
         include: true
@@ -214,6 +217,8 @@ angular.module('app', ['ngSanitize'])
 
   // Assign hotkeys
   $document.bind("keypress", function(event) {
+    if (event.target.nodeName === "INPUT" && event.target.type === "text") return;
+
     code = event.charCode || event.keyCode;
     //console.log(code);
     switch (code) {
