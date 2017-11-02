@@ -81,7 +81,7 @@
                     <li ng-repeat="translation in json.translations">
                         <div class="focusable">
                             <input id="tra-{{$index}}" type="checkbox" ng-click="translation.include = !translation.include" ng-checked="translation.include" my-selectable />
-                            <label for="tra-{{$index}}">{{translation.text}}</label>
+                            <label for="tra-{{$index}}">{{translation.text}}</label> <img src="images/translate-logo.png" ng-if="json.google_translate" width="25" />
                         </div>
                     </li>
                     <li>
