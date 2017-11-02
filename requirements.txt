@@ -4,3 +4,4 @@ PyAudio==0.2.9
 python-Levenshtein==0.12.0
 requests==2.13.0
 Unidecode==0.4.20
+googletrans
