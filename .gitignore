@@ -3,10 +3,9 @@ target/
 .idea
 .classpath
 .settings/
-anki-usecase-enfrequency/resources/mywiktionary.xml
+/anki-usecase-enfrequency/resources/mywiktionary.xml
 /anki-vocabulary-assistant/save/
 /anki-vocabulary-assistant/scripts/AnkiModel/User 1/backups/
 /anki-vocabulary-assistant/scripts/AnkiTest/
-!/anki-vocabulary-assistant/save/*.tar.gz
-/venv/
 /anki-vocabulary-assistant/run.sh
+/venv/
