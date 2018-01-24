@@ -54,11 +54,11 @@ angular.module('app', ['ngSanitize'])
         } else {
             continue; // ignore
         }
-        type.include = true;
+        type.include = i < 2 ? true : false;
         for (var j = 0; j < type.definitions.length; j++) {
             definition = type.definitions[j];
             var outdated = definition.text.indexOf('archaic') !== -1 || definition.text.indexOf('dated') !== -1; // ignore old definitions
-            definition.include = !outdated && i < 3 && j < 3; // Keep only 6 first definitions for 3 first types
+            definition.include = !outdated && i < 2 && j < 2; // Keep only the first definitions for 3 first types
             if (definition.quotations && definition.quotations.length > 0) {
                 quotations = definition.quotations;
                 definition.quotations = [];
@@ -146,6 +146,13 @@ angular.module('app', ['ngSanitize'])
 
   }
 
+  function callGoogleTranslate() {
+    // The link URL use databinding. Wait for the render loop to execute.
+    window.setTimeout(() => {
+      document.getElementById('googleTranslateLink').click()
+    }, 500);    
+  }
+
   /*
    * Main method to display a word content.
    */
@@ -154,7 +161,8 @@ angular.module('app', ['ngSanitize'])
     $http.get('/api/word/' + rank).then(function(json) {
       $scope.json = json.data;
       $scope.word = $scope.json.title;
-      precheck($scope.json);
+      precheck($scope.json); 
+      callGoogleTranslate();
       startTimer();
     })
 
