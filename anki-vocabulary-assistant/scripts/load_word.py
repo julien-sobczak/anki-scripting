@@ -299,7 +299,7 @@ def load(col, filepath, deck_name):
             note.fields[anki_fields.index(field)] = value
 
         # Set the tags (and add the new ones to the deck configuration
-        tags = "word"
+        tags = "word word-" + str((word.rank() + 1000) // 1000) + '000'
         note.tags = col.tags.canonify(col.tags.split(tags))
         m = note.model()
         m['tags'] = note.tags
