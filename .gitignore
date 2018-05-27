@@ -9,3 +9,4 @@ target/
 /anki-vocabulary-assistant/scripts/AnkiTest/
 /anki-vocabulary-assistant/run.sh
 /venv/
+anki-vocabulary-assistant/archives
