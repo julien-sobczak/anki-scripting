@@ -9,7 +9,7 @@ import os, json, shutil, sys, re
 # Add Anki source to path
 sys.path.append("../../anki")
 from anki.storage import Collection
-
+import anki.sched
 
 class Word:
     """
