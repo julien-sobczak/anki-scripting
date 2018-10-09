@@ -1,6 +1,7 @@
 target/
 *.pyc
 .idea
+.vscode/
 .classpath
 .settings/
 /anki-usecase-enfrequency/resources/mywiktionary.xml
@@ -9,4 +10,5 @@ target/
 /anki-vocabulary-assistant/scripts/AnkiTest/
 /anki-vocabulary-assistant/run.sh
 /venv/
+/env/
 anki-vocabulary-assistant/archives
